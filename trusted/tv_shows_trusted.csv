@@ -1,0 +1,3208 @@
+ID,Title,Year,Age,Netflix,Hulu,Prime Video,Disney+,imdb_100,rottenTomatoes_100
+1,Breaking Bad,2008,18+,SIM,NÃO,NÃO,NÃO,94.0,100.0
+2,Stranger Things,2016,16+,SIM,NÃO,NÃO,NÃO,87.0,96.0
+3,Attack on Titan,2013,18+,SIM,SIM,NÃO,NÃO,90.0,95.0
+4,Better Call Saul,2015,18+,SIM,NÃO,NÃO,NÃO,88.0,94.0
+5,Dark,2017,16+,SIM,NÃO,NÃO,NÃO,88.0,93.0
+6,Avatar: The Last Airbender,2005,7+,SIM,NÃO,SIM,NÃO,93.0,93.0
+7,Peaky Blinders,2013,18+,SIM,NÃO,NÃO,NÃO,88.0,93.0
+8,The Walking Dead,2010,18+,SIM,NÃO,NÃO,NÃO,82.0,93.0
+9,Black Mirror,2011,18+,SIM,NÃO,NÃO,NÃO,88.0,92.0
+10,The Queen's Gambit,2020,18+,SIM,NÃO,NÃO,NÃO,86.0,92.0
+11,Mindhunter,2017,18+,SIM,NÃO,NÃO,NÃO,86.0,90.0
+12,Community,2009,7+,SIM,SIM,SIM,NÃO,85.0,90.0
+13,Narcos,2015,18+,SIM,NÃO,NÃO,NÃO,88.0,90.0
+14,Shameless,2011,18+,SIM,SIM,SIM,NÃO,85.0,90.0
+15,Money Heist,2017,18+,SIM,NÃO,NÃO,NÃO,83.0,90.0
+16,Marvel's Daredevil,2015,18+,SIM,NÃO,NÃO,NÃO,86.0,90.0
+17,Lucifer,2016,16+,SIM,NÃO,NÃO,NÃO,81.0,90.0
+18,Supernatural,2005,16+,SIM,NÃO,NÃO,NÃO,84.0,89.0
+19,The Witcher,2019,18+,SIM,NÃO,NÃO,NÃO,82.0,89.0
+20,Ozark,2017,18+,SIM,NÃO,NÃO,NÃO,84.0,89.0
+21,The Crown,2016,18+,SIM,NÃO,NÃO,NÃO,86.0,89.0
+22,Cobra Kai,2018,16+,SIM,NÃO,NÃO,NÃO,86.0,89.0
+23,The Blacklist,2013,16+,SIM,NÃO,NÃO,NÃO,80.0,88.0
+24,The Flash,2014,16+,SIM,NÃO,NÃO,NÃO,76.0,88.0
+25,Outlander,2014,18+,SIM,NÃO,NÃO,NÃO,84.0,88.0
+26,Fullmetal Alchemist: Brotherhood,2009,16+,SIM,SIM,NÃO,NÃO,91.0,88.0
+27,The Good Place,2016,16+,SIM,NÃO,NÃO,NÃO,82.0,88.0
+28,House of Cards,2013,18+,SIM,NÃO,NÃO,NÃO,87.0,88.0
+29,Atypical,2017,16+,SIM,NÃO,NÃO,NÃO,83.0,88.0
+30,Grey's Anatomy,2005,16+,SIM,SIM,NÃO,NÃO,75.0,87.0
+31,Arrested Development,2003,16+,SIM,SIM,NÃO,NÃO,87.0,87.0
+32,Lupin,2021,18+,SIM,NÃO,NÃO,NÃO,75.0,87.0
+33,The Umbrella Academy,2019,16+,SIM,NÃO,NÃO,NÃO,80.0,87.0
+34,Orange Is the New Black,2013,18+,SIM,NÃO,NÃO,NÃO,80.0,87.0
+35,The Vampire Diaries,2009,16+,SIM,NÃO,NÃO,NÃO,77.0,86.0
+36,Demon Slayer: Kimetsu no Yaiba,2019,18+,SIM,SIM,NÃO,NÃO,87.0,86.0
+37,The Last Dance,2020,16+,SIM,NÃO,NÃO,NÃO,91.0,86.0
+38,American Horror Story,2011,18+,SIM,SIM,SIM,NÃO,80.0,86.0
+39,Elite,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,86.0
+40,BoJack Horseman,2014,18+,SIM,NÃO,NÃO,NÃO,87.0,86.0
+41,Star Trek: The Next Generation,1987,7+,SIM,SIM,SIM,NÃO,86.0,86.0
+42,Broadchurch,2013,18+,SIM,NÃO,NÃO,NÃO,84.0,86.0
+43,The IT Crowd,2006,16+,SIM,NÃO,NÃO,NÃO,85.0,86.0
+44,When They See Us,2019,18+,SIM,NÃO,NÃO,NÃO,89.0,86.0
+45,"Love, Death & Robots",2019,18+,SIM,NÃO,NÃO,NÃO,85.0,86.0
+46,Schitt's Creek,2015,16+,SIM,NÃO,NÃO,NÃO,85.0,86.0
+47,Marvel's Agents of S.H.I.E.L.D.,2013,16+,SIM,NÃO,NÃO,NÃO,75.0,86.0
+48,Never Have I Ever,2020,16+,SIM,NÃO,NÃO,NÃO,79.0,86.0
+49,The 100,2014,16+,SIM,NÃO,NÃO,NÃO,76.0,86.0
+50,American Crime Story,2016,18+,SIM,NÃO,NÃO,NÃO,84.0,85.0
+51,The Last Kingdom,2015,18+,SIM,NÃO,NÃO,NÃO,84.0,85.0
+52,The End of the F***ing World,2017,18+,SIM,NÃO,NÃO,NÃO,81.0,85.0
+53,New Girl,2011,16+,SIM,NÃO,NÃO,NÃO,77.0,85.0
+54,Penny Dreadful,2014,18+,SIM,NÃO,SIM,NÃO,82.0,85.0
+55,One Piece,1999,7+,SIM,SIM,NÃO,NÃO,88.0,85.0
+56,Marvel's The Punisher,2017,18+,SIM,NÃO,NÃO,NÃO,85.0,85.0
+57,Evil,2019,18+,SIM,NÃO,NÃO,NÃO,77.0,85.0
+58,YOU,2018,18+,SIM,NÃO,NÃO,NÃO,77.0,85.0
+59,Sense8,2015,18+,SIM,NÃO,NÃO,NÃO,83.0,84.0
+60,Making a Murderer,2015,16+,SIM,NÃO,NÃO,NÃO,86.0,84.0
+61,Unbelievable,2019,18+,SIM,NÃO,NÃO,NÃO,84.0,84.0
+62,Arrow,2012,16+,SIM,NÃO,NÃO,NÃO,75.0,84.0
+63,Sex Education,2019,18+,SIM,NÃO,NÃO,NÃO,83.0,84.0
+64,Marvel's Jessica Jones,2015,18+,SIM,NÃO,NÃO,NÃO,79.0,84.0
+65,Sweet Tooth,2021,16+,SIM,NÃO,NÃO,NÃO,79.0,84.0
+66,Good Girls,2018,16+,SIM,SIM,NÃO,NÃO,78.0,84.0
+67,Death Note,2006,16+,SIM,SIM,NÃO,NÃO,90.0,84.0
+68,Gilmore Girls,2000,16+,SIM,NÃO,NÃO,NÃO,81.0,84.0
+69,The Legend of Korra,2012,7+,SIM,NÃO,NÃO,NÃO,84.0,83.0
+70,How to Get Away with Murder,2014,16+,SIM,SIM,NÃO,NÃO,81.0,83.0
+71,Master of None,2015,18+,SIM,NÃO,NÃO,NÃO,83.0,83.0
+72,Chappelle's Show,2003,18+,SIM,NÃO,NÃO,NÃO,87.0,83.0
+73,One-Punch Man,2015,7+,SIM,SIM,NÃO,NÃO,88.0,83.0
+74,Downton Abbey,2010,16+,SIM,NÃO,SIM,NÃO,87.0,83.0
+75,Gotham,2014,16+,SIM,NÃO,NÃO,NÃO,78.0,83.0
+76,Pose,2018,18+,SIM,NÃO,NÃO,NÃO,86.0,83.0
+77,Bodyguard,2018,18+,SIM,NÃO,NÃO,NÃO,81.0,83.0
+78,Altered Carbon,2018,18+,SIM,NÃO,NÃO,NÃO,80.0,83.0
+79,Ash vs Evil Dead,2015,18+,SIM,NÃO,NÃO,NÃO,84.0,83.0
+80,The Sinner,2017,16+,SIM,NÃO,NÃO,NÃO,79.0,83.0
+81,Our Planet,2019,all,SIM,NÃO,NÃO,NÃO,93.0,82.0
+82,Narcos: Mexico,2018,18+,SIM,NÃO,NÃO,NÃO,84.0,82.0
+83,Shadow and Bone,2021,16+,SIM,NÃO,NÃO,NÃO,77.0,82.0
+84,Castlevania,2017,18+,SIM,NÃO,NÃO,NÃO,83.0,82.0
+85,Star Trek,1966,7+,SIM,SIM,SIM,NÃO,83.0,82.0
+86,The Kominsky Method,2018,18+,SIM,NÃO,NÃO,NÃO,82.0,82.0
+87,Hunter x Hunter,2011,16+,SIM,SIM,NÃO,NÃO,90.0,82.0
+88,Dead to Me,2019,18+,SIM,NÃO,NÃO,NÃO,80.0,82.0
+89,The Haunting of Hill House,2018,18+,SIM,NÃO,NÃO,NÃO,86.0,82.0
+90,Russian Doll,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,82.0
+91,Kingdom,2019,18+,SIM,SIM,NÃO,NÃO,84.0,82.0
+92,Neon Genesis Evangelion,1995,16+,SIM,NÃO,NÃO,NÃO,85.0,82.0
+93,Naruto,2002,7+,SIM,SIM,NÃO,NÃO,83.0,81.0
+94,NCIS,2003,16+,SIM,NÃO,NÃO,NÃO,77.0,81.0
+95,Manifest,2018,16+,SIM,SIM,NÃO,NÃO,72.0,81.0
+96,Halt and Catch Fire,2014,16+,SIM,NÃO,NÃO,NÃO,84.0,81.0
+97,Monty Python's Flying Circus,1969,16+,SIM,NÃO,NÃO,NÃO,88.0,81.0
+98,After Life,2019,18+,SIM,NÃO,NÃO,NÃO,84.0,81.0
+99,Riverdale,2017,16+,SIM,SIM,NÃO,NÃO,68.0,81.0
+100,Big Mouth,2017,18+,SIM,NÃO,NÃO,NÃO,79.0,81.0
+101,I Think You Should Leave with Tim Robinson,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,81.0
+102,Derry Girls,2018,16+,SIM,NÃO,NÃO,NÃO,84.0,81.0
+103,The Promised Neverland,2019,18+,SIM,SIM,NÃO,NÃO,85.0,81.0
+104,Lost in Space,2018,7+,SIM,SIM,NÃO,NÃO,73.0,80.0
+105,Star Trek: Deep Space Nine,1993,7+,SIM,SIM,SIM,NÃO,80.0,80.0
+106,Jane the Virgin,2014,16+,SIM,NÃO,NÃO,NÃO,78.0,80.0
+107,Godless,2017,18+,SIM,NÃO,NÃO,NÃO,83.0,80.0
+108,The OA,2016,18+,SIM,NÃO,NÃO,NÃO,78.0,80.0
+109,DC's Legends of Tomorrow,2016,16+,SIM,NÃO,NÃO,NÃO,68.0,80.0
+110,Sacred Games,2018,18+,SIM,NÃO,NÃO,NÃO,86.0,80.0
+111,iZombie,2015,16+,SIM,NÃO,NÃO,NÃO,78.0,80.0
+112,Longmire,2012,16+,SIM,NÃO,NÃO,NÃO,83.0,80.0
+113,Happy Endings,2011,16+,SIM,SIM,NÃO,NÃO,77.0,80.0
+114,Into the Badlands,2015,16+,SIM,NÃO,NÃO,NÃO,80.0,80.0
+115,The Originals,2013,16+,SIM,NÃO,NÃO,NÃO,82.0,80.0
+116,Anne with an E,2017,all,SIM,NÃO,NÃO,NÃO,87.0,80.0
+117,Grace and Frankie,2015,18+,SIM,NÃO,NÃO,NÃO,83.0,80.0
+118,Chilling Adventures of Sabrina,2018,16+,SIM,NÃO,NÃO,NÃO,75.0,80.0
+119,Queen of the South,2016,16+,SIM,NÃO,NÃO,NÃO,80.0,79.0
+120,A Series of Unfortunate Events,2017,7+,SIM,NÃO,NÃO,NÃO,78.0,79.0
+122,Unorthodox,2020,18+,SIM,NÃO,NÃO,NÃO,80.0,79.0
+123,Stargate SG-1,1997,13+,SIM,SIM,NÃO,NÃO,84.0,79.0
+124,Outer Banks,2020,18+,SIM,NÃO,NÃO,NÃO,76.0,79.0
+125,13 Reasons Why,2017,18+,SIM,NÃO,NÃO,NÃO,76.0,79.0
+126,Unbreakable Kimmy Schmidt,2015,16+,SIM,NÃO,NÃO,NÃO,76.0,79.0
+127,Marvel's Luke Cage,2016,18+,SIM,NÃO,NÃO,NÃO,73.0,79.0
+128,GLOW,2017,18+,SIM,NÃO,NÃO,NÃO,80.0,79.0
+129,Borgen,2010,18+,SIM,NÃO,NÃO,NÃO,85.0,79.0
+130,The 4400,2004,7+,SIM,NÃO,NÃO,NÃO,73.0,79.0
+131,Alias Grace,2017,18+,SIM,NÃO,NÃO,NÃO,77.0,79.0
+132,All American,2018,16+,SIM,NÃO,NÃO,NÃO,77.0,79.0
+133,Santa Clarita Diet,2017,18+,SIM,NÃO,NÃO,NÃO,78.0,79.0
+134,Reign,2013,16+,SIM,NÃO,NÃO,NÃO,75.0,78.0
+135,Maniac,2018,18+,SIM,NÃO,NÃO,NÃO,78.0,78.0
+136,Dark Matter,2015,18+,SIM,NÃO,SIM,NÃO,75.0,78.0
+137,Star Trek: Voyager,1995,7+,SIM,SIM,SIM,NÃO,78.0,78.0
+138,"Tiger King: Murder, Mayhem and Madness",2020,18+,SIM,NÃO,NÃO,NÃO,76.0,78.0
+139,Call the Midwife,2012,16+,SIM,NÃO,NÃO,NÃO,84.0,78.0
+140,Queer Eye,2018,16+,SIM,NÃO,NÃO,NÃO,85.0,78.0
+141,American Vandal,2017,16+,SIM,NÃO,NÃO,NÃO,82.0,78.0
+142,Wynonna Earp,2016,16+,SIM,NÃO,NÃO,NÃO,75.0,78.0
+143,Marvel's The Defenders,2017,18+,SIM,NÃO,NÃO,NÃO,73.0,78.0
+144,HAPPY!,2017,18+,SIM,NÃO,NÃO,NÃO,82.0,77.0
+145,Haikyu!!,2014,16+,SIM,SIM,NÃO,NÃO,87.0,77.0
+146,Colony,2016,16+,SIM,NÃO,NÃO,NÃO,74.0,77.0
+147,Heartland,2007,7+,SIM,NÃO,SIM,NÃO,84.0,77.0
+148,Alone,2015,16+,SIM,SIM,NÃO,NÃO,84.0,77.0
+149,Marco Polo,2014,18+,SIM,NÃO,SIM,NÃO,80.0,77.0
+150,Wild Wild Country,2018,16+,SIM,NÃO,NÃO,NÃO,81.0,77.0
+151,The Dragon Prince,2018,7+,SIM,NÃO,NÃO,NÃO,84.0,77.0
+152,Locke & Key,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,77.0
+153,Love,2016,18+,SIM,NÃO,NÃO,NÃO,77.0,77.0
+154,One Day at a Time,2017,7+,SIM,NÃO,NÃO,NÃO,82.0,77.0
+155,Feel Good,2020,18+,SIM,NÃO,NÃO,NÃO,75.0,77.0
+156,Fauda,2015,16+,SIM,NÃO,NÃO,NÃO,82.0,77.0
+157,The Dark Crystal: Age of Resistance,2019,7+,SIM,NÃO,NÃO,NÃO,84.0,77.0
+158,Top Boy,2011,18+,SIM,NÃO,NÃO,NÃO,84.0,77.0
+159,I Am Not Okay with This,2020,18+,SIM,NÃO,NÃO,NÃO,75.0,77.0
+160,Supergirl,2015,16+,SIM,NÃO,NÃO,NÃO,62.0,77.0
+161,The Shannara Chronicles,2016,16+,SIM,NÃO,NÃO,NÃO,72.0,77.0
+162,Designated Survivor,2016,7+,SIM,NÃO,NÃO,NÃO,75.0,77.0
+163,Travelers,2016,16+,SIM,NÃO,NÃO,NÃO,81.0,77.0
+164,StartUp,2016,18+,SIM,NÃO,NÃO,NÃO,79.0,77.0
+165,Ripper Street,2012,18+,SIM,NÃO,NÃO,NÃO,81.0,77.0
+166,Episodes,2011,18+,SIM,NÃO,NÃO,NÃO,78.0,77.0
+167,Crazy Ex-Girlfriend,2015,16+,SIM,NÃO,NÃO,NÃO,78.0,76.0
+168,Bloodline,2015,18+,SIM,NÃO,NÃO,NÃO,79.0,76.0
+169,Black Summer,2019,18+,SIM,NÃO,NÃO,NÃO,65.0,76.0
+170,The Borgias,2011,18+,SIM,NÃO,NÃO,NÃO,79.0,76.0
+171,Glee,2009,16+,SIM,NÃO,SIM,NÃO,67.0,76.0
+172,The Stranger,2020,18+,SIM,NÃO,NÃO,NÃO,73.0,76.0
+173,Virgin River,2019,16+,SIM,NÃO,NÃO,NÃO,74.0,76.0
+174,Lilyhammer,2012,18+,SIM,NÃO,NÃO,NÃO,80.0,76.0
+175,Dirty John,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,76.0
+176,TURN: Washington's Spies,2014,16+,SIM,NÃO,NÃO,NÃO,81.0,76.0
+177,Star Trek: Enterprise,2001,7+,SIM,SIM,SIM,NÃO,75.0,76.0
+178,She-Ra and the Princesses of Power,2018,all,SIM,NÃO,NÃO,NÃO,79.0,75.0
+179,Merlin,2008,7+,SIM,SIM,SIM,NÃO,79.0,75.0
+180,The Magicians,2015,16+,SIM,NÃO,NÃO,NÃO,76.0,75.0
+181,Ginny & Georgia,2021,16+,SIM,NÃO,NÃO,NÃO,75.0,75.0
+182,The Spy,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,75.0
+183,On My Block,2018,16+,SIM,NÃO,NÃO,NÃO,80.0,75.0
+184,The Movies That Made Us,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,75.0
+185,Chef's Table,2015,all,SIM,NÃO,NÃO,NÃO,85.0,75.0
+186,Biohackers,2020,18+,SIM,NÃO,NÃO,NÃO,68.0,75.0
+187,The Seven Deadly Sins,2014,16+,SIM,NÃO,NÃO,NÃO,80.0,75.0
+188,The Keepers,2017,16+,SIM,NÃO,NÃO,NÃO,81.0,75.0
+189,F is for Family,2015,18+,SIM,NÃO,NÃO,NÃO,80.0,74.0
+190,The Midnight Gospel,2020,18+,SIM,NÃO,NÃO,NÃO,82.0,74.0
+191,Ragnarok,2020,18+,SIM,NÃO,SIM,NÃO,75.0,74.0
+192,Legacies,2018,16+,SIM,NÃO,NÃO,NÃO,74.0,74.0
+193,The Order,2019,18+,SIM,NÃO,NÃO,NÃO,68.0,74.0
+194,Disenchantment,2018,16+,SIM,NÃO,NÃO,NÃO,72.0,74.0
+195,Dead Set,2008,18+,SIM,NÃO,NÃO,NÃO,76.0,74.0
+196,Dirty Money,2018,16+,SIM,NÃO,NÃO,NÃO,81.0,74.0
+197,The Staircase,2005,16+,SIM,NÃO,NÃO,NÃO,79.0,74.0
+198,Soul Eater,2008,16+,SIM,SIM,NÃO,NÃO,78.0,74.0
+199,Into the Night,2020,18+,SIM,NÃO,NÃO,NÃO,71.0,74.0
+201,Julie and the Phantoms,2020,7+,SIM,NÃO,NÃO,NÃO,85.0,74.0
+202,Leyla ile Mecnun,2011,7+,SIM,NÃO,NÃO,NÃO,91.0,74.0
+203,Living with Yourself,2019,18+,SIM,NÃO,NÃO,NÃO,72.0,74.0
+205,Hilda,2018,7+,SIM,NÃO,NÃO,NÃO,86.0,74.0
+206,The Mechanism,2018,18+,SIM,NÃO,NÃO,NÃO,84.0,74.0
+207,ERASED,2016,16+,SIM,SIM,NÃO,NÃO,85.0,74.0
+208,Formula 1: Drive to Survive,2019,16+,SIM,NÃO,NÃO,NÃO,86.0,74.0
+209,Don't F**k with Cats: Hunting an Internet Killer,2019,18+,SIM,NÃO,NÃO,NÃO,80.0,74.0
+210,Kim's Convenience,2016,16+,SIM,NÃO,NÃO,NÃO,82.0,73.0
+211,The Society,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,73.0
+212,Imposters,2017,16+,SIM,NÃO,NÃO,NÃO,78.0,73.0
+213,Frequency,2016,7+,SIM,NÃO,SIM,NÃO,75.0,73.0
+214,Wentworth,2013,18+,SIM,NÃO,NÃO,NÃO,86.0,73.0
+215,Marvel's Iron Fist,2017,18+,SIM,NÃO,NÃO,NÃO,65.0,73.0
+216,Bleach,2004,18+,SIM,SIM,NÃO,NÃO,81.0,73.0
+217,Quantico,2015,16+,SIM,NÃO,NÃO,NÃO,67.0,73.0
+218,Shooter,2016,16+,SIM,NÃO,NÃO,NÃO,75.0,73.0
+219,Pokémon,1997,7+,SIM,SIM,SIM,NÃO,75.0,73.0
+220,Hollywood,2020,18+,SIM,NÃO,NÃO,NÃO,75.0,73.0
+221,Madam Secretary,2014,16+,SIM,NÃO,NÃO,NÃO,76.0,73.0
+222,Last Tango in Halifax,2012,16+,SIM,NÃO,NÃO,NÃO,83.0,73.0
+223,Safe,2018,18+,SIM,SIM,NÃO,NÃO,73.0,73.0
+224,Resurrection: Ertugrul,2014,16+,SIM,NÃO,NÃO,NÃO,80.0,73.0
+225,Versailles,2015,18+,SIM,NÃO,NÃO,NÃO,79.0,73.0
+226,Sex/Life,2021,18+,SIM,NÃO,NÃO,NÃO,54.0,73.0
+227,Fullmetal Alchemist,2003,16+,SIM,NÃO,NÃO,NÃO,85.0,73.0
+228,Marianne,2019,18+,SIM,NÃO,NÃO,NÃO,75.0,73.0
+229,Five Came Back,2017,16+,SIM,NÃO,NÃO,NÃO,83.0,73.0
+230,Miraculous: Tales of Ladybug & Cat Noir,2015,7+,SIM,NÃO,NÃO,NÃO,77.0,73.0
+231,Abstract: The Art of Design,2017,16+,SIM,NÃO,NÃO,NÃO,84.0,73.0
+232,Teenage Bounty Hunters,2020,18+,SIM,NÃO,NÃO,NÃO,77.0,72.0
+233,Documentary Now!,2015,18+,SIM,NÃO,NÃO,NÃO,81.0,72.0
+234,Special,2019,18+,SIM,NÃO,NÃO,NÃO,76.0,72.0
+235,JoJo's Bizarre Adventure,2012,18+,SIM,SIM,NÃO,NÃO,84.0,72.0
+236,Manhunt,2017,16+,SIM,NÃO,NÃO,NÃO,81.0,72.0
+237,Your Lie in April,2014,7+,SIM,SIM,NÃO,NÃO,86.0,72.0
+238,Code Geass: Lelouch of the Rebellion,2006,18+,SIM,NÃO,NÃO,NÃO,87.0,72.0
+239,Middleditch & Schwartz,2020,18+,SIM,NÃO,NÃO,NÃO,86.0,72.0
+240,Zoo,2015,16+,SIM,NÃO,NÃO,NÃO,67.0,72.0
+241,Jupiters Legacy,2021,18+,SIM,NÃO,NÃO,NÃO,67.0,72.0
+242,Ratched,2020,18+,SIM,NÃO,NÃO,NÃO,73.0,72.0
+243,Babylon Berlin,2017,18+,SIM,NÃO,NÃO,NÃO,84.0,72.0
+245,Everything Sucks!,2018,16+,SIM,NÃO,NÃO,NÃO,75.0,72.0
+246,Evil Genius,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,72.0
+247,Doctor Foster,2015,16+,SIM,NÃO,NÃO,NÃO,77.0,72.0
+248,Marcella,2016,18+,SIM,NÃO,NÃO,NÃO,74.0,72.0
+249,Survivor,2000,7+,SIM,SIM,SIM,NÃO,72.0,72.0
+250,Derek,2013,7+,SIM,NÃO,NÃO,NÃO,80.0,72.0
+252,3%,2016,18+,SIM,NÃO,NÃO,NÃO,74.0,72.0
+253,Tuca & Bertie,2019,18+,SIM,NÃO,NÃO,NÃO,74.0,72.0
+255,Parasyte -the maxim-,2014,18+,SIM,SIM,NÃO,NÃO,83.0,72.0
+256,Last Chance U,2016,16+,SIM,NÃO,NÃO,NÃO,84.0,71.0
+257,Trailer Park Boys,2001,18+,SIM,NÃO,NÃO,NÃO,85.0,71.0
+258,Black Lightning,2018,16+,SIM,NÃO,NÃO,NÃO,61.0,71.0
+259,Chicago Med,2015,16+,SIM,SIM,NÃO,NÃO,76.0,71.0
+260,How to Sell Drugs Online (Fast),2019,18+,SIM,NÃO,NÃO,NÃO,79.0,71.0
+261,Secret City,2016,18+,SIM,NÃO,NÃO,NÃO,74.0,71.0
+262,Dynasty,2017,16+,SIM,NÃO,NÃO,NÃO,73.0,71.0
+263,Dracula,2020,18+,SIM,NÃO,NÃO,NÃO,68.0,71.0
+265,Space Force,2020,18+,SIM,NÃO,NÃO,NÃO,67.0,71.0
+266,Pretend It's a City,2021,16+,SIM,NÃO,NÃO,NÃO,81.0,71.0
+267,Masters of the Universe: Revelation,2021,7+,SIM,NÃO,NÃO,NÃO,49.0,71.0
+268,iCarly,2007,all,SIM,NÃO,NÃO,NÃO,67.0,71.0
+269,Who Killed Sara?,2021,18+,SIM,NÃO,NÃO,NÃO,64.0,71.0
+270,Sword Art Online,2012,18+,SIM,SIM,NÃO,NÃO,76.0,71.0
+271,Paranormal,2020,7+,SIM,NÃO,NÃO,NÃO,85.0,71.0
+273,Frontier,2016,18+,SIM,NÃO,NÃO,NÃO,72.0,71.0
+274,The Politician,2019,16+,SIM,NÃO,NÃO,NÃO,75.0,71.0
+275,Raising Dion,2019,7+,SIM,NÃO,NÃO,NÃO,72.0,71.0
+276,Food Wars! Shokugeki no Soma,2015,18+,SIM,SIM,NÃO,NÃO,82.0,71.0
+277,Crash Landing on You,2019,16+,SIM,NÃO,NÃO,NÃO,87.0,71.0
+278,Seven Seconds,2018,18+,SIM,NÃO,NÃO,NÃO,77.0,71.0
+279,The Great British Bake Off,2010,7+,SIM,NÃO,NÃO,NÃO,85.0,70.0
+280,Wizards: Tales of Arcadia,2020,7+,SIM,NÃO,NÃO,NÃO,82.0,70.0
+281,Conversations with a Killer: The Ted Bundy Tapes,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,70.0
+283,Fate: The Winx Saga,2021,18+,SIM,NÃO,NÃO,NÃO,69.0,70.0
+284,The Circle,2020,18+,SIM,NÃO,SIM,NÃO,73.0,70.0
+285,Cheer,2020,16+,SIM,NÃO,NÃO,NÃO,81.0,70.0
+286,Hemlock Grove,2013,18+,SIM,NÃO,NÃO,NÃO,71.0,70.0
+287,Transformers: War for Cybertron: Siege,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,70.0
+288,Explained,2018,16+,SIM,NÃO,NÃO,NÃO,80.0,70.0
+289,Messiah,2020,18+,SIM,NÃO,NÃO,NÃO,76.0,70.0
+290,Sky Rojo,2021,18+,SIM,NÃO,NÃO,NÃO,65.0,70.0
+291,Bonding,2019,18+,SIM,NÃO,NÃO,NÃO,72.0,70.0
+292,I'm Sorry,2017,7+,SIM,NÃO,NÃO,NÃO,80.0,70.0
+293,Katla,2021,18+,SIM,NÃO,NÃO,NÃO,71.0,70.0
+294,It's Okay to Not Be Okay,2020,16+,SIM,NÃO,NÃO,NÃO,88.0,70.0
+295,Forensic Files,1996,16+,SIM,SIM,SIM,NÃO,88.0,70.0
+296,Workin' Moms,2017,18+,SIM,NÃO,NÃO,NÃO,76.0,70.0
+297,The Toys That Made Us,2017,16+,SIM,NÃO,NÃO,NÃO,81.0,70.0
+298,The Devil Next Door,2019,18+,SIM,NÃO,NÃO,NÃO,76.0,70.0
+299,Kipo and the Age of Wonderbeasts,2020,7+,SIM,NÃO,NÃO,NÃO,84.0,70.0
+300,"Roswell, New Mexico",2019,16+,SIM,NÃO,NÃO,NÃO,62.0,70.0
+301,Night Stalker: The Hunt For a Serial Killer,2021,18+,SIM,NÃO,NÃO,NÃO,75.0,70.0
+302,Glitch,2015,16+,SIM,NÃO,NÃO,NÃO,73.0,70.0
+303,Great Pretender,2020,18+,SIM,NÃO,NÃO,NÃO,80.0,69.0
+304,InuYasha,2000,16+,SIM,SIM,NÃO,NÃO,79.0,69.0
+305,In the Dark,2019,16+,SIM,NÃO,NÃO,NÃO,75.0,69.0
+306,GHOUL,2018,18+,SIM,NÃO,NÃO,NÃO,71.0,69.0
+307,Nailed It!,2018,7+,SIM,NÃO,NÃO,NÃO,74.0,69.0
+308,Voltron: Legendary Defender,2016,7+,SIM,NÃO,NÃO,NÃO,81.0,69.0
+309,Trollhunters: Tales of Arcadia,2016,7+,SIM,NÃO,NÃO,NÃO,84.0,69.0
+310,Sweet Magnolias,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,69.0
+311,Medici: Masters of Florence,2016,7+,SIM,NÃO,NÃO,NÃO,79.0,69.0
+313,Aggretsuko,2018,16+,SIM,NÃO,NÃO,NÃO,81.0,69.0
+314,Jurassic World: Camp Cretaceous,2020,7+,SIM,NÃO,NÃO,NÃO,75.0,69.0
+315,Rake,2010,16+,SIM,SIM,SIM,NÃO,85.0,69.0
+317,The Gift,2019,18+,SIM,SIM,NÃO,NÃO,72.0,69.0
+318,Violet Evergarden,2018,16+,SIM,NÃO,NÃO,NÃO,85.0,69.0
+319,3Below: Tales of Arcadia,2018,7+,SIM,NÃO,NÃO,NÃO,77.0,69.0
+320,Jeffrey Epstein: Filthy Rich,2020,18+,SIM,NÃO,NÃO,NÃO,71.0,69.0
+321,Dawson's Creek,1998,7+,SIM,SIM,NÃO,NÃO,66.0,69.0
+322,Private Practice,2007,16+,SIM,SIM,NÃO,NÃO,67.0,69.0
+323,Beauty and the Beast,2012,7+,SIM,NÃO,NÃO,SIM,70.0,69.0
+324,Daybreak,2019,18+,SIM,NÃO,NÃO,NÃO,67.0,69.0
+325,Easy,2016,18+,SIM,NÃO,NÃO,NÃO,69.0,69.0
+326,Behind Her Eyes,2021,18+,SIM,NÃO,NÃO,NÃO,72.0,68.0
+327,Collateral,2018,18+,SIM,NÃO,NÃO,NÃO,68.0,68.0
+328,Knightfall,2017,16+,SIM,NÃO,NÃO,NÃO,68.0,68.0
+329,The Confession Killer,2019,16+,SIM,NÃO,NÃO,NÃO,74.0,68.0
+330,Sophie: A Murder In West Cork,2021,18+,SIM,NÃO,NÃO,NÃO,69.0,68.0
+331,Call My Agent!,2015,16+,SIM,NÃO,NÃO,NÃO,83.0,68.0
+332,My Little Pony: Friendship Is Magic,2010,7+,SIM,SIM,NÃO,NÃO,76.0,68.0
+333,Leah Remini: Scientology and the Aftermath,2016,16+,SIM,SIM,NÃO,NÃO,90.0,68.0
+334,Containment,2016,16+,SIM,NÃO,NÃO,NÃO,72.0,68.0
+335,Z Nation,2014,16+,SIM,NÃO,NÃO,NÃO,67.0,68.0
+336,Emily in Paris,2020,18+,SIM,NÃO,NÃO,NÃO,70.0,68.0
+337,Victorious,2010,7+,SIM,NÃO,NÃO,NÃO,69.0,68.0
+338,Scream: The TV Series,2015,16+,SIM,NÃO,NÃO,NÃO,71.0,68.0
+339,Akame ga Kill!,2014,18+,SIM,SIM,NÃO,NÃO,78.0,68.0
+340,Warrior Nun,2020,18+,SIM,NÃO,NÃO,NÃO,69.0,68.0
+341,Bad Blood,2017,18+,SIM,NÃO,NÃO,NÃO,75.0,68.0
+342,Young & Hungry,2014,16+,SIM,NÃO,NÃO,NÃO,74.0,68.0
+343,Caliphate,2020,18+,SIM,NÃO,NÃO,NÃO,82.0,68.0
+345,Good Witch,2015,7+,SIM,NÃO,NÃO,NÃO,73.0,68.0
+346,Gilmore Girls: A Year in the Life,2016,16+,SIM,NÃO,NÃO,NÃO,76.0,68.0
+347,Aquarius,2015,16+,SIM,NÃO,NÃO,NÃO,71.0,68.0
+348,Firefly Lane,2021,18+,SIM,NÃO,NÃO,NÃO,74.0,67.0
+349,White Gold,2017,18+,SIM,NÃO,NÃO,NÃO,74.0,67.0
+350,Hyperdrive,2019,7+,SIM,NÃO,SIM,NÃO,81.0,67.0
+352,Ninjago: Masters of Spinjitzu,2012,all,SIM,NÃO,SIM,NÃO,72.0,67.0
+355,BEASTARS,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,67.0
+356,Kill la Kill,2013,18+,SIM,NÃO,NÃO,NÃO,79.0,67.0
+357,Down to Earth with Zac Efron,2020,7+,SIM,NÃO,NÃO,NÃO,81.0,67.0
+358,Ancient Aliens,2010,7+,SIM,SIM,SIM,NÃO,72.0,67.0
+359,Slasher,2016,18+,SIM,NÃO,NÃO,NÃO,67.0,67.0
+361,Time: The Kalief Browder Story,2017,16+,SIM,NÃO,NÃO,NÃO,85.0,67.0
+362,Away,2020,16+,SIM,NÃO,NÃO,NÃO,66.0,67.0
+363,No Tomorrow,2016,7+,SIM,NÃO,NÃO,NÃO,73.0,67.0
+364,Locked Up,2015,18+,SIM,NÃO,NÃO,NÃO,82.0,67.0
+365,The Frankenstein Chronicles,2015,16+,SIM,NÃO,NÃO,NÃO,73.0,67.0
+366,The Ranch,2016,16+,SIM,NÃO,NÃO,NÃO,75.0,67.0
+367,Cursed,2020,18+,SIM,NÃO,NÃO,NÃO,59.0,67.0
+368,Wu Assassins,2019,18+,SIM,NÃO,NÃO,NÃO,65.0,67.0
+369,Mr. Sunshine,2018,18+,SIM,NÃO,NÃO,NÃO,88.0,67.0
+370,The Unicorn,2019,7+,SIM,SIM,NÃO,NÃO,72.0,67.0
+371,Anohana: The Flower We Saw That Day,2011,16+,SIM,NÃO,NÃO,NÃO,82.0,67.0
+373,The Challenge,1998,16+,SIM,SIM,SIM,NÃO,77.0,67.0
+374,Gypsy,2017,18+,SIM,NÃO,NÃO,NÃO,68.0,67.0
+375,Fuller House,2016,7+,SIM,NÃO,NÃO,NÃO,67.0,67.0
+377,Killer Inside: The Mind of Aaron Hernandez,2020,18+,SIM,NÃO,NÃO,NÃO,74.0,67.0
+378,RESIDENT EVIL: Infinite Darkness,2021,18+,SIM,NÃO,NÃO,NÃO,58.0,67.0
+379,1983,2018,18+,SIM,NÃO,NÃO,NÃO,68.0,67.0
+380,Wet Hot American Summer: First Day of Camp,2015,16+,SIM,NÃO,NÃO,NÃO,74.0,67.0
+381,The Baker and the Beauty,2020,16+,SIM,NÃO,SIM,NÃO,74.0,67.0
+382,Spinning Out,2020,18+,SIM,NÃO,NÃO,NÃO,76.0,67.0
+383,Trinkets,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,67.0
+384,Insatiable,2018,18+,SIM,NÃO,NÃO,NÃO,65.0,67.0
+385,The Chalet,2018,18+,SIM,NÃO,NÃO,NÃO,70.0,67.0
+386,We Bare Bears,2015,7+,SIM,SIM,NÃO,NÃO,79.0,67.0
+387,Gurren Lagann,2007,16+,SIM,NÃO,NÃO,NÃO,83.0,66.0
+388,Friends from College,2017,18+,SIM,NÃO,NÃO,NÃO,69.0,66.0
+389,Jericho,2006,16+,SIM,NÃO,NÃO,NÃO,73.0,66.0
+390,Tidelands,2018,18+,SIM,NÃO,NÃO,NÃO,70.0,66.0
+391,Dear White People,2017,18+,SIM,SIM,NÃO,NÃO,62.0,66.0
+392,Dare Me,2019,18+,SIM,NÃO,NÃO,NÃO,67.0,66.0
+393,Ouran High School Host Club,2006,16+,SIM,SIM,NÃO,NÃO,82.0,66.0
+394,Scooby-Doo! Mystery Incorporated,2010,7+,SIM,NÃO,NÃO,NÃO,80.0,66.0
+395,The Untamed,2019,16+,SIM,NÃO,NÃO,NÃO,90.0,66.0
+396,Stranger,2017,18+,SIM,NÃO,NÃO,NÃO,86.0,66.0
+397,El Chapo,2017,18+,SIM,NÃO,NÃO,NÃO,78.0,66.0
+398,Great News,2017,7+,SIM,NÃO,NÃO,NÃO,70.0,66.0
+399,The Get Down,2016,16+,SIM,NÃO,NÃO,NÃO,83.0,66.0
+400,The Naked Director,2019,18+,SIM,NÃO,NÃO,NÃO,77.0,66.0
+401,Rise of Empires: Ottoman,2020,18+,SIM,NÃO,NÃO,NÃO,79.0,66.0
+402,Club de Cuervos,2015,18+,SIM,NÃO,NÃO,NÃO,82.0,66.0
+404,Toradora!,2008,16+,SIM,NÃO,SIM,NÃO,80.0,66.0
+405,The Baby-Sitters Club,2020,7+,SIM,NÃO,SIM,NÃO,74.0,66.0
+406,Carole & Tuesday,2019,7+,SIM,NÃO,NÃO,NÃO,79.0,66.0
+407,Van Helsing,2016,16+,SIM,NÃO,NÃO,NÃO,62.0,66.0
+409,The Night Shift,2014,16+,SIM,NÃO,NÃO,NÃO,74.0,66.0
+410,"Pablo Escobar, The Drug Lord",2012,18+,SIM,NÃO,NÃO,NÃO,85.0,66.0
+411,No Game No Life,2014,16+,SIM,NÃO,NÃO,NÃO,78.0,66.0
+412,The King: Eternal Monarch,2020,16+,SIM,NÃO,NÃO,NÃO,83.0,66.0
+413,Eden,2021,7+,SIM,NÃO,SIM,NÃO,67.0,65.0
+414,Stateless,2020,16+,SIM,NÃO,NÃO,NÃO,76.0,65.0
+415,High Score,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,65.0
+417,Dash & Lily,2020,7+,SIM,NÃO,NÃO,NÃO,80.0,65.0
+418,The Confession Tapes,2017,16+,SIM,NÃO,NÃO,NÃO,75.0,65.0
+419,Black Butler,2008,18+,SIM,SIM,NÃO,NÃO,78.0,65.0
+420,The Rain,2018,18+,SIM,NÃO,NÃO,NÃO,63.0,65.0
+421,Love Is Blind,2020,18+,SIM,NÃO,SIM,NÃO,61.0,65.0
+422,Trial by Media,2020,16+,SIM,NÃO,NÃO,NÃO,72.0,65.0
+423,Wormwood,2017,16+,SIM,NÃO,NÃO,NÃO,70.0,65.0
+424,Fear City: New York vs The Mafia,2020,18+,SIM,NÃO,NÃO,NÃO,71.0,65.0
+425,Sorjonen,2016,18+,SIM,NÃO,NÃO,NÃO,76.0,65.0
+427,Forged in Fire,2015,7+,SIM,SIM,SIM,NÃO,84.0,65.0
+428,Baby,2018,18+,SIM,NÃO,NÃO,NÃO,68.0,65.0
+430,The Disastrous Life of Saiki K.,2016,16+,SIM,NÃO,NÃO,NÃO,83.0,65.0
+431,The Innocence Files,2020,18+,SIM,NÃO,NÃO,NÃO,80.0,65.0
+432,BNA,2020,16+,SIM,NÃO,NÃO,NÃO,72.0,65.0
+433,The Mist,2017,16+,SIM,NÃO,NÃO,NÃO,54.0,65.0
+434,Halston,2021,18+,SIM,NÃO,SIM,NÃO,75.0,65.0
+435,Shaun the Sheep,2007,all,SIM,NÃO,SIM,NÃO,82.0,65.0
+436,The Universe,2007,16+,SIM,NÃO,SIM,NÃO,87.0,65.0
+437,Self Made: Inspired by the Life of Madam C.J. Walker,2020,18+,SIM,NÃO,NÃO,NÃO,73.0,65.0
+438,Shtisel,2013,16+,SIM,NÃO,NÃO,NÃO,86.0,65.0
+439,The Boss Baby: Back in Business,2018,7+,SIM,NÃO,NÃO,NÃO,65.0,65.0
+440,Puella Magi Madoka Magica,2011,16+,SIM,SIM,NÃO,NÃO,83.0,65.0
+442,Sinatra: All or Nothing at All,2015,7+,SIM,NÃO,NÃO,NÃO,80.0,65.0
+443,Comedians in Cars Getting Coffee,2012,16+,SIM,NÃO,NÃO,NÃO,81.0,65.0
+444,Senora Acero,2014,16+,SIM,SIM,NÃO,NÃO,71.0,65.0
+445,Dark Tourist,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,65.0
+446,Criminal: UK,2019,18+,SIM,NÃO,NÃO,NÃO,76.0,65.0
+448,The Bureau of Magical Things,2018,7+,SIM,NÃO,NÃO,NÃO,67.0,65.0
+449,Cleverman,2016,16+,SIM,NÃO,NÃO,NÃO,64.0,65.0
+450,The Innocent Man,2018,18+,SIM,NÃO,NÃO,NÃO,73.0,65.0
+451,Norsemen,2016,18+,SIM,NÃO,NÃO,NÃO,78.0,65.0
+453,Pawn Stars,2009,7+,SIM,SIM,SIM,NÃO,72.0,65.0
+454,Inside Bill's Brain: Decoding Bill Gates,2019,16+,SIM,NÃO,NÃO,NÃO,79.0,65.0
+455,Damnation,2017,18+,SIM,NÃO,NÃO,NÃO,77.0,65.0
+456,From Dusk Till Dawn: The Series,2014,18+,SIM,NÃO,NÃO,NÃO,69.0,64.0
+457,Lovesick,2014,18+,SIM,NÃO,NÃO,NÃO,81.0,64.0
+458,Flint Town,2018,18+,SIM,NÃO,NÃO,NÃO,79.0,64.0
+459,Watership Down,2018,7+,SIM,NÃO,NÃO,NÃO,72.0,64.0
+460,Undercover,2019,18+,SIM,NÃO,SIM,NÃO,78.0,64.0
+461,Rita,2012,16+,SIM,NÃO,NÃO,NÃO,81.0,64.0
+462,Dorohedoro,2020,18+,SIM,NÃO,NÃO,NÃO,82.0,64.0
+463,Maid Sama!,2010,16+,SIM,SIM,NÃO,NÃO,80.0,64.0
+464,Mystery Science Theater 3000: The Return,2017,16+,SIM,NÃO,NÃO,NÃO,80.0,64.0
+465,Is It Wrong to Try to Pick Up Girls in a Dungeon?,2015,16+,SIM,SIM,NÃO,NÃO,74.0,64.0
+466,Surviving R. Kelly,2019,18+,SIM,NÃO,NÃO,NÃO,75.0,64.0
+467,Saint Seiya,1986,7+,SIM,NÃO,SIM,NÃO,85.0,64.0
+468,Flaked,2016,18+,SIM,NÃO,NÃO,NÃO,72.0,64.0
+469,Fate/Zero,2011,18+,SIM,NÃO,NÃO,NÃO,83.0,64.0
+470,Crazyhead,2016,16+,SIM,NÃO,NÃO,NÃO,73.0,64.0
+471,The Five,2016,7+,SIM,NÃO,NÃO,NÃO,76.0,64.0
+473,H2O: Just Add Water,2006,all,SIM,SIM,NÃO,NÃO,72.0,64.0
+474,Requiem,2018,18+,SIM,NÃO,NÃO,NÃO,65.0,64.0
+475,The Valhalla Murders,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,64.0
+476,Cardcaptor Sakura,1998,7+,SIM,NÃO,NÃO,NÃO,80.0,64.0
+477,Black Earth Rising,2018,16+,SIM,NÃO,NÃO,NÃO,75.0,64.0
+478,W/ Bob & David,2015,18+,SIM,NÃO,NÃO,NÃO,74.0,64.0
+479,The Trials of Gabriel Fernandez,2020,18+,SIM,NÃO,NÃO,NÃO,81.0,64.0
+480,She's Gotta Have It,2017,18+,SIM,NÃO,NÃO,NÃO,68.0,64.0
+481,Save Me,2018,16+,SIM,NÃO,NÃO,NÃO,77.0,64.0
+484,The Curse of Oak Island,2014,7+,SIM,SIM,NÃO,NÃO,70.0,64.0
+485,Black,2017,16+,SIM,NÃO,NÃO,NÃO,80.0,63.0
+487,Ajin,2016,18+,SIM,NÃO,NÃO,NÃO,76.0,63.0
+488,Ink Master,2012,16+,SIM,NÃO,NÃO,NÃO,74.0,63.0
+490,Goosebumps,1995,all,SIM,NÃO,NÃO,NÃO,77.0,63.0
+491,Vampire Knight,2008,16+,SIM,SIM,NÃO,NÃO,74.0,63.0
+492,Angel Beats!,2010,16+,SIM,NÃO,NÃO,NÃO,77.0,63.0
+493,Green Eggs and Ham,2019,7+,SIM,NÃO,NÃO,NÃO,82.0,63.0
+494,The Hollow,2018,7+,SIM,NÃO,NÃO,NÃO,72.0,63.0
+495,Dogs,2018,all,SIM,NÃO,NÃO,NÃO,81.0,63.0
+496,November 13: Attack on Paris,2018,18+,SIM,NÃO,NÃO,NÃO,83.0,63.0
+497,It's Bruno!,2019,7+,SIM,NÃO,NÃO,NÃO,75.0,63.0
+498,Wanted,2016,16+,SIM,NÃO,NÃO,NÃO,77.0,63.0
+499,Masum,2017,16+,SIM,NÃO,NÃO,NÃO,84.0,63.0
+500,Cable Girls,2017,18+,SIM,NÃO,NÃO,NÃO,76.0,63.0
+501,Lady Dynamite,2016,16+,SIM,NÃO,NÃO,NÃO,74.0,63.0
+502,Power Rangers,1993,7+,SIM,NÃO,SIM,NÃO,65.0,63.0
+503,The Mire,2018,18+,SIM,NÃO,NÃO,NÃO,69.0,63.0
+504,Tabula Rasa,2017,18+,SIM,NÃO,NÃO,NÃO,80.0,63.0
+506,Clannad,2007,7+,SIM,SIM,NÃO,NÃO,79.0,63.0
+507,Ugly Delicious,2018,18+,SIM,NÃO,NÃO,NÃO,78.0,63.0
+509,Fate/stay night [Unlimited Blade Works],2014,18+,SIM,SIM,NÃO,NÃO,80.0,63.0
+510,Man with a Plan,2016,7+,SIM,NÃO,NÃO,NÃO,70.0,63.0
+511,Rilakkuma and Kaoru,2019,7+,SIM,NÃO,NÃO,NÃO,83.0,63.0
+512,World War II In HD Colour,2009,7+,SIM,NÃO,NÃO,NÃO,87.0,63.0
+513,Boys Over Flowers,2009,16+,SIM,SIM,NÃO,NÃO,79.0,63.0
+514,Meteor Garden,2018,16+,SIM,NÃO,NÃO,NÃO,81.0,63.0
+515,"What's New, Scooby-Doo?",2002,7+,SIM,NÃO,NÃO,NÃO,73.0,63.0
+517,Sick Note,2017,18+,SIM,NÃO,NÃO,NÃO,68.0,63.0
+518,Big Time Rush,2009,all,SIM,SIM,SIM,NÃO,64.0,63.0
+519,Girlboss,2017,18+,SIM,NÃO,NÃO,NÃO,70.0,63.0
+520,Quicksand,2019,18+,SIM,NÃO,NÃO,NÃO,75.0,63.0
+521,Rotten,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,63.0
+522,The Irregulars,2021,18+,SIM,NÃO,NÃO,NÃO,59.0,63.0
+524,College Romance,2018,18+,SIM,NÃO,NÃO,NÃO,88.0,63.0
+525,Elite Short Stories: Carla Samuel,2021,18+,SIM,NÃO,NÃO,NÃO,70.0,63.0
+526,Bard of Blood,2019,18+,SIM,NÃO,NÃO,NÃO,69.0,63.0
+527,Charmed,2018,16+,SIM,NÃO,NÃO,NÃO,46.0,62.0
+528,The New Legends of Monkey,2018,7+,SIM,NÃO,NÃO,NÃO,65.0,62.0
+530,"The Mind, Explained",2019,16+,SIM,NÃO,NÃO,NÃO,80.0,62.0
+531,Fast & Furious Spy Racers,2019,7+,SIM,NÃO,NÃO,NÃO,55.0,62.0
+533,Occupied,2015,16+,SIM,NÃO,NÃO,NÃO,77.0,62.0
+534,The Magic School Bus,1994,all,SIM,NÃO,NÃO,NÃO,78.0,62.0
+535,Toast of London,2013,16+,SIM,NÃO,NÃO,NÃO,82.0,62.0
+536,Patriot Act with Hasan Minhaj,2018,18+,SIM,NÃO,NÃO,NÃO,83.0,62.0
+537,Greatest Events of World War II in Colour,2019,16+,SIM,NÃO,NÃO,NÃO,87.0,62.0
+538,Offspring,2010,16+,SIM,NÃO,NÃO,NÃO,83.0,62.0
+539,Blown Away,2019,7+,SIM,NÃO,NÃO,NÃO,71.0,62.0
+540,60 Days In,2016,16+,SIM,SIM,SIM,NÃO,77.0,62.0
+541,Trese,2021,18+,SIM,NÃO,NÃO,NÃO,71.0,62.0
+543,Hot Girls Wanted: Turned On,2017,18+,SIM,NÃO,NÃO,NÃO,66.0,62.0
+544,The Heirs,2013,16+,SIM,NÃO,NÃO,NÃO,75.0,62.0
+545,The Curious Creations of Christine McConnell,2018,7+,SIM,NÃO,NÃO,NÃO,78.0,62.0
+546,Alexa & Katie,2018,all,SIM,NÃO,NÃO,NÃO,75.0,62.0
+547,Sailor Moon Crystal,2014,16+,SIM,SIM,NÃO,NÃO,80.0,62.0
+549,La Reina del Sur,2011,18+,SIM,NÃO,NÃO,NÃO,80.0,62.0
+551,Pine Gap,2018,16+,SIM,NÃO,NÃO,NÃO,72.0,62.0
+553,Suburra: Blood on Rome,2017,18+,SIM,NÃO,NÃO,NÃO,79.0,62.0
+554,Taco Chronicles,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,62.0
+555,She,2020,18+,SIM,NÃO,NÃO,NÃO,65.0,62.0
+556,Between,2015,16+,SIM,NÃO,NÃO,NÃO,60.0,62.0
+557,Velvet,2014,16+,SIM,NÃO,NÃO,NÃO,81.0,62.0
+558,Bobby Kennedy for President,2018,16+,SIM,NÃO,NÃO,NÃO,82.0,62.0
+559,Durarara!!,2010,16+,SIM,SIM,NÃO,NÃO,79.0,62.0
+561,Hostages,2013,16+,SIM,NÃO,NÃO,NÃO,67.0,62.0
+562,Rhythm + Flow,2019,18+,SIM,NÃO,NÃO,NÃO,77.0,62.0
+563,Blue Exorcist,2011,16+,SIM,SIM,NÃO,NÃO,74.0,62.0
+564,L.A.'s Finest,2019,16+,SIM,NÃO,NÃO,NÃO,60.0,62.0
+566,Thomas & Friends,1984,all,SIM,NÃO,SIM,NÃO,66.0,62.0
+567,The Protector,2018,18+,SIM,NÃO,NÃO,NÃO,67.0,61.0
+568,Unsolved Mysteries,1987,7+,SIM,SIM,SIM,NÃO,82.0,61.0
+569,Too Hot to Handle,2020,18+,SIM,NÃO,NÃO,NÃO,46.0,61.0
+571,Are You The One?,2014,16+,SIM,SIM,NÃO,NÃO,65.0,61.0
+572,Little Things,2016,18+,SIM,NÃO,NÃO,NÃO,83.0,61.0
+573,Still Game,2002,16+,SIM,NÃO,NÃO,NÃO,88.0,61.0
+574,Transformers: Prime,2010,7+,SIM,NÃO,NÃO,NÃO,79.0,61.0
+575,Henry Danger,2014,all,SIM,NÃO,NÃO,NÃO,57.0,61.0
+576,Tidying Up with Marie Kondo,2019,7+,SIM,NÃO,NÃO,NÃO,66.0,61.0
+577,Nightflyers,2018,18+,SIM,NÃO,NÃO,NÃO,59.0,61.0
+578,Love 101,2020,18+,SIM,NÃO,NÃO,NÃO,75.0,61.0
+579,Car Masters: Rust to Riches,2018,7+,SIM,NÃO,NÃO,NÃO,88.0,61.0
+580,WHAT / IF,2019,18+,SIM,NÃO,NÃO,NÃO,63.0,61.0
+581,Total Drama Island,2007,7+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+582,Roman Empire,2016,16+,SIM,NÃO,NÃO,NÃO,70.0,61.0
+584,Deadwind,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+585,People Just Do Nothing,2014,18+,SIM,NÃO,NÃO,NÃO,85.0,61.0
+586,B: The Beginning,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+587,Somebody Feed Phil,2018,16+,SIM,NÃO,NÃO,NÃO,82.0,61.0
+588,Girl from Nowhere,2018,18+,SIM,NÃO,NÃO,NÃO,77.0,61.0
+589,Cocaine Coast,2018,18+,SIM,NÃO,NÃO,NÃO,79.0,61.0
+590,The Liberator,2020,7+,SIM,NÃO,NÃO,NÃO,76.0,61.0
+591,The Irregular at Magic High School,2014,16+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+593,Hap and Leonard,2016,18+,SIM,NÃO,NÃO,NÃO,77.0,61.0
+594,Dark Desire,2020,18+,SIM,NÃO,NÃO,NÃO,65.0,61.0
+595,Seis Manos,2019,18+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+596,Control Z,2020,18+,SIM,NÃO,NÃO,NÃO,69.0,61.0
+600,The House of Flowers,2018,18+,SIM,NÃO,NÃO,NÃO,76.0,61.0
+602,America's Next Top Model,2003,7+,SIM,SIM,SIM,NÃO,55.0,61.0
+603,Tribes of Europa,2021,18+,SIM,NÃO,NÃO,NÃO,68.0,61.0
+605,Somos.,2021,18+,SIM,NÃO,NÃO,NÃO,72.0,61.0
+606,The Great Heist,2020,18+,SIM,NÃO,NÃO,NÃO,73.0,61.0
+607,The One,2021,18+,SIM,NÃO,NÃO,NÃO,66.0,61.0
+608,Carmen Sandiego,2019,7+,SIM,NÃO,NÃO,NÃO,79.0,61.0
+609,The Chef Show,2019,18+,SIM,NÃO,NÃO,NÃO,82.0,61.0
+610,Traitors,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,61.0
+611,Wet Hot American Summer: Ten Years Later,2017,16+,SIM,NÃO,NÃO,NÃO,69.0,61.0
+612,The Neighbor,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,60.0
+614,Billy on the Street,2011,16+,SIM,SIM,NÃO,NÃO,78.0,60.0
+615,October Faction,2020,18+,SIM,NÃO,NÃO,NÃO,62.0,60.0
+616,Start-Up,2020,16+,SIM,NÃO,NÃO,NÃO,81.0,60.0
+617,Night on Earth,2020,7+,SIM,NÃO,NÃO,NÃO,82.0,60.0
+618,DOTA: Dragon's Blood,2021,18+,SIM,NÃO,NÃO,NÃO,80.0,60.0
+619,The Break,2016,18+,SIM,NÃO,NÃO,NÃO,76.0,60.0
+620,The Letter for the King,2020,7+,SIM,NÃO,NÃO,NÃO,59.0,60.0
+621,Osmosis,2019,16+,SIM,NÃO,NÃO,NÃO,59.0,60.0
+622,Another Life,2019,18+,SIM,NÃO,NÃO,NÃO,50.0,60.0
+623,Ju-On: Origins,2020,18+,SIM,NÃO,NÃO,NÃO,61.0,60.0
+624,Diagnosis,2019,18+,SIM,NÃO,NÃO,NÃO,77.0,60.0
+626,The Eddy,2020,18+,SIM,NÃO,NÃO,NÃO,72.0,60.0
+627,Magi,2012,16+,SIM,SIM,NÃO,NÃO,78.0,60.0
+628,Elite Short Stories: Guzmán Caye Rebe,2021,18+,SIM,NÃO,NÃO,NÃO,75.0,60.0
+629,Memories of the Alhambra,2018,16+,SIM,NÃO,NÃO,NÃO,78.0,60.0
+630,Pacific Rim: The Black,2021,16+,SIM,NÃO,NÃO,NÃO,71.0,60.0
+631,V Wars,2019,18+,SIM,NÃO,NÃO,NÃO,61.0,60.0
+632,The Windsors,2016,18+,SIM,NÃO,NÃO,NÃO,71.0,60.0
+633,The Sons of Sam: A Descent Into Darkness,2021,18+,SIM,NÃO,NÃO,NÃO,70.0,60.0
+634,Sunderland 'Til I Die,2018,18+,SIM,NÃO,NÃO,NÃO,81.0,60.0
+635,Rebellion,2016,16+,SIM,NÃO,NÃO,NÃO,72.0,60.0
+637,The A List,2018,7+,SIM,NÃO,NÃO,NÃO,55.0,60.0
+638,Tales of the City,2019,16+,SIM,NÃO,NÃO,NÃO,74.0,60.0
+639,Disjointed,2017,18+,SIM,NÃO,NÃO,NÃO,68.0,60.0
+641,Gentefied,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,60.0
+642,Wanderlust,2018,16+,SIM,NÃO,NÃO,NÃO,71.0,60.0
+643,Murder Among the Mormons,2021,16+,SIM,NÃO,NÃO,NÃO,70.0,60.0
+644,Home for Christmas,2019,18+,SIM,NÃO,NÃO,NÃO,77.0,60.0
+645,Paradise PD,2018,18+,SIM,NÃO,NÃO,NÃO,69.0,60.0
+646,The Bachelorette,2003,16+,SIM,SIM,NÃO,NÃO,34.0,60.0
+647,Cold Case Files,1999,18+,SIM,SIM,SIM,NÃO,81.0,60.0
+648,Little Witch Academia,2017,7+,SIM,NÃO,NÃO,NÃO,79.0,60.0
+649,El marginal,2016,18+,SIM,NÃO,NÃO,NÃO,82.0,60.0
+650,Teasing Master Takagi-san,2018,7+,SIM,NÃO,NÃO,NÃO,77.0,60.0
+651,Kakegurui,2017,16+,SIM,NÃO,NÃO,NÃO,72.0,60.0
+652,Attenborough's Life in Colour,2021,7+,SIM,NÃO,NÃO,NÃO,83.0,60.0
+653,Mortel,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,60.0
+654,Kath & Kim,2002,7+,SIM,NÃO,NÃO,NÃO,83.0,60.0
+655,Charité,2017,7+,SIM,NÃO,NÃO,NÃO,79.0,59.0
+656,Hoarders,2009,7+,SIM,SIM,NÃO,NÃO,64.0,59.0
+657,Unsolved: The Murders of Tupac and The Notorious B.I.G.,2018,18+,SIM,NÃO,NÃO,NÃO,79.0,59.0
+658,My Next Guest Needs No Introduction With David Letterman,2018,18+,SIM,NÃO,NÃO,NÃO,79.0,59.0
+660,Record of Ragnarok,2021,18+,SIM,NÃO,NÃO,NÃO,62.0,59.0
+661,White Lines,2020,18+,SIM,NÃO,NÃO,NÃO,66.0,59.0
+664,Luis Miguel: The Series,2018,16+,SIM,NÃO,NÃO,NÃO,80.0,59.0
+666,"Love, Chunibyo & Other Delusions",2012,16+,SIM,NÃO,NÃO,NÃO,74.0,59.0
+667,Kabaneri of the Iron Fortress,2016,18+,SIM,NÃO,NÃO,NÃO,72.0,59.0
+668,"Sister, Sister",1994,7+,SIM,SIM,NÃO,NÃO,63.0,59.0
+669,Greenhouse Academy,2017,7+,SIM,NÃO,NÃO,NÃO,69.0,59.0
+670,Mr. Iglesias,2019,16+,SIM,NÃO,NÃO,NÃO,71.0,59.0
+672,Hip Hop Evolution,2016,16+,SIM,NÃO,NÃO,NÃO,84.0,59.0
+673,The Game,2006,16+,SIM,SIM,SIM,NÃO,67.0,59.0
+674,Love on the Spectrum,2019,all,SIM,NÃO,NÃO,NÃO,85.0,59.0
+675,Greenleaf,2016,18+,SIM,NÃO,NÃO,NÃO,74.0,59.0
+678,The Final Table,2018,all,SIM,NÃO,NÃO,NÃO,77.0,59.0
+679,Life Sentence,2018,16+,SIM,NÃO,NÃO,NÃO,66.0,59.0
+681,Dogs of Berlin,2018,16+,SIM,NÃO,NÃO,NÃO,76.0,59.0
+682,Yasuke,2021,18+,SIM,NÃO,NÃO,NÃO,62.0,59.0
+684,Playing with Fire,2019,18+,SIM,SIM,NÃO,NÃO,59.0,59.0
+685,"Hello, My Twenties!",2016,16+,SIM,NÃO,NÃO,NÃO,83.0,59.0
+686,Sam & Cat,2013,7+,SIM,NÃO,NÃO,NÃO,57.0,59.0
+687,Girls from Ipanema,2019,16+,SIM,NÃO,NÃO,NÃO,79.0,59.0
+688,Elite Short Stories: Omar Ander Alexis,2021,18+,SIM,NÃO,NÃO,NÃO,74.0,59.0
+689,MEGALOBOX,2018,16+,SIM,SIM,NÃO,NÃO,78.0,59.0
+692,K-ON!,2009,16+,SIM,SIM,NÃO,NÃO,77.0,59.0
+693,The Family,2019,16+,SIM,NÃO,NÃO,NÃO,64.0,59.0
+696,The Good Cop,2018,16+,SIM,NÃO,NÃO,NÃO,71.0,58.0
+699,This is a Robbery: The World's Biggest Art Heist,2021,18+,SIM,NÃO,NÃO,NÃO,64.0,58.0
+701,Chambers,2019,16+,SIM,NÃO,NÃO,NÃO,65.0,58.0
+702,Selena: The Series,2020,7+,SIM,NÃO,NÃO,NÃO,68.0,58.0
+703,BAKI,2018,18+,SIM,NÃO,NÃO,NÃO,67.0,58.0
+704,Cells at Work!,2018,16+,SIM,NÃO,NÃO,NÃO,76.0,58.0
+705,Reckoning,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,58.0
+708,Queen Sono,2020,18+,SIM,NÃO,NÃO,NÃO,59.0,58.0
+709,WWII in HD,2009,18+,SIM,NÃO,NÃO,NÃO,87.0,58.0
+712,I Am a Killer,2018,18+,SIM,NÃO,NÃO,NÃO,74.0,58.0
+714,One of Us,2016,18+,SIM,NÃO,NÃO,NÃO,70.0,58.0
+715,Cuckoo,2012,16+,SIM,NÃO,NÃO,NÃO,72.0,58.0
+716,March Comes in Like a Lion,2016,7+,SIM,NÃO,NÃO,NÃO,84.0,58.0
+717,Börü,2018,18+,SIM,NÃO,NÃO,NÃO,82.0,58.0
+719,Elize Matsunaga: Once Upon a Crime,2021,18+,SIM,NÃO,NÃO,NÃO,58.0,58.0
+720,Invisible City,2021,all,SIM,NÃO,NÃO,NÃO,74.0,58.0
+721,High Seas,2019,16+,SIM,NÃO,NÃO,NÃO,68.0,58.0
+722,Man Down,2013,18+,SIM,NÃO,NÃO,NÃO,76.0,58.0
+724,Degrassi: Next Class,2016,7+,SIM,NÃO,NÃO,NÃO,69.0,58.0
+726,The Woods,2020,18+,SIM,NÃO,NÃO,NÃO,65.0,58.0
+728,Godzilla Singular Point,2021,16+,SIM,NÃO,NÃO,NÃO,66.0,58.0
+729,My Babysitter's a Vampire,2011,7+,SIM,NÃO,NÃO,NÃO,71.0,58.0
+731,Typewriter,2019,18+,SIM,NÃO,NÃO,NÃO,65.0,57.0
+732,Sonic X,2003,16+,SIM,SIM,SIM,NÃO,62.0,57.0
+733,Monthly Girls' Nozaki-kun,2014,7+,SIM,NÃO,NÃO,NÃO,76.0,57.0
+734,History of Swear Words,2021,18+,SIM,NÃO,NÃO,NÃO,64.0,57.0
+735,Dolly Parton's Heartstrings,2019,16+,SIM,NÃO,NÃO,NÃO,76.0,57.0
+737,Last Chance U: Basketball,2021,18+,SIM,NÃO,NÃO,NÃO,84.0,57.0
+738,The Next Step,2013,all,SIM,NÃO,NÃO,NÃO,62.0,57.0
+740,Midnight Diner: Tokyo Stories,2016,16+,SIM,NÃO,NÃO,NÃO,84.0,57.0
+741,Immigration Nation,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,57.0
+743,The Barrier,2020,16+,SIM,NÃO,NÃO,NÃO,68.0,57.0
+744,Cannon Busters,2019,18+,SIM,NÃO,NÃO,NÃO,68.0,57.0
+745,Something in the Rain,2018,7+,SIM,NÃO,NÃO,NÃO,81.0,57.0
+746,Haters Back Off,2016,7+,SIM,NÃO,NÃO,NÃO,60.0,57.0
+747,Young Wallander,2020,18+,SIM,NÃO,NÃO,NÃO,68.0,57.0
+748,Toy Boy,2019,18+,SIM,NÃO,NÃO,NÃO,64.0,57.0
+750,Jack Whitehall: Travels with My Father,2017,18+,SIM,NÃO,NÃO,NÃO,77.0,57.0
+751,Sofia the First,2013,all,SIM,NÃO,NÃO,NÃO,69.0,57.0
+753,The Joel McHale Show with Joel McHale,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,57.0
+754,America's Book of Secrets,2012,7+,SIM,SIM,NÃO,NÃO,68.0,57.0
+756,Kiss Me First,2018,18+,SIM,NÃO,NÃO,NÃO,63.0,57.0
+757,A Very Secret Service,2015,18+,SIM,NÃO,NÃO,NÃO,78.0,57.0
+759,Scissor Seven,2018,7+,SIM,NÃO,NÃO,NÃO,83.0,57.0
+760,Summertime,2020,18+,SIM,SIM,NÃO,NÃO,55.0,57.0
+762,The K2,2016,16+,SIM,NÃO,NÃO,NÃO,78.0,57.0
+763,The King's Avatar,2017,7+,SIM,NÃO,NÃO,NÃO,77.0,57.0
+765,The Twelve,2019,16+,SIM,NÃO,NÃO,NÃO,75.0,57.0
+766,Vanished 46,2016,16+,SIM,NÃO,NÃO,NÃO,84.0,57.0
+767,Valor,2017,16+,SIM,NÃO,NÃO,NÃO,60.0,57.0
+768,Northern Rescue,2019,16+,SIM,NÃO,NÃO,NÃO,71.0,57.0
+769,Equinox,2020,18+,SIM,NÃO,NÃO,NÃO,61.0,57.0
+770,Oggy and the Cockroaches,1999,all,SIM,NÃO,NÃO,NÃO,73.0,57.0
+771,Code Lyoko,2003,7+,SIM,NÃO,NÃO,NÃO,73.0,57.0
+772,Champions,2018,16+,SIM,SIM,NÃO,NÃO,61.0,57.0
+773,Winx Club,2004,all,SIM,NÃO,NÃO,NÃO,62.0,57.0
+774,Dragons: Race to the Edge,2015,7+,SIM,NÃO,NÃO,NÃO,83.0,57.0
+776,Vexed,2010,7+,SIM,NÃO,NÃO,NÃO,73.0,56.0
+777,Family Business,2019,16+,SIM,NÃO,NÃO,NÃO,74.0,56.0
+779,BUNK'D,2015,all,SIM,NÃO,NÃO,NÃO,54.0,56.0
+780,Cathedral of the Sea,2018,16+,SIM,NÃO,NÃO,NÃO,75.0,56.0
+783,History 101,2020,7+,SIM,NÃO,NÃO,NÃO,68.0,56.0
+787,Cooked,2016,7+,SIM,NÃO,NÃO,NÃO,81.0,56.0
+788,Monarca,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,56.0
+789,Indian Matchmaking,2020,16+,SIM,NÃO,NÃO,NÃO,62.0,56.0
+790,Perfume,2018,18+,SIM,NÃO,NÃO,NÃO,71.0,56.0
+791,Avlu,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,56.0
+792,Wild District,2018,18+,SIM,NÃO,NÃO,NÃO,83.0,56.0
+793,Magic for Humans,2018,16+,SIM,NÃO,NÃO,NÃO,72.0,56.0
+794,50M2,2021,18+,SIM,NÃO,NÃO,NÃO,70.0,56.0
+795,Mako Mermaids: An H2O Adventure,2013,all,SIM,NÃO,NÃO,NÃO,68.0,56.0
+796,Extracurricular,2020,18+,SIM,NÃO,NÃO,NÃO,77.0,56.0
+797,Tunnel,2017,16+,SIM,NÃO,NÃO,NÃO,83.0,56.0
+798,Marseille,2016,18+,SIM,NÃO,NÃO,NÃO,69.0,56.0
+799,Elite Short Stories: Nadia Guzmán,2021,18+,SIM,NÃO,NÃO,NÃO,64.0,56.0
+801,The Rise of Phoenixes,2018,7+,SIM,NÃO,NÃO,NÃO,86.0,56.0
+802,Wakfu,2008,7+,SIM,NÃO,NÃO,NÃO,82.0,56.0
+805,How to Fix a Drug Scandal,2020,18+,SIM,NÃO,NÃO,NÃO,70.0,56.0
+806,Betaal,2020,18+,SIM,NÃO,NÃO,NÃO,54.0,56.0
+807,Sin Senos Sí Hay Paraíso,2016,16+,SIM,NÃO,NÃO,NÃO,67.0,56.0
+808,Japan Sinks: 2020,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,56.0
+810,Girlfriends,2000,7+,SIM,NÃO,NÃO,NÃO,72.0,56.0
+811,Mobile Suit Gundam: Iron-Blooded Orphans,2015,18+,SIM,NÃO,NÃO,NÃO,79.0,56.0
+812,Curon,2020,18+,SIM,NÃO,NÃO,NÃO,58.0,56.0
+813,The Method,2015,18+,SIM,NÃO,NÃO,NÃO,74.0,56.0
+814,Amend: The Fight for America,2021,18+,SIM,NÃO,NÃO,NÃO,79.0,56.0
+816,The Crew,2021,16+,SIM,NÃO,NÃO,NÃO,66.0,56.0
+817,Sex Explained,2020,18+,SIM,NÃO,NÃO,NÃO,69.0,56.0
+818,Unauthorized Living,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,56.0
+819,James Acaster: Repertoire,2018,18+,SIM,NÃO,NÃO,NÃO,85.0,56.0
+820,Blood & Water,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,56.0
+821,Adventures of Sonic the Hedgehog,1993,7+,SIM,NÃO,NÃO,NÃO,62.0,55.0
+824,Rust Valley Restorers,2018,16+,SIM,NÃO,NÃO,NÃO,78.0,55.0
+825,Immortals,2018,7+,SIM,NÃO,NÃO,NÃO,53.0,55.0
+826,Cheese in the Trap,2016,16+,SIM,NÃO,NÃO,NÃO,74.0,55.0
+827,Terrace House: Boys & Girls in the City,2015,7+,SIM,NÃO,NÃO,NÃO,81.0,55.0
+829,My Secret Romance,2017,16+,SIM,NÃO,NÃO,NÃO,71.0,55.0
+830,Marlon,2017,7+,SIM,SIM,NÃO,NÃO,71.0,55.0
+831,The Bonfire of Destiny,2019,16+,SIM,NÃO,NÃO,NÃO,77.0,55.0
+832,100 Days My Prince,2018,16+,SIM,NÃO,NÃO,NÃO,77.0,55.0
+833,Let's Eat,2013,16+,SIM,NÃO,NÃO,NÃO,77.0,55.0
+834,Kung Fu Panda: Legends of Awesomeness,2011,7+,SIM,NÃO,NÃO,NÃO,68.0,55.0
+836,PJ Masks,2015,all,SIM,NÃO,NÃO,SIM,55.0,55.0
+837,Incomplete Life,2014,16+,SIM,NÃO,NÃO,NÃO,86.0,55.0
+839,When Heroes Fly,2018,7+,SIM,NÃO,NÃO,NÃO,72.0,55.0
+840,The Last O.G.,2018,7+,SIM,NÃO,NÃO,NÃO,69.0,55.0
+842,DC Super Hero Girls,2019,7+,SIM,NÃO,NÃO,NÃO,71.0,55.0
+843,Wheel of Fortune,1983,all,SIM,NÃO,NÃO,NÃO,67.0,55.0
+844,Chelsea Does,2016,18+,SIM,NÃO,NÃO,NÃO,72.0,55.0
+845,Girlfriends' Guide to Divorce,2014,16+,SIM,NÃO,NÃO,NÃO,69.0,55.0
+846,Daniel Sloss: Live Shows,2018,18+,SIM,NÃO,NÃO,NÃO,86.0,55.0
+847,Case,2015,16+,SIM,NÃO,NÃO,NÃO,71.0,55.0
+848,Always a Witch,2019,16+,SIM,NÃO,NÃO,NÃO,62.0,55.0
+850,The Boulet Brothers' Dragula,2016,18+,SIM,NÃO,NÃO,NÃO,79.0,55.0
+851,Lovestruck in the City,2020,16+,SIM,NÃO,NÃO,NÃO,78.0,55.0
+853,Bitter Daisies,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,55.0
+854,Selection Day,2018,16+,SIM,NÃO,NÃO,NÃO,74.0,55.0
+855,"Bring It On, Ghost",2016,16+,SIM,NÃO,NÃO,NÃO,76.0,55.0
+857,(The Hook Up Plan),2018,16+,SIM,NÃO,NÃO,NÃO,72.0,55.0
+858,Because This Is My First Life,2017,16+,SIM,NÃO,NÃO,NÃO,81.0,55.0
+860,Medal of Honor,2018,16+,SIM,NÃO,SIM,NÃO,84.0,55.0
+863,"Coronavirus, Explained",2020,7+,SIM,NÃO,NÃO,NÃO,76.0,55.0
+864,Teen Mom 2,2011,7+,SIM,NÃO,SIM,NÃO,43.0,55.0
+866,Kantaro: The Sweet Tooth Salaryman,2017,7+,SIM,NÃO,NÃO,NÃO,75.0,55.0
+867,Al Hayba,2017,7+,SIM,NÃO,NÃO,NÃO,74.0,55.0
+868,Somewhere Between,2017,16+,SIM,NÃO,NÃO,NÃO,63.0,55.0
+869,Selling Sunset,2019,18+,SIM,NÃO,NÃO,NÃO,63.0,55.0
+870,Trailer Park Boys: The Animated Series,2019,18+,SIM,NÃO,NÃO,NÃO,75.0,55.0
+871,Ultraviolet,2017,18+,SIM,SIM,NÃO,NÃO,70.0,55.0
+872,Ultraman,2019,16+,SIM,NÃO,NÃO,NÃO,69.0,54.0
+873,No Good Nick,2019,7+,SIM,NÃO,NÃO,NÃO,60.0,54.0
+875,Daughter From Another Mother,2021,18+,SIM,NÃO,NÃO,NÃO,74.0,54.0
+876,Tiny House Nation,2014,7+,SIM,NÃO,NÃO,NÃO,71.0,54.0
+877,High-Rise Invasion,2021,18+,SIM,NÃO,NÃO,NÃO,67.0,54.0
+878,Mystic Pop-up Bar,2020,16+,SIM,NÃO,NÃO,NÃO,80.0,54.0
+880,Glow Up: Britain's Next Make-Up Star,2019,16+,SIM,NÃO,NÃO,NÃO,67.0,54.0
+881,Falsa Identidad,2018,16+,SIM,NÃO,NÃO,NÃO,71.0,54.0
+883,Alien Worlds,2020,7+,SIM,NÃO,NÃO,NÃO,65.0,54.0
+884,Barbie: Life in the Dreamhouse,2012,all,SIM,NÃO,NÃO,NÃO,74.0,54.0
+885,Freud,2020,18+,SIM,NÃO,NÃO,NÃO,65.0,54.0
+888,God Eater,2015,16+,SIM,NÃO,NÃO,NÃO,70.0,54.0
+889,El Dragón: Return of a Warrior,2019,18+,SIM,NÃO,NÃO,NÃO,70.0,54.0
+890,Netflix Presents: The Characters,2016,18+,SIM,NÃO,NÃO,NÃO,54.0,54.0
+892,Vampires,2020,18+,SIM,NÃO,NÃO,NÃO,56.0,54.0
+894,#blackAF,2020,18+,SIM,NÃO,NÃO,NÃO,68.0,54.0
+895,Ever After High,2013,all,SIM,NÃO,NÃO,NÃO,80.0,54.0
+896,Sirius the Jaeger,2018,16+,SIM,NÃO,NÃO,NÃO,68.0,54.0
+897,Eternal Love,2017,7+,SIM,NÃO,NÃO,NÃO,83.0,54.0
+898,Murder Mountain,2018,16+,SIM,NÃO,NÃO,NÃO,69.0,54.0
+900,Dope,2017,16+,SIM,NÃO,NÃO,NÃO,73.0,54.0
+901,Troy: Fall of a City,2018,18+,SIM,NÃO,NÃO,NÃO,38.0,54.0
+902,Surviving Escobar - Alias JJ,2017,18+,SIM,NÃO,NÃO,NÃO,79.0,54.0
+905,Skylines,2019,16+,SIM,NÃO,NÃO,NÃO,76.0,54.0
+907,High Score Girl,2018,7+,SIM,NÃO,NÃO,NÃO,80.0,54.0
+909,Unit 42,2017,7+,SIM,NÃO,NÃO,NÃO,70.0,54.0
+910,The Velvet Collection,2017,16+,SIM,NÃO,NÃO,NÃO,72.0,54.0
+911,One on One,2001,16+,SIM,NÃO,SIM,NÃO,72.0,54.0
+912,Monty Python: Almost the Truth (The Lawyer's Cut),2009,7+,SIM,NÃO,NÃO,NÃO,81.0,54.0
+915,Voice,2017,16+,SIM,NÃO,NÃO,NÃO,77.0,54.0
+916,La Révolution,2020,16+,SIM,NÃO,NÃO,NÃO,65.0,54.0
+917,Queer Eye: We're in Japan!,2019,16+,SIM,NÃO,NÃO,NÃO,82.0,54.0
+918,Danger Mouse,1981,7+,SIM,NÃO,NÃO,NÃO,74.0,54.0
+920,Man Like Mobeen,2017,18+,SIM,NÃO,NÃO,NÃO,80.0,53.0
+923,X-Men,2011,16+,SIM,NÃO,NÃO,SIM,69.0,53.0
+925,7SEEDS,2019,18+,SIM,NÃO,NÃO,NÃO,64.0,53.0
+926,Ultimate Beastmaster,2017,all,SIM,NÃO,NÃO,NÃO,73.0,53.0
+927,Trigger Warning with Killer Mike,2019,16+,SIM,NÃO,NÃO,NÃO,70.0,53.0
+928,The Queen of Flow,2018,18+,SIM,NÃO,NÃO,NÃO,78.0,53.0
+929,The Upshaws,2021,16+,SIM,NÃO,NÃO,NÃO,69.0,53.0
+930,Huge in France,2019,16+,SIM,NÃO,NÃO,NÃO,68.0,53.0
+931,Good Morning Call,2016,all,SIM,NÃO,NÃO,NÃO,75.0,53.0
+932,Reality Z,2020,18+,SIM,NÃO,NÃO,NÃO,54.0,53.0
+933,Bella and the Bulldogs,2015,all,SIM,NÃO,NÃO,NÃO,54.0,53.0
+934,Johnny Test,2005,all,SIM,NÃO,NÃO,NÃO,51.0,53.0
+935,The Lost Pirate Kingdom,2021,18+,SIM,NÃO,NÃO,NÃO,66.0,53.0
+936,The I-Land,2019,18+,SIM,NÃO,NÃO,NÃO,46.0,53.0
+939,Free Rein,2017,all,SIM,NÃO,NÃO,NÃO,73.0,53.0
+940,Ashes of Love,2018,7+,SIM,NÃO,NÃO,NÃO,84.0,53.0
+941,Masha and the Bear,2009,all,SIM,NÃO,NÃO,NÃO,75.0,53.0
+943,All Hail King Julien,2014,7+,SIM,NÃO,NÃO,NÃO,71.0,53.0
+944,The Day I Met El Chapo: The Kate del Castillo Story,2017,18+,SIM,NÃO,NÃO,NÃO,69.0,53.0
+945,Argos Comunicación,2017,18+,SIM,NÃO,NÃO,NÃO,72.0,53.0
+947,Busted!,2018,16+,SIM,NÃO,NÃO,NÃO,77.0,53.0
+948,Street Food,2019,all,SIM,NÃO,NÃO,NÃO,82.0,53.0
+949,A Little Thing Called First Love,2019,all,SIM,NÃO,SIM,NÃO,80.0,53.0
+951,Song Exploder,2020,18+,SIM,NÃO,NÃO,NÃO,74.0,53.0
+953,Spycraft,2021,18+,SIM,NÃO,NÃO,NÃO,67.0,53.0
+954,Thieves of the Wood,2020,18+,SIM,NÃO,NÃO,NÃO,68.0,53.0
+955,Headspace Guide to Meditation,2021,7+,SIM,NÃO,NÃO,NÃO,85.0,53.0
+956,Record of Grancrest War,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,53.0
+957,Abyss,2019,16+,SIM,NÃO,NÃO,NÃO,71.0,53.0
+958,Silver Spoon,2014,16+,SIM,NÃO,NÃO,NÃO,77.0,53.0
+959,Omniscient,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,53.0
+960,Creeped Out,2017,7+,SIM,NÃO,NÃO,NÃO,66.0,53.0
+961,The Worst Witch,2017,7+,SIM,NÃO,NÃO,NÃO,73.0,53.0
+962,Diablero,2018,16+,SIM,NÃO,NÃO,NÃO,67.0,53.0
+964,The Daily Life of the Immortal King,2020,16+,SIM,NÃO,NÃO,NÃO,74.0,53.0
+967,My First First Love,2019,7+,SIM,NÃO,NÃO,NÃO,75.0,53.0
+968,The Mr. Peabody & Sherman Show,2015,7+,SIM,NÃO,NÃO,NÃO,58.0,53.0
+971,The Business of Drugs,2020,18+,SIM,NÃO,NÃO,NÃO,72.0,53.0
+972,"Fresh, Fried & Crispy",2021,7+,SIM,NÃO,NÃO,NÃO,62.0,53.0
+974,Jiva!,2021,18+,SIM,NÃO,NÃO,NÃO,57.0,53.0
+975,Killer Ratings,2019,18+,SIM,NÃO,NÃO,NÃO,80.0,53.0
+976,Switched,2018,16+,SIM,NÃO,NÃO,NÃO,71.0,53.0
+978,Criminal: France,2019,7+,SIM,NÃO,NÃO,NÃO,72.0,52.0
+979,Bloodride,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,52.0
+980,Glitch Techs,2020,all,SIM,NÃO,NÃO,NÃO,79.0,52.0
+981,Country Comfort,2021,7+,SIM,NÃO,NÃO,NÃO,69.0,52.0
+982,The Disappearance of Madeleine McCann,2019,16+,SIM,NÃO,NÃO,NÃO,66.0,52.0
+983,Nobody's Looking,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,52.0
+984,Inside the World's Toughest Prisons,2016,18+,SIM,NÃO,NÃO,NÃO,71.0,52.0
+986,Family Reunion,2019,7+,SIM,NÃO,NÃO,NÃO,65.0,52.0
+987,Borderliner,2017,18+,SIM,NÃO,NÃO,NÃO,68.0,52.0
+989,Kissing Game,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,52.0
+993,Neo Yokio,2017,18+,SIM,NÃO,NÃO,NÃO,59.0,52.0
+995,Crazy Delicious,2020,7+,SIM,NÃO,NÃO,NÃO,67.0,52.0
+997,Zumbo's Just Desserts,2016,7+,SIM,NÃO,NÃO,NÃO,69.0,52.0
+1000,Bad Guys,2014,18+,SIM,NÃO,NÃO,NÃO,79.0,52.0
+1001,Fireman Sam,1989,all,SIM,NÃO,SIM,NÃO,62.0,52.0
+1002,We Are the Wave,2019,18+,SIM,NÃO,NÃO,NÃO,61.0,52.0
+1004,Okupas,2000,18+,SIM,NÃO,NÃO,NÃO,91.0,52.0
+1005,Sword Art Online Alternative: Gun Gale Online,2018,16+,SIM,SIM,NÃO,NÃO,69.0,52.0
+1006,The Haunted Hathaways,2013,all,SIM,NÃO,NÃO,NÃO,53.0,52.0
+1007,TIGER & BUNNY,2011,16+,SIM,SIM,NÃO,NÃO,74.0,52.0
+1008,The Queen and the Conqueror,2020,16+,SIM,NÃO,NÃO,NÃO,67.0,52.0
+1010,Hoops,2020,18+,SIM,NÃO,NÃO,NÃO,60.0,52.0
+1011,Crime Diaries: The Candidate,2019,18+,SIM,NÃO,NÃO,NÃO,76.0,52.0
+1012,Zac & Mia,2017,16+,SIM,SIM,NÃO,NÃO,79.0,52.0
+1013,Men on a Mission,2015,16+,SIM,NÃO,NÃO,NÃO,83.0,52.0
+1014,Girls Hostel,2018,7+,SIM,NÃO,NÃO,NÃO,81.0,52.0
+1015,Power Rangers Dino Fury,2021,7+,SIM,NÃO,NÃO,NÃO,68.0,52.0
+1016,Broken,2019,16+,SIM,NÃO,NÃO,NÃO,69.0,52.0
+1017,Barney & Friends,1992,all,SIM,NÃO,SIM,NÃO,39.0,52.0
+1019,We the People,2021,7+,SIM,NÃO,NÃO,NÃO,45.0,52.0
+1021,The Big Show Show,2020,all,SIM,NÃO,NÃO,NÃO,64.0,52.0
+1022,Ares,2020,18+,SIM,NÃO,NÃO,NÃO,56.0,52.0
+1023,The Duchess,2020,18+,SIM,NÃO,SIM,NÃO,68.0,52.0
+1024,Green Frontier,2019,18+,SIM,NÃO,NÃO,NÃO,73.0,52.0
+1027,Nagi no Asukara,2013,7+,SIM,NÃO,NÃO,NÃO,74.0,52.0
+1028,Luna Nera,2020,18+,SIM,NÃO,NÃO,NÃO,56.0,52.0
+1029,Secrets of Great British Castles,2015,7+,SIM,NÃO,NÃO,NÃO,78.0,52.0
+1030,Ridley Jones,2021,all,SIM,NÃO,NÃO,NÃO,56.0,52.0
+1031,Next in Fashion,2020,16+,SIM,NÃO,NÃO,NÃO,73.0,52.0
+1032,Children of the Whales,2017,16+,SIM,NÃO,NÃO,NÃO,71.0,52.0
+1033,Live,2018,16+,SIM,NÃO,NÃO,NÃO,84.0,52.0
+1034,Hangar 1: The UFO Files,2015,7+,SIM,NÃO,SIM,NÃO,73.0,52.0
+1036,Valeria,2020,18+,SIM,NÃO,NÃO,NÃO,62.0,52.0
+1037,Girls und Panzer,2012,16+,SIM,SIM,NÃO,NÃO,74.0,52.0
+1038,World's Most Wanted,2020,16+,SIM,NÃO,NÃO,NÃO,72.0,52.0
+1039,The Adventures of Puss in Boots,2015,7+,SIM,NÃO,NÃO,NÃO,67.0,51.0
+1042,MeatEater,2012,16+,SIM,NÃO,NÃO,NÃO,77.0,51.0
+1043,Old Money,2015,7+,SIM,NÃO,NÃO,NÃO,76.0,51.0
+1047,Heartbreak High,1994,7+,SIM,NÃO,NÃO,NÃO,78.0,51.0
+1050,"Breakfast, Lunch & Dinner",2019,18+,SIM,NÃO,NÃO,NÃO,68.0,51.0
+1051,Trailer Park Boys: Out of the Park: Europe,2016,18+,SIM,NÃO,NÃO,NÃO,67.0,51.0
+1055,Put Your Head on My Shoulder,2019,7+,SIM,NÃO,NÃO,NÃO,80.0,51.0
+1056,Monzón: A Knockout Blow,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,51.0
+1057,The Expanding Universe of Ashley Garcia,2020,all,SIM,NÃO,NÃO,NÃO,68.0,51.0
+1059,Two Sentence Horror Stories,2019,16+,SIM,NÃO,NÃO,NÃO,55.0,51.0
+1060,Shot in the Dark,2017,18+,SIM,NÃO,NÃO,NÃO,83.0,51.0
+1062,Criminal: Spain,2019,7+,SIM,NÃO,NÃO,NÃO,69.0,51.0
+1063,Half & Half,2002,7+,SIM,NÃO,NÃO,NÃO,71.0,51.0
+1066,The Least Expected Day: Inside the Movistar Team 2019,2020,7+,SIM,NÃO,NÃO,NÃO,74.0,51.0
+1068,"Nicky, Ricky, Dicky & Dawn",2014,all,SIM,NÃO,NÃO,NÃO,52.0,51.0
+1071,The Honeymoon Stand Up Special,2018,16+,SIM,NÃO,NÃO,NÃO,69.0,51.0
+1073,BREAK IT ALL: The History of Rock in Latin America,2020,18+,SIM,NÃO,NÃO,NÃO,76.0,51.0
+1074,Rapture,2018,18+,SIM,NÃO,NÃO,NÃO,72.0,51.0
+1077,Chef's Table: France,2016,16+,SIM,NÃO,NÃO,NÃO,83.0,51.0
+1079,Wolverine,2011,16+,SIM,NÃO,NÃO,NÃO,63.0,51.0
+1080,La Doña,2016,16+,SIM,NÃO,NÃO,NÃO,72.0,51.0
+1081,Accidentally In Love,2018,7+,SIM,NÃO,NÃO,NÃO,76.0,51.0
+1083,Final Fantasy XIV: Dad of Light,2017,7+,SIM,NÃO,NÃO,NÃO,70.0,51.0
+1084,Shadow,2019,7+,SIM,NÃO,NÃO,NÃO,66.0,51.0
+1085,Sugar Rush,2018,7+,SIM,NÃO,NÃO,NÃO,70.0,51.0
+1086,Trash Truck,2020,all,SIM,NÃO,NÃO,NÃO,84.0,51.0
+1087,The Victims' Game,2020,18+,SIM,NÃO,NÃO,NÃO,74.0,51.0
+1088,Floor is Lava,2020,all,SIM,NÃO,NÃO,NÃO,53.0,51.0
+1089,Leila,2019,16+,SIM,NÃO,NÃO,NÃO,48.0,51.0
+1092,The Last Kids on Earth,2019,7+,SIM,NÃO,NÃO,NÃO,74.0,51.0
+1093,Behind Enemy Lines,2001,13+,SIM,NÃO,NÃO,NÃO,64.0,50.0
+1094,Dating Around,2019,16+,SIM,NÃO,NÃO,NÃO,63.0,50.0
+1095,Haunted,2018,18+,SIM,NÃO,NÃO,NÃO,46.0,50.0
+1096,Drug Lords,2018,18+,SIM,NÃO,NÃO,NÃO,68.0,50.0
+1097,Jinn,2019,16+,SIM,NÃO,NÃO,NÃO,35.0,50.0
+1098,The Wiggles,1998,all,SIM,NÃO,NÃO,NÃO,59.0,50.0
+1099,Bling Empire,2021,18+,SIM,NÃO,NÃO,NÃO,58.0,50.0
+1100,The InBESTigators,2019,all,SIM,NÃO,NÃO,NÃO,81.0,50.0
+1101,Ad Vitam,2018,7+,SIM,NÃO,NÃO,NÃO,65.0,50.0
+1102,Girls Incarcerated,2018,18+,SIM,NÃO,NÃO,NÃO,73.0,50.0
+1104,Bonus Family,2017,7+,SIM,NÃO,NÃO,NÃO,76.0,50.0
+1105,The Club,2019,18+,SIM,NÃO,NÃO,NÃO,63.0,50.0
+1106,Rabbids Invasion,2013,7+,SIM,SIM,NÃO,NÃO,50.0,50.0
+1107,Why Are You Like This?,2021,18+,SIM,NÃO,NÃO,NÃO,65.0,50.0
+1108,Moesha,1996,7+,SIM,SIM,NÃO,NÃO,58.0,50.0
+1109,Ben and Holly's Little Kingdom,2009,all,SIM,NÃO,NÃO,NÃO,74.0,50.0
+1111,The Alcàsser Murders,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,50.0
+1112,Scare Tactics,2003,16+,SIM,NÃO,NÃO,NÃO,67.0,50.0
+1114,(Un)Well,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,50.0
+1115,The Houseboat,2021,18+,SIM,NÃO,NÃO,NÃO,73.0,50.0
+1119,The Stranded,2019,18+,SIM,NÃO,NÃO,NÃO,63.0,50.0
+1120,Chelsea,2016,18+,SIM,NÃO,NÃO,NÃO,60.0,50.0
+1121,Transformers: Rescue Bots,2012,7+,SIM,NÃO,SIM,NÃO,65.0,50.0
+1124,Stay Here,2018,7+,SIM,NÃO,NÃO,NÃO,75.0,50.0
+1125,Murder Maps,2015,16+,SIM,NÃO,NÃO,NÃO,75.0,50.0
+1126,Filinta: An Ottoman Policeman,2014,16+,SIM,NÃO,NÃO,NÃO,68.0,50.0
+1127,White Rabbit Project,2016,7+,SIM,NÃO,NÃO,NÃO,69.0,50.0
+1128,Mystery Lab,2020,7+,SIM,NÃO,NÃO,NÃO,77.0,50.0
+1132,Supermarket Sweep,1990,all,SIM,SIM,SIM,NÃO,75.0,50.0
+1133,Pandemic: How to Prevent an Outbreak,2020,16+,SIM,NÃO,NÃO,NÃO,64.0,50.0
+1134,Autumn's Concerto,2009,16+,SIM,NÃO,NÃO,NÃO,80.0,50.0
+1136,Mobile Suit Gundam Unicorn,2010,16+,SIM,NÃO,NÃO,NÃO,78.0,50.0
+1141,Moving Art,2007,7+,SIM,NÃO,NÃO,NÃO,87.0,50.0
+1142,Bumping Mics with Jeff Ross & Dave Attell,2018,18+,SIM,NÃO,NÃO,NÃO,77.0,50.0
+1143,The Chase,2013,all,SIM,SIM,NÃO,NÃO,74.0,50.0
+1144,Hardy Bucks,2010,7+,SIM,NÃO,NÃO,NÃO,83.0,50.0
+1145,Hymn of Death,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,50.0
+1150,Ellen DeGeneres: Relatable,2018,16+,SIM,NÃO,NÃO,NÃO,65.0,49.0
+1151,Brews Brothers,2020,18+,SIM,NÃO,NÃO,NÃO,51.0,49.0
+1152,Spirit: Riding Free,2017,7+,SIM,NÃO,NÃO,NÃO,66.0,49.0
+1153,Mismatched,2020,18+,SIM,NÃO,NÃO,NÃO,55.0,49.0
+1154,The Cabin with Bert Kreischer,2020,18+,SIM,NÃO,NÃO,NÃO,73.0,49.0
+1156,Booba,2014,all,SIM,NÃO,SIM,NÃO,70.0,49.0
+1157,Instant Hotel,2018,7+,SIM,NÃO,NÃO,NÃO,73.0,49.0
+1158,Dancing Queen,2018,7+,SIM,NÃO,NÃO,NÃO,70.0,49.0
+1163,QB1: Beyond the Lights,2017,16+,SIM,NÃO,NÃO,NÃO,78.0,49.0
+1165,Moving On,2009,7+,SIM,NÃO,NÃO,NÃO,75.0,49.0
+1166,Hache,2019,18+,SIM,NÃO,NÃO,NÃO,65.0,49.0
+1169,Jailbirds,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,49.0
+1171,FIGHTWORLD,2018,18+,SIM,NÃO,NÃO,NÃO,76.0,49.0
+1172,The Hockey Girls,2019,16+,SIM,NÃO,NÃO,NÃO,69.0,49.0
+1173,SWORD GAI: The Animation,2018,18+,SIM,NÃO,NÃO,NÃO,59.0,49.0
+1174,Ask the Storybots,2016,all,SIM,NÃO,NÃO,NÃO,84.0,49.0
+1175,Black Ink Crew New York,2013,16+,SIM,SIM,NÃO,NÃO,46.0,49.0
+1176,Lunatics,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,49.0
+1177,Angry Birds Toons,2013,all,SIM,NÃO,NÃO,NÃO,63.0,49.0
+1178,Puffin Rock,2015,all,SIM,NÃO,NÃO,NÃO,87.0,49.0
+1179,Kid Cosmic,2021,7+,SIM,NÃO,NÃO,NÃO,80.0,49.0
+1181,City of Ghosts,2021,7+,SIM,NÃO,SIM,NÃO,80.0,49.0
+1182,Unstoppable,2020,18+,SIM,SIM,NÃO,NÃO,73.0,49.0
+1183,Wild Catch / Chasing Monsters,2016,7+,SIM,NÃO,NÃO,NÃO,74.0,49.0
+1189,Molang,2015,all,SIM,SIM,SIM,NÃO,86.0,49.0
+1190,Beyblade Burst,2016,7+,SIM,NÃO,NÃO,NÃO,67.0,49.0
+1194,Signs,2018,18+,SIM,NÃO,SIM,NÃO,62.0,48.0
+1196,The Deep,2016,7+,SIM,NÃO,NÃO,NÃO,79.0,48.0
+1197,Hot Date,2017,16+,SIM,NÃO,SIM,NÃO,71.0,48.0
+1198,Sparta,2018,18+,SIM,NÃO,NÃO,NÃO,66.0,48.0
+1199,Trolls: The Beat Goes On!,2018,all,SIM,NÃO,NÃO,NÃO,59.0,48.0
+1200,Atelier,2015,16+,SIM,NÃO,NÃO,NÃO,72.0,48.0
+1201,The Healing Powers of Dude,2020,all,SIM,NÃO,NÃO,NÃO,66.0,48.0
+1203,Pocoyo,2005,all,SIM,SIM,SIM,NÃO,74.0,48.0
+1206,The Cuba Libre Story,2016,16+,SIM,NÃO,NÃO,NÃO,77.0,48.0
+1207,El Chema,2016,16+,SIM,NÃO,NÃO,NÃO,68.0,48.0
+1208,My Little Pony: Equestria Girls,2017,all,SIM,NÃO,NÃO,NÃO,64.0,48.0
+1209,Love (ft. Marriage and Divorce),2021,7+,SIM,NÃO,NÃO,NÃO,59.0,48.0
+1210,The Royal House of Windsor,2017,16+,SIM,NÃO,NÃO,NÃO,73.0,48.0
+1211,Dealer,2021,18+,SIM,NÃO,NÃO,NÃO,62.0,48.0
+1213,Can You Hear Me?,2019,16+,SIM,NÃO,NÃO,NÃO,77.0,48.0
+1215,1994,2019,18+,SIM,NÃO,NÃO,NÃO,76.0,48.0
+1216,Pac-Man and the Ghostly Adventures,2013,7+,SIM,NÃO,SIM,NÃO,49.0,48.0
+1217,The Parkers,1999,7+,SIM,NÃO,NÃO,NÃO,69.0,48.0
+1221,Cooked With Cannabis,2020,18+,SIM,NÃO,NÃO,NÃO,66.0,48.0
+1222,Gigantosaurus,2019,all,SIM,NÃO,NÃO,SIM,72.0,48.0
+1223,Re:Mind,2017,18+,SIM,NÃO,NÃO,NÃO,50.0,48.0
+1224,The Magic School Bus Rides Again,2017,all,SIM,NÃO,NÃO,NÃO,62.0,48.0
+1227,The Kirlian Frequency,2019,7+,SIM,NÃO,NÃO,NÃO,76.0,48.0
+1232,Granblue Fantasy: The Animation,2017,16+,SIM,NÃO,NÃO,NÃO,64.0,48.0
+1233,Fated to Love You,2008,7+,SIM,SIM,NÃO,NÃO,74.0,48.0
+1235,Women of the Night,2019,18+,SIM,NÃO,NÃO,NÃO,62.0,48.0
+1238,Dad Stop Embarrassing Me!,2021,7+,SIM,NÃO,NÃO,NÃO,42.0,48.0
+1239,Kuromukuro,2016,16+,SIM,NÃO,NÃO,NÃO,72.0,48.0
+1240,Real Rob,2015,18+,SIM,NÃO,NÃO,NÃO,64.0,48.0
+1242,Prank Encounters,2019,16+,SIM,NÃO,NÃO,NÃO,52.0,48.0
+1243,The Mafia Dolls,2009,18+,SIM,NÃO,NÃO,NÃO,66.0,48.0
+1245,Sintonia,2019,18+,SIM,NÃO,NÃO,NÃO,68.0,47.0
+1246,Examination of Conscience,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,47.0
+1250,The Cat in the Hat Knows a Lot About That!,2010,all,SIM,NÃO,SIM,NÃO,65.0,47.0
+1253,AMO,2018,18+,SIM,NÃO,NÃO,NÃO,65.0,47.0
+1254,Super Drags,2018,18+,SIM,NÃO,NÃO,NÃO,56.0,47.0
+1256,Pop Team Epic,2018,18+,SIM,NÃO,SIM,NÃO,69.0,47.0
+1259,Haunted: Latin America,2021,16+,SIM,NÃO,NÃO,NÃO,54.0,47.0
+1261,Brainchild,2018,7+,SIM,NÃO,NÃO,NÃO,81.0,47.0
+1262,Flavorful Origins,2019,all,SIM,NÃO,NÃO,NÃO,78.0,47.0
+1263,Record of Youth,2020,16+,SIM,NÃO,NÃO,NÃO,73.0,47.0
+1264,StarBeam,2020,all,SIM,NÃO,NÃO,NÃO,69.0,47.0
+1266,Fate/Apocrypha,2017,18+,SIM,NÃO,NÃO,NÃO,66.0,47.0
+1270,Yankee,2019,18+,SIM,NÃO,NÃO,NÃO,60.0,47.0
+1271,Dream Home Makeover,2020,all,SIM,NÃO,NÃO,NÃO,56.0,47.0
+1272,Project Mc²,2015,all,SIM,NÃO,NÃO,NÃO,60.0,47.0
+1276,Canine Intervention,2021,16+,SIM,NÃO,NÃO,NÃO,65.0,47.0
+1284,Cagaster of an Insect Cage,2020,18+,SIM,NÃO,NÃO,NÃO,62.0,47.0
+1285,All For Love,2020,7+,SIM,NÃO,NÃO,NÃO,70.0,47.0
+1286,Bill Nye Saves the World,2017,7+,SIM,NÃO,NÃO,NÃO,36.0,47.0
+1287,A.I.C.O. -Incarnation-,2018,18+,SIM,NÃO,NÃO,NÃO,64.0,47.0
+1288,72 Dangerous Animals: Latin America,2017,16+,SIM,NÃO,NÃO,NÃO,66.0,47.0
+1289,Restaurants on the Edge,2020,16+,SIM,NÃO,NÃO,NÃO,68.0,47.0
+1292,El Reemplazante,2012,16+,SIM,NÃO,NÃO,NÃO,85.0,47.0
+1293,Bolívar: Una lucha admirable,2019,18+,SIM,NÃO,NÃO,NÃO,75.0,47.0
+1295,The Epic Tales of Captain Underpants,2018,7+,SIM,NÃO,NÃO,NÃO,67.0,47.0
+1297,The Chosen One,2019,18+,SIM,NÃO,NÃO,NÃO,58.0,47.0
+1299,The Piano Forest,2018,7+,SIM,NÃO,NÃO,NÃO,71.0,47.0
+1302,SAINT SEIYA: Knights of the Zodiac,2019,16+,SIM,NÃO,NÃO,NÃO,45.0,46.0
+1303,Timmy Time,2009,all,SIM,NÃO,NÃO,NÃO,69.0,46.0
+1304,Her Mother's Killer,2020,16+,SIM,NÃO,NÃO,NÃO,77.0,46.0
+1307,Surviving Death,2021,18+,SIM,NÃO,NÃO,NÃO,61.0,46.0
+1309,The House Arrest of Us,2020,7+,SIM,NÃO,NÃO,NÃO,75.0,46.0
+1314,Witch Hunt: A Century of Murder,2015,18+,SIM,NÃO,NÃO,NÃO,72.0,46.0
+1315,Meet the Drug Lords: Inside the Real Narcos,2018,7+,SIM,NÃO,NÃO,NÃO,75.0,46.0
+1316,Gabby's Dollhouse,2021,all,SIM,NÃO,NÃO,NÃO,71.0,46.0
+1319,Monty Python's Personal Best,2006,16+,SIM,NÃO,NÃO,NÃO,79.0,46.0
+1321,World of Winx,2016,7+,SIM,NÃO,NÃO,NÃO,68.0,46.0
+1322,The Big Day,2021,18+,SIM,NÃO,NÃO,NÃO,46.0,46.0
+1323,Afflicted,2018,18+,SIM,NÃO,SIM,NÃO,50.0,46.0
+1328,Lost & Found Music Studios,2015,all,SIM,NÃO,NÃO,NÃO,68.0,46.0
+1329,Minecraft: Story Mode,2018,7+,SIM,NÃO,NÃO,NÃO,57.0,46.0
+1331,The Break with Michelle Wolf,2018,18+,SIM,NÃO,NÃO,NÃO,53.0,46.0
+1332,Beat Bugs,2016,all,SIM,NÃO,NÃO,NÃO,76.0,46.0
+1334,Transformers: Cyberverse,2018,7+,SIM,NÃO,NÃO,NÃO,68.0,46.0
+1336,Grizzy & the Lemmings,2016,all,SIM,NÃO,NÃO,NÃO,70.0,46.0
+1338,The Garfield Show,2009,all,SIM,NÃO,NÃO,NÃO,54.0,46.0
+1339,Abby Hatcher,2018,all,SIM,NÃO,NÃO,NÃO,62.0,46.0
+1342,"Schulz Saves America: Pandemics, Predators, Protests & Presidents",2020,18+,SIM,NÃO,NÃO,NÃO,75.0,46.0
+1345,Dawn of the Croods,2015,7+,SIM,NÃO,NÃO,NÃO,60.0,46.0
+1348,Power Rangers Beast Morphers,2019,7+,SIM,NÃO,NÃO,NÃO,68.0,45.0
+1351,The Big Family Cooking Showdown,2017,7+,SIM,NÃO,NÃO,NÃO,70.0,45.0
+1353,Awake: The Million Dollar Game,2019,7+,SIM,NÃO,NÃO,NÃO,59.0,45.0
+1354,Cheer Squad,2016,7+,SIM,NÃO,NÃO,NÃO,74.0,45.0
+1357,The Way of the Househusband,2021,16+,SIM,NÃO,NÃO,NÃO,86.0,45.0
+1360,Skylanders Academy,2016,7+,SIM,NÃO,NÃO,NÃO,66.0,45.0
+1362,The Fix,2018,18+,SIM,NÃO,NÃO,NÃO,71.0,45.0
+1364,Astronomy Club: The Sketch Show,2019,18+,SIM,NÃO,NÃO,NÃO,71.0,45.0
+1365,Prince of Peoria,2018,all,SIM,NÃO,NÃO,NÃO,59.0,45.0
+1367,Numberblocks,2017,all,SIM,NÃO,NÃO,NÃO,81.0,45.0
+1368,Polly Pocket,2018,7+,SIM,NÃO,NÃO,NÃO,68.0,45.0
+1369,All About the Washingtons,2018,all,SIM,NÃO,NÃO,NÃO,45.0,45.0
+1371,Archibald's Next Big Thing,2019,7+,SIM,NÃO,NÃO,NÃO,78.0,45.0
+1373,All Hail King Julien: Exiled,2017,7+,SIM,NÃO,NÃO,NÃO,75.0,45.0
+1374,Dragons: Rescue Riders,2019,7+,SIM,NÃO,NÃO,NÃO,61.0,45.0
+1375,21 Thunder,2017,18+,SIM,NÃO,NÃO,NÃO,62.0,45.0
+1377,Smoking,2018,18+,SIM,NÃO,NÃO,NÃO,75.0,45.0
+1378,My Only Love Song,2017,18+,SIM,NÃO,NÃO,NÃO,69.0,45.0
+1379,45 RPM,2019,16+,SIM,NÃO,NÃO,NÃO,73.0,45.0
+1381,Amazing Interiors,2018,all,SIM,NÃO,NÃO,NÃO,67.0,45.0
+1382,72 Dangerous Animals: Asia,2018,16+,SIM,NÃO,NÃO,NÃO,66.0,45.0
+1383,Mia and Me,2012,all,SIM,NÃO,NÃO,NÃO,66.0,45.0
+1384,Tong: Memories,2016,7+,SIM,NÃO,NÃO,NÃO,81.0,45.0
+1386,Transformers: Robots In Disguise,2015,all,SIM,NÃO,SIM,NÃO,59.0,45.0
+1387,Deaf U,2020,18+,SIM,NÃO,NÃO,NÃO,64.0,45.0
+1388,Brotherhood,2019,16+,SIM,NÃO,SIM,NÃO,76.0,45.0
+1390,Lost Song,2018,16+,SIM,NÃO,NÃO,NÃO,72.0,45.0
+1392,Izzy's Koala World,2020,all,SIM,NÃO,NÃO,NÃO,80.0,45.0
+1393,True and the Rainbow Kingdom,2017,all,SIM,NÃO,NÃO,NÃO,71.0,45.0
+1394,Power Rangers Ninja Steel,2017,7+,SIM,NÃO,NÃO,NÃO,60.0,45.0
+1395,LEGO Jurassic World: Legend of Isla Nublar,2019,all,SIM,NÃO,NÃO,NÃO,68.0,45.0
+1396,Silvana Sin Lana,2016,16+,SIM,NÃO,NÃO,NÃO,75.0,45.0
+1399,Buddy Thunderstruck,2017,7+,SIM,NÃO,NÃO,NÃO,78.0,45.0
+1400,Inside the Criminal Mind,2018,18+,SIM,SIM,NÃO,NÃO,55.0,45.0
+1402,Late Night Restaurant,2015,16+,SIM,NÃO,NÃO,NÃO,79.0,45.0
+1403,Holiday Secrets,2019,16+,SIM,NÃO,NÃO,NÃO,65.0,44.0
+1404,Historical Roasts,2019,18+,SIM,NÃO,NÃO,NÃO,53.0,44.0
+1405,Twelve Forever,2019,7+,SIM,NÃO,NÃO,NÃO,67.0,44.0
+1410,Age of Tanks,2019,18+,SIM,NÃO,NÃO,NÃO,73.0,44.0
+1411,Best Leftovers Ever!,2020,all,SIM,NÃO,NÃO,NÃO,57.0,44.0
+1412,Rhyme Time Town,2020,all,SIM,NÃO,NÃO,NÃO,75.0,44.0
+1413,Go Dog Go,2021,all,SIM,NÃO,NÃO,NÃO,74.0,44.0
+1414,Samantha!,2018,7+,SIM,NÃO,NÃO,NÃO,67.0,44.0
+1416,Mighty Little Bheem,2019,all,SIM,NÃO,NÃO,NÃO,67.0,44.0
+1419,Horrid Henry,2006,7+,SIM,NÃO,SIM,NÃO,64.0,44.0
+1420,The Ollie & Moon Show,2017,all,SIM,NÃO,NÃO,NÃO,83.0,44.0
+1421,Dinotrux,2015,7+,SIM,NÃO,NÃO,NÃO,69.0,44.0
+1423,Some Assembly Required,2014,all,SIM,NÃO,SIM,NÃO,37.0,44.0
+1424,Beyblade Burst Rise,2020,7+,SIM,NÃO,NÃO,NÃO,65.0,44.0
+1425,Keeping Up with the Joneses,2010,7+,SIM,NÃO,NÃO,NÃO,88.0,44.0
+1426,Rainbow Rangers,2018,all,SIM,NÃO,NÃO,NÃO,54.0,44.0
+1428,Dollar,2019,18+,SIM,NÃO,NÃO,NÃO,67.0,44.0
+1429,First and Last,2018,18+,SIM,NÃO,NÃO,NÃO,67.0,44.0
+1433,Hjørdis,2015,all,SIM,NÃO,NÃO,NÃO,72.0,44.0
+1435,Buried by the Bernards,2021,16+,SIM,NÃO,NÃO,NÃO,73.0,44.0
+1437,Kevin Hart: Don't F**k This Up,2019,18+,SIM,NÃO,NÃO,NÃO,65.0,44.0
+1439,LEGO City Adventures,2019,7+,SIM,NÃO,SIM,NÃO,70.0,44.0
+1441,Nature's Weirdest Events,2012,all,SIM,NÃO,NÃO,NÃO,69.0,44.0
+1442,Dragon Pilot: Hisone and Masotan,2018,16+,SIM,NÃO,NÃO,NÃO,69.0,44.0
+1443,Talking Tom and Friends,2014,7+,SIM,NÃO,NÃO,NÃO,63.0,44.0
+1446,Coach Snoop,2016,all,SIM,NÃO,NÃO,NÃO,69.0,44.0
+1447,Hero Mask,2018,16+,SIM,NÃO,NÃO,NÃO,62.0,44.0
+1448,Emily's Wonder Lab,2020,all,SIM,NÃO,NÃO,NÃO,86.0,44.0
+1449,The Ghost Bride,2020,18+,SIM,NÃO,NÃO,NÃO,60.0,44.0
+1451,Chief of Staff,2019,16+,SIM,NÃO,NÃO,NÃO,79.0,44.0
+1453,Three Days of Christmas,2019,18+,SIM,NÃO,NÃO,NÃO,68.0,44.0
+1454,Homemade,2020,16+,SIM,NÃO,NÃO,NÃO,60.0,44.0
+1455,Ingress: The Animation,2018,all,SIM,NÃO,NÃO,NÃO,66.0,44.0
+1456,Exhibit A,2019,18+,SIM,NÃO,SIM,NÃO,62.0,44.0
+1457,Apache: La vida de Carlos Tevez,2019,18+,SIM,NÃO,NÃO,NÃO,79.0,44.0
+1458,Home: Adventures with Tip & Oh,2016,7+,SIM,NÃO,NÃO,NÃO,60.0,43.0
+1459,Hotel Transylvania,2017,7+,SIM,NÃO,NÃO,NÃO,55.0,43.0
+1461,The Garden of Heaven,2011,16+,SIM,NÃO,NÃO,NÃO,87.0,43.0
+1463,Barbie Dreamhouse Adventures,2018,all,SIM,NÃO,NÃO,NÃO,68.0,43.0
+1464,Hidden Worlds,2018,all,SIM,NÃO,NÃO,NÃO,72.0,43.0
+1465,A Boy Named Flora A,2017,18+,SIM,NÃO,NÃO,NÃO,78.0,43.0
+1467,The Idhun Chronicles,2020,16+,SIM,NÃO,NÃO,NÃO,54.0,43.0
+1469,44 Cats,2018,7+,SIM,NÃO,NÃO,NÃO,61.0,43.0
+1473,72 Dangerous Places to Live,2016,18+,SIM,NÃO,NÃO,NÃO,62.0,43.0
+1475,Turbo FAST,2013,7+,SIM,NÃO,NÃO,NÃO,65.0,43.0
+1478,Legend Quest,2017,7+,SIM,NÃO,NÃO,NÃO,74.0,43.0
+1482,Dinosaur King,2007,7+,SIM,NÃO,NÃO,NÃO,57.0,43.0
+1483,Once Upon a Time in Lingjian Mountain,2019,all,SIM,NÃO,NÃO,NÃO,77.0,43.0
+1486,Take My Brother Away,2018,all,SIM,NÃO,NÃO,NÃO,71.0,43.0
+1488,The Rap Game,2016,7+,SIM,NÃO,NÃO,NÃO,57.0,43.0
+1489,Basketball or Nothing,2019,7+,SIM,NÃO,NÃO,NÃO,75.0,43.0
+1490,Go! Go! Cory Carson,2020,all,SIM,NÃO,NÃO,NÃO,81.0,43.0
+1497,Super Monsters,2017,all,SIM,NÃO,NÃO,NÃO,65.0,43.0
+1498,How to Ruin Christmas: The Wedding,2020,18+,SIM,NÃO,NÃO,NÃO,62.0,43.0
+1499,ReBoot: The Guardian Code,2018,7+,SIM,NÃO,NÃO,NÃO,38.0,43.0
+1501,Hoff the Record,2015,16+,SIM,NÃO,SIM,NÃO,70.0,43.0
+1502,Larry Charles' Dangerous World of Comedy,2019,18+,SIM,NÃO,NÃO,NÃO,73.0,43.0
+1503,Triad Princess,2019,18+,SIM,NÃO,NÃO,NÃO,69.0,43.0
+1505,Apaches,2015,18+,SIM,NÃO,NÃO,NÃO,70.0,43.0
+1507,Followers,2020,18+,SIM,NÃO,NÃO,NÃO,62.0,42.0
+1508,13 Reasons Why: Beyond the Reasons,2017,18+,SIM,NÃO,NÃO,NÃO,64.0,42.0
+1511,Cupcake & Dino - General Services,2018,7+,SIM,NÃO,NÃO,NÃO,78.0,42.0
+1512,Ice Fantasy,2016,16+,SIM,NÃO,NÃO,NÃO,71.0,42.0
+1513,Revolutionary Love,2017,7+,SIM,NÃO,NÃO,NÃO,71.0,42.0
+1515,Sunny Bunnies,2015,all,SIM,NÃO,NÃO,NÃO,68.0,42.0
+1516,Stretch Armstrong & the Flex Fighters,2017,7+,SIM,NÃO,NÃO,NÃO,65.0,42.0
+1520,Simon,2016,all,SIM,NÃO,NÃO,NÃO,73.0,42.0
+1522,Zig and Sharko,2010,all,SIM,NÃO,NÃO,NÃO,69.0,42.0
+1525,The Octonauts,2010,all,SIM,NÃO,NÃO,NÃO,64.0,42.0
+1526,Westside,2018,16+,SIM,NÃO,SIM,NÃO,62.0,42.0
+1527,Alien TV,2020,7+,SIM,NÃO,NÃO,NÃO,62.0,42.0
+1530,VeggieTales in the City,2017,all,SIM,NÃO,NÃO,NÃO,60.0,42.0
+1531,Love O2O,2016,16+,SIM,NÃO,NÃO,NÃO,80.0,42.0
+1533,Upin & Ipin,2007,all,SIM,NÃO,NÃO,NÃO,58.0,42.0
+1534,Follow This,2018,18+,SIM,NÃO,NÃO,NÃO,49.0,42.0
+1537,Living Undocumented,2019,18+,SIM,NÃO,NÃO,NÃO,66.0,42.0
+1538,Fate/Extra Last Encore,2018,18+,SIM,NÃO,NÃO,NÃO,54.0,42.0
+1539,Alphablocks,2010,all,SIM,NÃO,NÃO,NÃO,78.0,42.0
+1540,Puerta 7,2020,18+,SIM,NÃO,NÃO,NÃO,57.0,42.0
+1542,We Speak Dance,2018,7+,SIM,NÃO,NÃO,NÃO,76.0,42.0
+1543,Racket Boys,2021,16+,SIM,NÃO,NÃO,NÃO,11.0,42.0
+1545,Heidi,2015,all,SIM,NÃO,SIM,NÃO,72.0,42.0
+1547,Centaurworld,2021,7+,SIM,NÃO,NÃO,NÃO,71.0,42.0
+1548,Magmel of the Sea Blue,2019,7+,SIM,NÃO,NÃO,NÃO,62.0,41.0
+1550,The Legend of White Snake,2019,all,SIM,NÃO,NÃO,NÃO,77.0,41.0
+1552,Last Hope,2018,16+,SIM,NÃO,NÃO,NÃO,58.0,41.0
+1556,Death by Magic,2018,7+,SIM,NÃO,NÃO,NÃO,61.0,41.0
+1557,Welcome to the Family,2018,16+,SIM,NÃO,NÃO,NÃO,67.0,41.0
+1559,Motown Magic,2018,all,SIM,NÃO,NÃO,NÃO,77.0,41.0
+1562,Gormiti,2018,7+,SIM,NÃO,NÃO,NÃO,60.0,41.0
+1565,Takki,2012,all,SIM,NÃO,NÃO,NÃO,71.0,41.0
+1567,Angelina Ballerina: The Next Steps,2009,all,SIM,NÃO,NÃO,NÃO,49.0,41.0
+1569,The Casketeers,2018,16+,SIM,NÃO,NÃO,NÃO,75.0,41.0
+1571,Spectros,2020,18+,SIM,NÃO,NÃO,NÃO,47.0,41.0
+1576,My Runway,2016,7+,SIM,NÃO,NÃO,NÃO,64.0,41.0
+1577,LEGO Marvel Avengers: Climate Conundrum,2020,7+,SIM,NÃO,NÃO,NÃO,70.0,41.0
+1582,The Haunted House,2016,7+,SIM,NÃO,NÃO,NÃO,84.0,40.0
+1583,Oddbods (Shorts),2015,7+,SIM,NÃO,NÃO,NÃO,64.0,40.0
+1585,Cleo & Cuquin,2018,7+,SIM,NÃO,NÃO,NÃO,80.0,40.0
+1586,Inspector Gadget,2015,all,SIM,NÃO,NÃO,SIM,46.0,40.0
+1588,Magic for Humans Spain,2021,18+,SIM,NÃO,NÃO,NÃO,64.0,40.0
+1590,The Qin Empire,2009,7+,SIM,NÃO,NÃO,NÃO,81.0,40.0
+1593,The Comedy Lineup,2018,18+,SIM,NÃO,NÃO,NÃO,59.0,40.0
+1595,Charlie's Colorforms City,2019,all,SIM,NÃO,NÃO,NÃO,71.0,40.0
+1596,Cloudy with a Chance of Meatballs,2017,all,SIM,NÃO,NÃO,NÃO,33.0,40.0
+1598,Absurd Planet,2020,7+,SIM,NÃO,NÃO,NÃO,39.0,40.0
+1600,Mighty Express,2020,all,SIM,NÃO,NÃO,NÃO,50.0,40.0
+1601,Children of Adam,2020,18+,SIM,NÃO,NÃO,NÃO,79.0,40.0
+1602,Nowhere Man,2019,18+,SIM,NÃO,NÃO,NÃO,56.0,40.0
+1604,Club de Cuervos Presents: The Ballad of Hugo Sánchez,2018,18+,SIM,NÃO,NÃO,NÃO,65.0,40.0
+1605,Mob Psycho 100,2018,all,SIM,NÃO,NÃO,NÃO,52.0,40.0
+1607,Lego Bionicle: The Journey to One,2016,7+,SIM,NÃO,NÃO,NÃO,55.0,40.0
+1608,Back Street Girls: Goku Dolls,2018,18+,SIM,NÃO,NÃO,NÃO,67.0,40.0
+1609,The Iliza Shlesinger Sketch Show,2020,18+,SIM,NÃO,NÃO,NÃO,50.0,40.0
+1610,Becoming Champions,2018,all,SIM,NÃO,NÃO,NÃO,67.0,40.0
+1611,Bakugan: Battle Planet,2018,all,SIM,NÃO,NÃO,NÃO,49.0,40.0
+1613,The Writer,2019,7+,SIM,NÃO,NÃO,NÃO,66.0,40.0
+1614,Robot Trains,2017,all,SIM,NÃO,SIM,NÃO,62.0,40.0
+1615,Pororo the Little Penguin,2003,all,SIM,SIM,SIM,NÃO,60.0,40.0
+1617,H2O - Abenteuer Meerjungfrau,2015,7+,SIM,NÃO,NÃO,NÃO,56.0,40.0
+1620,The Fierce Wife,2010,16+,SIM,NÃO,NÃO,NÃO,68.0,40.0
+1621,Eugenie Nights - ليالي أوجيني,2018,16+,SIM,NÃO,NÃO,NÃO,74.0,40.0
+1622,Tiny Creatures,2020,7+,SIM,NÃO,NÃO,NÃO,49.0,40.0
+1625,Standup and Away! with Brian Regan,2018,16+,SIM,NÃO,NÃO,NÃO,58.0,40.0
+1626,Black Crows,2018,18+,SIM,NÃO,NÃO,NÃO,56.0,40.0
+1628,Yummy Mummies,2017,7+,SIM,NÃO,NÃO,NÃO,41.0,40.0
+1629,revisions,2019,18+,SIM,NÃO,NÃO,NÃO,60.0,40.0
+1630,Green Door,2019,18+,SIM,NÃO,NÃO,NÃO,63.0,40.0
+1633,Million Dollar Beach House,2020,18+,SIM,NÃO,NÃO,NÃO,41.0,40.0
+1634,I Hear You,2019,all,SIM,NÃO,NÃO,NÃO,78.0,40.0
+1636,Littlest Pet Shop: A World of Our Own,2018,all,SIM,NÃO,NÃO,NÃO,68.0,39.0
+1637,Spy Kids: Mission Critical,2018,all,SIM,NÃO,NÃO,NÃO,49.0,39.0
+1639,Dino Girl Gauko,2019,7+,SIM,NÃO,NÃO,NÃO,67.0,39.0
+1640,Hasmukh,2020,18+,SIM,NÃO,NÃO,NÃO,53.0,39.0
+1641,Here to Heart,2018,7+,SIM,NÃO,NÃO,NÃO,74.0,39.0
+1644,The Good Bandit,2019,18+,SIM,NÃO,NÃO,NÃO,78.0,39.0
+1645,"Wait, My Youth",2019,all,SIM,NÃO,NÃO,NÃO,86.0,39.0
+1647,Locombianos,2021,18+,SIM,NÃO,NÃO,NÃO,36.0,39.0
+1649,Rainbow Ruby,2016,all,SIM,NÃO,NÃO,NÃO,66.0,39.0
+1650,Justin Time,2011,all,SIM,NÃO,NÃO,NÃO,67.0,39.0
+1651,Fugitiva,2018,18+,SIM,NÃO,NÃO,NÃO,57.0,39.0
+1653,Flinch,2019,7+,SIM,NÃO,NÃO,NÃO,43.0,39.0
+1654,Larva,2011,all,SIM,NÃO,NÃO,NÃO,72.0,39.0
+1657,StoryBots Super Songs,2016,all,SIM,NÃO,NÃO,NÃO,85.0,39.0
+1659,VeggieTales In The House,2014,all,SIM,NÃO,NÃO,NÃO,44.0,39.0
+1660,LEGO Jurassic World: The Secret Exhibit,2018,7+,SIM,NÃO,NÃO,NÃO,63.0,39.0
+1661,Strong,2016,7+,SIM,NÃO,NÃO,NÃO,75.0,39.0
+1664,The American Bible Challenge,2012,all,SIM,NÃO,NÃO,NÃO,64.0,39.0
+1666,GAME ON: A Comedy Crossover Event,2020,all,SIM,NÃO,NÃO,NÃO,57.0,39.0
+1667,ID-0,2017,16+,SIM,NÃO,NÃO,NÃO,61.0,39.0
+1668,Tijuana,2019,16+,SIM,NÃO,NÃO,NÃO,71.0,39.0
+1669,Dinotrux: Supercharged,2017,7+,SIM,NÃO,NÃO,NÃO,72.0,39.0
+1670,The Jungle Book,2010,all,SIM,NÃO,NÃO,SIM,42.0,39.0
+1673,Rhyme Time Town Singalongs,2020,all,SIM,NÃO,NÃO,NÃO,83.0,39.0
+1674,Transformers: Rescue Bots Academy,2019,all,SIM,NÃO,NÃO,NÃO,66.0,39.0
+1675,"Noddy, Toyland Detective",2016,all,SIM,NÃO,NÃO,NÃO,62.0,39.0
+1676,Ricky Zoom,2019,all,SIM,NÃO,NÃO,NÃO,65.0,39.0
+1677,Popples,1986,all,SIM,NÃO,NÃO,NÃO,65.0,39.0
+1678,Edgar Rice Burroughs' Tarzan and Jane,2017,7+,SIM,NÃO,NÃO,NÃO,48.0,39.0
+1679,Chico Bon Bon: Monkey with a Tool Belt,2020,all,SIM,NÃO,NÃO,NÃO,63.0,39.0
+1682,Boca Juniors Confidential,2018,all,SIM,NÃO,NÃO,NÃO,64.0,38.0
+1683,ZOIDS WILD,2018,7+,SIM,NÃO,NÃO,NÃO,58.0,38.0
+1684,Holiday Home Makeover with Mr. Christmas,2020,all,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1685,Nailed It! Mexico,2019,all,SIM,NÃO,NÃO,NÃO,61.0,38.0
+1686,Cabins in the Wild with Dick Strawbridge,2017,7+,SIM,NÃO,NÃO,NÃO,68.0,38.0
+1687,Best.Worst.Weekend.Ever.,2018,7+,SIM,NÃO,NÃO,NÃO,64.0,38.0
+1688,Fangbone!,2016,7+,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1692,Pinky Malinky,2019,7+,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1696,Extreme Engagement,2019,18+,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1699,Care Bears and Cousins,2015,all,SIM,NÃO,NÃO,NÃO,68.0,38.0
+1703,The In-Laws,2003,13+,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1704,Hong Kong West Side Stories,2019,18+,SIM,NÃO,NÃO,NÃO,73.0,38.0
+1705,Life Plan A and B,2017,7+,SIM,NÃO,NÃO,NÃO,76.0,38.0
+1706,Empire Games,2018,7+,SIM,NÃO,NÃO,NÃO,57.0,38.0
+1708,J-Style Trip,2020,16+,SIM,NÃO,NÃO,NÃO,54.0,37.0
+1711,Kong: King of the Apes,2016,7+,SIM,NÃO,NÃO,NÃO,58.0,37.0
+1713,Word Party,2016,all,SIM,NÃO,NÃO,NÃO,59.0,37.0
+1714,Power Players,2019,7+,SIM,NÃO,NÃO,NÃO,60.0,37.0
+1717,The Outsiders,2004,16+,SIM,NÃO,NÃO,NÃO,74.0,37.0
+1721,Nailed It! France,2019,16+,SIM,NÃO,NÃO,NÃO,64.0,37.0
+1730,Richie Rich,2015,all,SIM,NÃO,NÃO,NÃO,33.0,37.0
+1731,Justice,2019,7+,SIM,NÃO,NÃO,NÃO,52.0,37.0
+1732,Bookmarks: Celebrating Black Voices,2020,all,SIM,NÃO,NÃO,NÃO,49.0,37.0
+1742,Meet the Adebanjos,2012,7+,SIM,NÃO,NÃO,NÃO,76.0,37.0
+1749,LEGO Friends: The Power of Friendship,2016,7+,SIM,NÃO,NÃO,NÃO,60.0,36.0
+1754,True Tunes,2019,all,SIM,NÃO,NÃO,NÃO,80.0,36.0
+1756,Dreamworks Spooky Stories,2012,7+,SIM,NÃO,NÃO,NÃO,67.0,36.0
+1758,Little Baby Bum: Nursery Rhyme Friends,2016,all,SIM,NÃO,NÃO,NÃO,67.0,36.0
+1759,28 Faces of the Moon,2016,7+,SIM,NÃO,NÃO,NÃO,55.0,36.0
+1760,Harvey Street Kids,2018,7+,SIM,NÃO,NÃO,NÃO,66.0,36.0
+1761,Buddi,2020,all,SIM,NÃO,NÃO,NÃO,69.0,36.0
+1762,Edha,2018,18+,SIM,NÃO,NÃO,NÃO,48.0,36.0
+1765,The Degenerates,2018,18+,SIM,NÃO,NÃO,NÃO,62.0,36.0
+1767,Chasing Cameron,2016,7+,SIM,NÃO,NÃO,NÃO,37.0,36.0
+1769,Chip and Potato,2018,all,SIM,NÃO,NÃO,NÃO,62.0,36.0
+1771,YG Future Strategy Office,2018,18+,SIM,NÃO,NÃO,NÃO,70.0,35.0
+1775,Kid-E-Cats,2017,all,SIM,NÃO,NÃO,NÃO,74.0,35.0
+1776,Bo on the Go!,2007,all,SIM,NÃO,NÃO,NÃO,40.0,35.0
+1784,Тобот,2010,7+,SIM,NÃO,SIM,NÃO,66.0,35.0
+1786,In The Bosom of a Thorn,2019,16+,SIM,NÃO,NÃO,NÃO,73.0,35.0
+1790,YooHoo to the Rescue,2019,all,SIM,NÃO,NÃO,NÃO,66.0,35.0
+1794,Styling Hollywood,2019,16+,SIM,NÃO,NÃO,NÃO,73.0,35.0
+1795,Trotro,2006,all,SIM,NÃO,NÃO,NÃO,60.0,35.0
+1796,Masha's Spooky Stories,2014,all,SIM,NÃO,NÃO,NÃO,50.0,35.0
+1797,The Goop Lab,2020,18+,SIM,NÃO,NÃO,NÃO,25.0,35.0
+1798,Kulipari: An Army of Frogs,2016,7+,SIM,NÃO,NÃO,NÃO,70.0,35.0
+1800,Happy Jail,2019,18+,SIM,NÃO,NÃO,NÃO,80.0,34.0
+1802,Luo Bao Bei,2018,all,SIM,NÃO,NÃO,NÃO,76.0,34.0
+1804,Lavender,2001,16+,SIM,NÃO,NÃO,NÃO,66.0,34.0
+1808,KO One,2005,7+,SIM,NÃO,NÃO,NÃO,54.0,34.0
+1809,Kulipari: Dream Walker,2018,all,SIM,NÃO,NÃO,NÃO,76.0,34.0
+1814,K.O.3an Guo,2009,16+,SIM,NÃO,NÃO,NÃO,53.0,34.0
+1821,Morphle,2019,all,SIM,SIM,NÃO,NÃO,49.0,34.0
+1822,Hello Ninja,2019,all,SIM,NÃO,NÃO,NÃO,66.0,34.0
+1830,Llama Llama,2018,all,SIM,NÃO,NÃO,NÃO,65.0,33.0
+1831,Part-Time Idol,2017,7+,SIM,NÃO,NÃO,NÃO,70.0,33.0
+1835,The Sound of Your Heart: Reboot,2018,7+,SIM,NÃO,NÃO,NÃO,59.0,33.0
+1836,Ponysitters Club,2018,all,SIM,NÃO,NÃO,NÃO,71.0,33.0
+1847,Bottersnikes & Gumbles,2016,7+,SIM,NÃO,NÃO,NÃO,52.0,32.0
+1853,Shopkins,2014,all,SIM,NÃO,NÃO,NÃO,38.0,32.0
+1856,Dennis & Gnasher Unleashed!,2017,all,SIM,NÃO,NÃO,NÃO,74.0,31.0
+1857,Luna Petunia Return to Amazia,2018,all,SIM,NÃO,NÃO,NÃO,48.0,31.0
+1858,Luna Petunia,2016,all,SIM,NÃO,NÃO,NÃO,63.0,31.0
+1868,Jimmy: The True Story of a True Idiot,2018,all,SIM,NÃO,NÃO,NÃO,68.0,31.0
+1872,Jusqu'à l'Aube,2020,18+,SIM,NÃO,NÃO,NÃO,27.0,31.0
+1877,Droppin' Cash: Los Angeles,2018,16+,SIM,NÃO,NÃO,NÃO,35.0,30.0
+1878,Robozuna,2018,7+,SIM,NÃO,NÃO,NÃO,63.0,30.0
+1880,Lucky Days,2010,7+,SIM,NÃO,NÃO,NÃO,70.0,30.0
+1882,Stunt Science,2018,18+,SIM,NÃO,NÃO,NÃO,50.0,30.0
+1888,Bangkok Buddies,2019,all,SIM,NÃO,NÃO,NÃO,68.0,29.0
+1893,The Year of Happiness and Love,2009,7+,SIM,NÃO,NÃO,NÃO,52.0,29.0
+1896,Kibaoh Klashers,2017,7+,SIM,NÃO,NÃO,NÃO,63.0,27.0
+1960,Rick and Morty,2013,18+,NÃO,SIM,NÃO,NÃO,92.0,100.0
+1962,Seinfeld,1989,16+,NÃO,SIM,NÃO,NÃO,88.0,93.0
+1963,Vikings,2013,18+,NÃO,SIM,SIM,NÃO,85.0,92.0
+1964,Fargo,2014,18+,NÃO,SIM,NÃO,NÃO,89.0,92.0
+1965,Brooklyn Nine-Nine,2013,16+,NÃO,SIM,NÃO,NÃO,84.0,92.0
+1966,Lost,2004,16+,NÃO,SIM,NÃO,NÃO,83.0,91.0
+1967,Parks and Recreation,2009,16+,NÃO,SIM,NÃO,NÃO,86.0,91.0
+1968,The Simpsons,1989,7+,NÃO,SIM,NÃO,SIM,86.0,91.0
+1970,It's Always Sunny in Philadelphia,2005,18+,NÃO,SIM,NÃO,NÃO,88.0,90.0
+1971,Firefly,2002,16+,NÃO,SIM,NÃO,NÃO,90.0,90.0
+1972,My Hero Academia,2016,16+,NÃO,SIM,NÃO,NÃO,84.0,90.0
+1973,How I Met Your Mother,2005,16+,NÃO,SIM,SIM,NÃO,83.0,90.0
+1974,Modern Family,2009,7+,NÃO,SIM,NÃO,NÃO,84.0,90.0
+1975,The Handmaid's Tale,2017,18+,NÃO,SIM,NÃO,NÃO,84.0,90.0
+1976,Twin Peaks,1990,18+,NÃO,SIM,NÃO,NÃO,88.0,89.0
+1977,Homeland,2011,18+,NÃO,SIM,NÃO,NÃO,83.0,89.0
+1978,Gravity Falls,2012,7+,NÃO,SIM,NÃO,SIM,89.0,88.0
+1979,Futurama,1999,16+,NÃO,SIM,NÃO,NÃO,84.0,88.0
+1981,Sons of Anarchy,2008,18+,NÃO,SIM,NÃO,NÃO,85.0,88.0
+1983,The X-Files,1993,18+,NÃO,SIM,NÃO,NÃO,86.0,87.0
+1984,Line of Duty,2012,18+,NÃO,SIM,SIM,NÃO,87.0,87.0
+1985,Justified,2010,18+,NÃO,SIM,NÃO,NÃO,86.0,87.0
+1986,This Is Us,2016,16+,NÃO,SIM,SIM,NÃO,87.0,87.0
+1987,Freaks and Geeks,1999,16+,NÃO,SIM,NÃO,NÃO,87.0,87.0
+1988,Prison Break,2005,16+,NÃO,SIM,SIM,NÃO,83.0,87.0
+1990,Scrubs,2001,16+,NÃO,SIM,SIM,NÃO,83.0,87.0
+1991,What We Do in the Shadows,2019,18+,NÃO,SIM,NÃO,NÃO,85.0,87.0
+1993,Archer,2009,18+,NÃO,SIM,NÃO,NÃO,86.0,86.0
+1996,Killing Eve,2018,16+,NÃO,SIM,NÃO,NÃO,82.0,86.0
+1997,Adventure Time,2010,7+,NÃO,SIM,NÃO,NÃO,86.0,86.0
+1998,24,2001,16+,NÃO,SIM,NÃO,NÃO,83.0,86.0
+1999,The Twilight Zone,1959,7+,NÃO,SIM,NÃO,NÃO,90.0,86.0
+2000,Buffy the Vampire Slayer,1997,16+,NÃO,SIM,SIM,NÃO,82.0,86.0
+2001,White Collar,2009,7+,NÃO,SIM,NÃO,NÃO,82.0,85.0
+2002,Teen Wolf,2011,16+,NÃO,SIM,SIM,NÃO,76.0,85.0
+2004,The Shield,2002,18+,NÃO,SIM,NÃO,NÃO,87.0,85.0
+2005,Bob's Burgers,2011,16+,NÃO,SIM,NÃO,NÃO,81.0,85.0
+2006,30 Rock,2006,16+,NÃO,SIM,SIM,NÃO,82.0,84.0
+2007,Legion,2017,18+,NÃO,SIM,NÃO,NÃO,82.0,84.0
+2008,Atlanta,2016,18+,NÃO,SIM,NÃO,NÃO,86.0,84.0
+2010,The Office,2001,16+,NÃO,SIM,SIM,NÃO,85.0,84.0
+2012,Frasier,1993,7+,NÃO,SIM,NÃO,NÃO,81.0,83.0
+2013,Pretty Little Liars,2010,16+,NÃO,SIM,NÃO,NÃO,74.0,83.0
+2014,Mr Inbetween,2018,18+,NÃO,SIM,NÃO,NÃO,86.0,83.0
+2015,Friday Night Lights,2006,7+,NÃO,SIM,SIM,NÃO,86.0,83.0
+2017,Taboo,2017,18+,NÃO,SIM,NÃO,NÃO,84.0,83.0
+2019,Pride and Prejudice,1995,all,NÃO,SIM,NÃO,NÃO,88.0,83.0
+2020,Normal People,2020,16+,NÃO,SIM,NÃO,NÃO,85.0,83.0
+2021,Black Sails,2014,18+,NÃO,SIM,NÃO,NÃO,82.0,83.0
+2022,Elementary,2012,16+,NÃO,SIM,NÃO,NÃO,79.0,83.0
+2023,Veronica Mars,2004,16+,NÃO,SIM,NÃO,NÃO,83.0,83.0
+2024,11.22.63,2016,18+,NÃO,SIM,NÃO,NÃO,82.0,83.0
+2025,Nathan For You,2013,16+,NÃO,SIM,NÃO,NÃO,89.0,82.0
+2026,Mr. Bean,1990,all,NÃO,SIM,SIM,NÃO,85.0,82.0
+2027,Bones,2005,16+,NÃO,SIM,SIM,NÃO,78.0,82.0
+2028,The Killing,2011,18+,NÃO,SIM,NÃO,NÃO,82.0,82.0
+2030,Naruto Shippūden,2007,7+,NÃO,SIM,NÃO,NÃO,86.0,82.0
+2032,Burn Notice,2007,7+,NÃO,SIM,SIM,NÃO,79.0,82.0
+2033,Steins;Gate,2011,16+,NÃO,SIM,NÃO,NÃO,88.0,82.0
+2034,Cosmos,2014,all,NÃO,SIM,SIM,SIM,93.0,82.0
+2035,Family Guy,1999,16+,NÃO,SIM,NÃO,NÃO,81.0,82.0
+2036,Cheers,1982,7+,NÃO,SIM,SIM,NÃO,79.0,82.0
+2037,DAVE,2020,18+,NÃO,SIM,NÃO,NÃO,83.0,82.0
+2039,Misfits,2009,18+,NÃO,SIM,NÃO,NÃO,82.0,81.0
+2040,Peep Show,2003,18+,NÃO,SIM,SIM,NÃO,86.0,81.0
+2042,Criminal Minds,2005,16+,NÃO,SIM,NÃO,NÃO,80.0,81.0
+2043,Superstore,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,81.0
+2044,Lie to Me,2009,16+,NÃO,SIM,NÃO,NÃO,80.0,81.0
+2047,The Orville,2017,16+,NÃO,SIM,NÃO,NÃO,80.0,80.0
+2049,Preacher,2016,18+,NÃO,SIM,SIM,NÃO,80.0,80.0
+2050,12 Monkeys,2015,16+,NÃO,SIM,NÃO,NÃO,77.0,80.0
+2051,Dirk Gently's Holistic Detective Agency,2016,16+,NÃO,SIM,NÃO,NÃO,83.0,80.0
+2052,Smallville,2001,7+,NÃO,SIM,NÃO,NÃO,75.0,80.0
+2054,RuPaul's Drag Race,2009,16+,NÃO,SIM,NÃO,NÃO,84.0,80.0
+2055,Fear the Walking Dead,2015,18+,NÃO,SIM,NÃO,NÃO,69.0,80.0
+2056,"Love, Victor",2020,16+,NÃO,SIM,NÃO,NÃO,81.0,80.0
+2057,Cowboy Bebop,1998,16+,NÃO,SIM,NÃO,NÃO,89.0,80.0
+2058,Blue Bloods,2010,16+,NÃO,SIM,NÃO,NÃO,76.0,80.0
+2059,Inside No. 9,2014,18+,NÃO,SIM,NÃO,NÃO,85.0,80.0
+2060,Parenthood,2010,7+,NÃO,SIM,NÃO,NÃO,82.0,79.0
+2061,Desperate Housewives,2004,7+,NÃO,SIM,NÃO,NÃO,75.0,79.0
+2062,Broad City,2014,18+,NÃO,SIM,NÃO,NÃO,84.0,79.0
+2064,Boston Legal,2004,16+,NÃO,SIM,NÃO,NÃO,84.0,79.0
+2065,Revenge,2011,18+,NÃO,SIM,NÃO,NÃO,78.0,79.0
+2066,Samurai Champloo,2004,18+,NÃO,SIM,NÃO,NÃO,85.0,79.0
+2067,Workaholics,2011,16+,NÃO,SIM,SIM,NÃO,81.0,79.0
+2068,The Act,2019,18+,NÃO,SIM,NÃO,NÃO,80.0,79.0
+2069,The Fosters,2013,16+,NÃO,SIM,SIM,NÃO,79.0,79.0
+2070,Younger,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,79.0
+2071,The Good Doctor,2017,16+,NÃO,SIM,NÃO,NÃO,81.0,79.0
+2072,Terminator: The Sarah Connor Chronicles,2008,7+,NÃO,SIM,NÃO,NÃO,77.0,79.0
+2073,Angel,1999,7+,NÃO,SIM,SIM,NÃO,79.0,79.0
+2074,09-01-2001,2018,16+,NÃO,SIM,NÃO,NÃO,78.0,79.0
+2075,Snowfall,2017,18+,NÃO,SIM,NÃO,NÃO,82.0,78.0
+2076,The Venture Bros.,2004,18+,NÃO,SIM,NÃO,NÃO,85.0,78.0
+2077,The Strain,2014,18+,NÃO,SIM,NÃO,NÃO,73.0,78.0
+2078,The Terror,2018,18+,NÃO,SIM,SIM,NÃO,79.0,78.0
+2079,Zoey's Extraordinary Playlist,2020,16+,NÃO,SIM,NÃO,NÃO,81.0,78.0
+2080,The League,2009,18+,NÃO,SIM,NÃO,NÃO,82.0,78.0
+2082,Key & Peele,2012,18+,NÃO,SIM,NÃO,NÃO,83.0,78.0
+2083,Malcolm in the Middle,2000,7+,NÃO,SIM,NÃO,NÃO,80.0,78.0
+2084,Dollhouse,2009,16+,NÃO,SIM,NÃO,NÃO,77.0,78.0
+2086,The Great,2020,18+,NÃO,SIM,NÃO,NÃO,81.0,78.0
+2087,My Name Is Earl,2005,16+,NÃO,SIM,NÃO,NÃO,77.0,78.0
+2088,Scandal,2012,16+,NÃO,SIM,NÃO,NÃO,77.0,78.0
+2089,Motherland: Fort Salem,2020,16+,NÃO,SIM,NÃO,NÃO,72.0,78.0
+2090,Awkward.,2011,16+,NÃO,SIM,NÃO,NÃO,75.0,78.0
+2091,Raising Hope,2010,16+,NÃO,SIM,NÃO,NÃO,80.0,78.0
+2092,Law & Order: Special Victims Unit,1999,16+,NÃO,SIM,NÃO,NÃO,80.0,78.0
+2093,Castle Rock,2018,18+,NÃO,SIM,NÃO,NÃO,76.0,77.0
+2094,The Last Ship,2014,16+,NÃO,SIM,NÃO,NÃO,75.0,77.0
+2095,Cruel Summer,2021,16+,NÃO,SIM,SIM,NÃO,75.0,77.0
+2096,Chicago Fire,2012,16+,NÃO,SIM,NÃO,NÃO,80.0,77.0
+2097,Better Off Ted,2009,7+,NÃO,SIM,NÃO,NÃO,82.0,77.0
+2098,Prodigal Son,2019,16+,NÃO,SIM,NÃO,NÃO,77.0,77.0
+2099,Timeless,2016,7+,NÃO,SIM,NÃO,NÃO,77.0,77.0
+2100,Devs,2020,18+,NÃO,SIM,NÃO,NÃO,77.0,77.0
+2103,You're the Worst,2014,18+,NÃO,SIM,NÃO,NÃO,81.0,77.0
+2104,Elfen Lied,2004,18+,NÃO,SIM,SIM,NÃO,80.0,77.0
+2105,Please Like Me,2013,18+,NÃO,SIM,NÃO,NÃO,85.0,77.0
+2106,Lethal Weapon,2016,16+,NÃO,SIM,NÃO,NÃO,79.0,77.0
+2107,The Last Man on Earth,2015,16+,NÃO,SIM,NÃO,NÃO,73.0,77.0
+2108,TRIGUN,1998,16+,NÃO,SIM,NÃO,NÃO,83.0,77.0
+2109,My So-Called Life,1994,16+,NÃO,SIM,NÃO,NÃO,83.0,76.0
+2110,Little Fires Everywhere,2020,18+,NÃO,SIM,NÃO,NÃO,77.0,76.0
+2111,The Librarians,2014,16+,NÃO,SIM,NÃO,NÃO,73.0,76.0
+2112,In the Flesh,2013,18+,NÃO,SIM,NÃO,NÃO,80.0,76.0
+2113,The Exorcist,2016,16+,NÃO,SIM,NÃO,NÃO,80.0,76.0
+2114,American Dad!,2005,16+,NÃO,SIM,NÃO,NÃO,73.0,76.0
+2115,Ramy,2019,18+,NÃO,SIM,NÃO,NÃO,81.0,76.0
+2116,Chicago P.D.,2014,16+,NÃO,SIM,NÃO,NÃO,81.0,76.0
+2117,Stargate Atlantis,2004,7+,NÃO,SIM,SIM,NÃO,81.0,76.0
+2118,Marvel's Runaways,2017,16+,NÃO,SIM,NÃO,SIM,70.0,76.0
+2119,Rescue Me,2004,18+,NÃO,SIM,NÃO,NÃO,83.0,76.0
+2120,Shadowhunters,2016,16+,NÃO,SIM,NÃO,NÃO,66.0,76.0
+2122,Everybody Hates Chris,2005,7+,NÃO,SIM,NÃO,NÃO,74.0,76.0
+2123,Stargate Universe,2009,16+,NÃO,SIM,NÃO,NÃO,76.0,76.0
+2124,PEN15,2019,18+,NÃO,SIM,NÃO,NÃO,80.0,76.0
+2125,My Mad Fat Diary,2013,16+,NÃO,SIM,NÃO,NÃO,84.0,76.0
+2126,RuPaul's Drag Race All Stars,2012,16+,NÃO,SIM,NÃO,NÃO,85.0,76.0
+2127,The Gifted,2017,16+,NÃO,SIM,NÃO,NÃO,73.0,75.0
+2128,Future Man,2017,18+,NÃO,SIM,NÃO,NÃO,77.0,75.0
+2129,Prime Suspect,1991,18+,NÃO,SIM,NÃO,NÃO,84.0,75.0
+2131,Better Things,2016,18+,NÃO,SIM,NÃO,NÃO,78.0,75.0
+2132,Sleepy Hollow,2013,16+,NÃO,SIM,NÃO,NÃO,74.0,75.0
+2133,Regular Show,2010,7+,NÃO,SIM,NÃO,NÃO,84.0,75.0
+2134,M*A*S*H,1972,7+,NÃO,SIM,NÃO,NÃO,84.0,75.0
+2135,Top of the Lake,2013,18+,NÃO,SIM,NÃO,NÃO,75.0,75.0
+2136,Switched at Birth,2011,16+,NÃO,SIM,NÃO,NÃO,77.0,75.0
+2137,Wayward Pines,2015,16+,NÃO,SIM,NÃO,NÃO,74.0,75.0
+2138,Saturday Night Live,1975,16+,NÃO,SIM,NÃO,NÃO,80.0,75.0
+2140,Dragon Ball Super,2015,7+,NÃO,SIM,NÃO,NÃO,84.0,75.0
+2141,Fresh Off the Boat,2015,7+,NÃO,SIM,NÃO,NÃO,78.0,75.0
+2142,The Mighty Boosh,2004,16+,NÃO,SIM,NÃO,NÃO,83.0,75.0
+2143,Cardinal,2017,18+,NÃO,SIM,NÃO,NÃO,77.0,74.0
+2144,Absolutely Fabulous,1992,16+,NÃO,SIM,NÃO,NÃO,81.0,74.0
+2145,Letterkenny,2016,18+,NÃO,SIM,NÃO,NÃO,86.0,74.0
+2146,Scream Queens,2015,16+,NÃO,SIM,NÃO,NÃO,71.0,74.0
+2147,Wilfred,2011,18+,NÃO,SIM,NÃO,NÃO,78.0,74.0
+2148,Deutschland,2015,18+,NÃO,SIM,NÃO,NÃO,81.0,74.0
+2149,Empire,2015,16+,NÃO,SIM,NÃO,NÃO,74.0,74.0
+2150,Brockmire,2017,18+,NÃO,SIM,NÃO,NÃO,80.0,74.0
+2151,The Unit,2006,16+,NÃO,SIM,NÃO,NÃO,81.0,74.0
+2152,Genius,2017,16+,SIM,SIM,SIM,SIM,83.0,74.0
+2153,Mayans M.C.,2018,18+,NÃO,SIM,NÃO,NÃO,76.0,74.0
+2154,black-ish,2014,16+,NÃO,SIM,NÃO,NÃO,71.0,74.0
+2155,CSI: Crime Scene Investigation,2000,16+,NÃO,SIM,NÃO,NÃO,76.0,74.0
+2157,Tokyo Ghoul,2014,16+,NÃO,SIM,NÃO,NÃO,78.0,74.0
+2158,MythBusters,2003,7+,NÃO,SIM,NÃO,NÃO,83.0,74.0
+2159,Don't Trust the B---- in Apartment 23,2012,16+,NÃO,SIM,NÃO,NÃO,73.0,74.0
+2160,Sailor Moon,1992,16+,NÃO,SIM,NÃO,NÃO,78.0,74.0
+2161,One Tree Hill,2003,16+,NÃO,SIM,NÃO,NÃO,77.0,74.0
+2162,Nip/Tuck,2003,18+,NÃO,SIM,NÃO,NÃO,76.0,74.0
+2163,Looking for Alaska,2019,18+,NÃO,SIM,NÃO,NÃO,81.0,74.0
+2164,New Amsterdam,2018,16+,NÃO,SIM,NÃO,NÃO,81.0,74.0
+2165,The Golden Girls,1985,7+,NÃO,SIM,NÃO,NÃO,80.0,74.0
+2167,Cougar Town,2009,7+,NÃO,SIM,SIM,NÃO,70.0,73.0
+2168,The Purge,2018,18+,NÃO,SIM,NÃO,NÃO,65.0,73.0
+2169,Catch-22,2019,18+,NÃO,SIM,SIM,NÃO,78.0,73.0
+2170,The Rookie,2018,16+,NÃO,SIM,NÃO,SIM,80.0,73.0
+2171,Married... with Children,1987,7+,NÃO,SIM,NÃO,NÃO,80.0,73.0
+2173,The Looming Tower,2018,18+,NÃO,SIM,NÃO,NÃO,80.0,73.0
+2174,Blindspot,2015,16+,NÃO,SIM,NÃO,NÃO,74.0,73.0
+2175,Steven Universe,2013,7+,NÃO,SIM,NÃO,NÃO,82.0,73.0
+2176,Nashville,2012,7+,NÃO,SIM,NÃO,NÃO,77.0,73.0
+2177,Salem,2014,18+,NÃO,SIM,NÃO,NÃO,72.0,73.0
+2179,The Mindy Project,2012,7+,NÃO,SIM,NÃO,NÃO,74.0,73.0
+2180,Mrs. America,2020,18+,NÃO,SIM,NÃO,NÃO,79.0,73.0
+2181,The Middle,2009,7+,NÃO,SIM,NÃO,NÃO,76.0,73.0
+2182,Roseanne,1988,7+,NÃO,SIM,SIM,NÃO,70.0,73.0
+2183,Black Clover,2017,16+,NÃO,SIM,NÃO,NÃO,83.0,73.0
+2184,Witches of East End,2013,16+,NÃO,SIM,NÃO,NÃO,76.0,73.0
+2185,Whitechapel,2009,7+,NÃO,SIM,NÃO,NÃO,79.0,73.0
+2186,Stumptown,2019,16+,NÃO,SIM,NÃO,NÃO,75.0,73.0
+2187,I Love Lucy,1951,all,NÃO,SIM,NÃO,NÃO,84.0,72.0
+2188,Harlots,2017,18+,NÃO,SIM,NÃO,NÃO,77.0,72.0
+2189,UnREAL,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,72.0
+2192,The Wonder Years,1988,7+,NÃO,SIM,NÃO,NÃO,83.0,72.0
+2193,Graceland,2013,16+,NÃO,SIM,NÃO,NÃO,77.0,72.0
+2194,Anthony Bourdain: No Reservations,2005,7+,NÃO,SIM,NÃO,NÃO,85.0,72.0
+2195,Ugly Betty,2006,7+,NÃO,SIM,NÃO,NÃO,65.0,72.0
+2196,Marvel's Cloak & Dagger,2018,16+,NÃO,SIM,NÃO,NÃO,67.0,72.0
+2197,The Bold Type,2017,16+,NÃO,SIM,NÃO,NÃO,79.0,72.0
+2198,The Resident,2018,16+,NÃO,SIM,SIM,NÃO,77.0,72.0
+2199,Dragon Ball,1996,16+,NÃO,SIM,NÃO,NÃO,85.0,72.0
+2200,The Goldbergs,2013,7+,NÃO,SIM,NÃO,NÃO,81.0,72.0
+2201,Terriers,2010,18+,NÃO,SIM,NÃO,NÃO,84.0,72.0
+2202,American Horror Stories,2021,18+,NÃO,SIM,NÃO,NÃO,65.0,72.0
+2203,ER,1994,16+,NÃO,SIM,NÃO,NÃO,77.0,72.0
+2204,Fairy Tail,2009,16+,NÃO,SIM,NÃO,NÃO,80.0,72.0
+2206,Bunheads,2012,16+,NÃO,SIM,NÃO,NÃO,76.0,72.0
+2207,High Fidelity,2020,18+,NÃO,SIM,NÃO,NÃO,77.0,72.0
+2209,Horace and Pete,2016,18+,NÃO,SIM,NÃO,NÃO,85.0,72.0
+2210,The Amazing World of Gumball,2011,7+,NÃO,SIM,NÃO,NÃO,82.0,71.0
+2211,Blackadder,1983,7+,NÃO,SIM,SIM,NÃO,80.0,71.0
+2212,Hell's Kitchen,2005,16+,NÃO,SIM,SIM,NÃO,71.0,71.0
+2213,Robot Chicken,2005,18+,NÃO,SIM,NÃO,NÃO,77.0,71.0
+2214,People of Earth,2016,18+,NÃO,SIM,NÃO,NÃO,77.0,71.0
+2215,Boruto: Naruto Next Generations,2017,16+,NÃO,SIM,NÃO,NÃO,70.0,71.0
+2216,The Musketeers,2014,16+,NÃO,SIM,NÃO,NÃO,78.0,71.0
+2218,Sesame Street,1969,all,NÃO,SIM,SIM,NÃO,81.0,71.0
+2219,Shrill,2019,18+,NÃO,SIM,NÃO,NÃO,74.0,71.0
+2220,LEGO Masters,2020,7+,NÃO,SIM,NÃO,NÃO,74.0,71.0
+2221,Good Behavior,2016,18+,NÃO,SIM,NÃO,NÃO,81.0,71.0
+2222,Murdoch Mysteries,2008,7+,NÃO,SIM,NÃO,NÃO,81.0,71.0
+2223,Full House,1987,all,NÃO,SIM,NÃO,NÃO,67.0,71.0
+2224,Mom,2013,16+,SIM,SIM,NÃO,NÃO,72.0,71.0
+2227,Will & Grace,1998,16+,NÃO,SIM,NÃO,NÃO,72.0,71.0
+2228,King of the Hill,1997,7+,NÃO,SIM,NÃO,NÃO,73.0,71.0
+2229,Doc Martin,2004,7+,NÃO,SIM,NÃO,NÃO,83.0,71.0
+2230,Impractical Jokers,2011,16+,NÃO,SIM,NÃO,NÃO,86.0,71.0
+2231,Debris,2021,16+,NÃO,SIM,NÃO,NÃO,65.0,71.0
+2233,Solar Opposites,2020,18+,NÃO,SIM,NÃO,NÃO,80.0,70.0
+2234,Trust,2018,18+,NÃO,SIM,NÃO,NÃO,76.0,70.0
+2235,SIX,2017,18+,NÃO,SIM,NÃO,NÃO,73.0,70.0
+2236,Last Man Standing,2011,7+,NÃO,SIM,NÃO,NÃO,75.0,70.0
+2237,Body of Proof,2011,16+,NÃO,SIM,NÃO,NÃO,71.0,70.0
+2238,The Hitchhiker's Guide to the Galaxy,1981,7+,NÃO,SIM,SIM,NÃO,80.0,70.0
+2239,Afro Samurai,2007,18+,NÃO,SIM,NÃO,NÃO,77.0,70.0
+2240,S.W.A.T.,2017,16+,NÃO,SIM,NÃO,NÃO,70.0,70.0
+2241,A Million Little Things,2018,16+,NÃO,SIM,NÃO,NÃO,79.0,70.0
+2242,For Life,2020,16+,NÃO,SIM,NÃO,NÃO,76.0,70.0
+2243,Battlestar Galactica,1978,7+,NÃO,SIM,NÃO,NÃO,72.0,70.0
+2244,Alfred Hitchcock Presents,1955,16+,NÃO,SIM,NÃO,NÃO,85.0,70.0
+2246,Flashpoint,2008,16+,NÃO,SIM,SIM,NÃO,77.0,70.0
+2247,The Detour,2016,18+,NÃO,SIM,NÃO,NÃO,77.0,70.0
+2248,Greek,2007,16+,NÃO,SIM,NÃO,NÃO,75.0,70.0
+2249,Casual,2015,18+,NÃO,SIM,NÃO,NÃO,75.0,70.0
+2250,Mary Kills People,2017,18+,NÃO,SIM,NÃO,NÃO,75.0,70.0
+2251,Mushi-Shi,2005,16+,NÃO,SIM,SIM,NÃO,85.0,70.0
+2252,Baskets,2016,18+,NÃO,SIM,NÃO,NÃO,76.0,70.0
+2253,Touch,2012,16+,NÃO,SIM,SIM,NÃO,73.0,70.0
+2254,Rurouni Kenshin,1996,16+,NÃO,SIM,SIM,NÃO,85.0,70.0
+2255,Big Sky,2020,16+,NÃO,SIM,SIM,NÃO,67.0,70.0
+2256,The Wrong Mans,2013,18+,NÃO,SIM,NÃO,NÃO,78.0,70.0
+2257,Chance,2016,18+,NÃO,SIM,NÃO,NÃO,77.0,69.0
+2258,The Split,2018,18+,NÃO,SIM,NÃO,NÃO,77.0,69.0
+2259,Make It or Break It,2009,16+,NÃO,SIM,NÃO,NÃO,75.0,69.0
+2261,Das Boot,2018,18+,NÃO,SIM,NÃO,NÃO,74.0,69.0
+2262,Legit,2013,18+,NÃO,SIM,NÃO,NÃO,82.0,69.0
+2263,Breeders,2020,18+,NÃO,SIM,NÃO,NÃO,74.0,69.0
+2264,Queen Sugar,2016,16+,NÃO,SIM,NÃO,NÃO,76.0,69.0
+2265,Drake & Josh,2004,all,NÃO,SIM,NÃO,NÃO,77.0,69.0
+2266,MasterChef,2010,16+,NÃO,SIM,NÃO,NÃO,73.0,69.0
+2267,Young Rock,2021,16+,NÃO,SIM,NÃO,NÃO,71.0,69.0
+2268,The Eric Andre Show,2012,18+,NÃO,SIM,NÃO,NÃO,86.0,69.0
+2269,Animaniacs,1993,all,NÃO,SIM,NÃO,NÃO,79.0,69.0
+2270,Man Seeking Woman,2015,18+,NÃO,SIM,NÃO,NÃO,78.0,69.0
+2272,Pretty Little Liars: The Perfectionists,2019,16+,NÃO,SIM,NÃO,NÃO,70.0,69.0
+2273,Yu Yu Hakusho,1992,16+,NÃO,SIM,NÃO,NÃO,84.0,69.0
+2275,Lodge 49,2018,16+,NÃO,SIM,NÃO,NÃO,77.0,69.0
+2276,I Am the Night,2019,18+,NÃO,SIM,NÃO,NÃO,70.0,69.0
+2277,Hey Arnold!,1996,all,NÃO,SIM,NÃO,NÃO,76.0,69.0
+2278,NOS4A2,2019,16+,NÃO,SIM,NÃO,NÃO,67.0,69.0
+2279,The Glades,2010,16+,NÃO,SIM,NÃO,NÃO,74.0,69.0
+2280,The Bridge,2013,18+,SIM,SIM,NÃO,NÃO,76.0,69.0
+2282,Underground,2016,18+,NÃO,SIM,SIM,NÃO,78.0,69.0
+2284,A Teacher,2020,18+,NÃO,SIM,NÃO,NÃO,69.0,69.0
+2285,Danny Phantom,2004,7+,NÃO,SIM,NÃO,NÃO,71.0,69.0
+2286,Sliders,1995,7+,NÃO,SIM,NÃO,NÃO,74.0,69.0
+2287,30 for 30,2009,7+,NÃO,SIM,NÃO,NÃO,88.0,69.0
+2288,Life in Pieces,2015,16+,NÃO,SIM,SIM,NÃO,80.0,69.0
+2289,The Amazing Race,2001,7+,NÃO,SIM,SIM,NÃO,76.0,68.0
+2290,Pitch,2016,16+,NÃO,SIM,NÃO,NÃO,74.0,68.0
+2291,Numb3rs,2005,7+,NÃO,SIM,NÃO,NÃO,69.0,68.0
+2292,Roswell,1999,16+,NÃO,SIM,NÃO,NÃO,75.0,68.0
+2293,Tyrant,2014,18+,NÃO,SIM,NÃO,NÃO,78.0,68.0
+2294,Legends,2014,16+,NÃO,SIM,NÃO,NÃO,75.0,68.0
+2295,Angie Tribeca,2016,16+,NÃO,SIM,NÃO,NÃO,70.0,68.0
+2296,FLCL,2000,18+,NÃO,SIM,NÃO,NÃO,82.0,68.0
+2297,Rugrats,1991,all,NÃO,SIM,NÃO,NÃO,74.0,68.0
+2298,Fosse/Verdon,2019,18+,NÃO,SIM,NÃO,NÃO,79.0,68.0
+2299,Assassination Classroom,2015,16+,NÃO,SIM,NÃO,NÃO,80.0,68.0
+2300,Top Chef,2006,16+,NÃO,SIM,NÃO,NÃO,76.0,68.0
+2301,Ghost Whisperer,2005,7+,NÃO,SIM,SIM,NÃO,64.0,68.0
+2302,Darker than Black,2007,16+,NÃO,SIM,SIM,NÃO,77.0,68.0
+2303,Kaguya-sama: Love is War,2019,16+,NÃO,SIM,NÃO,NÃO,84.0,68.0
+2305,Ally McBeal,1997,16+,NÃO,SIM,NÃO,NÃO,68.0,68.0
+2307,Everything's Gonna Be Okay,2020,16+,NÃO,SIM,NÃO,NÃO,73.0,68.0
+2308,Psycho-Pass,2012,18+,NÃO,SIM,SIM,NÃO,82.0,68.0
+2309,The Powerpuff Girls,1998,7+,NÃO,SIM,NÃO,NÃO,73.0,68.0
+2310,"Beverly Hills, 90210",1990,16+,NÃO,SIM,NÃO,NÃO,64.0,68.0
+2312,Friday Night Dinner,2011,18+,NÃO,SIM,NÃO,NÃO,81.0,68.0
+2313,Wu-Tang: An American Saga,2019,18+,NÃO,SIM,NÃO,NÃO,82.0,68.0
+2315,Hellsing Ultimate,2006,18+,NÃO,SIM,NÃO,NÃO,83.0,68.0
+2316,Claws,2017,18+,NÃO,SIM,NÃO,NÃO,74.0,68.0
+2317,Marvel's M.O.D.O.K.,2021,18+,NÃO,SIM,NÃO,NÃO,63.0,68.0
+2318,Shark Tank,2009,7+,NÃO,SIM,NÃO,NÃO,76.0,68.0
+2319,Ghost Adventures,2008,13+,NÃO,SIM,NÃO,NÃO,75.0,67.0
+2320,Miranda,2009,7+,NÃO,SIM,NÃO,NÃO,82.0,67.0
+2321,Making It,2018,7+,NÃO,SIM,NÃO,NÃO,79.0,67.0
+2322,The Son,2017,16+,SIM,SIM,NÃO,NÃO,75.0,67.0
+2323,10 Things I Hate About You,2009,16+,NÃO,SIM,NÃO,SIM,73.0,67.0
+2325,Good Trouble,2019,16+,NÃO,SIM,NÃO,NÃO,75.0,67.0
+2326,Ben 10,2005,7+,NÃO,SIM,NÃO,NÃO,73.0,67.0
+2327,The Mick,2017,16+,NÃO,SIM,NÃO,NÃO,78.0,67.0
+2328,WWE Raw,1993,7+,NÃO,SIM,NÃO,NÃO,78.0,67.0
+2329,Party of Five,1994,7+,NÃO,SIM,NÃO,NÃO,68.0,67.0
+2330,Overlord,2015,18+,NÃO,SIM,NÃO,NÃO,78.0,67.0
+2331,The Path,2016,18+,NÃO,SIM,NÃO,NÃO,73.0,67.0
+2332,Descendants of the Sun,2016,16+,NÃO,SIM,SIM,NÃO,83.0,67.0
+2333,Single Parents,2018,7+,NÃO,SIM,NÃO,NÃO,71.0,67.0
+2335,Deadliest Catch,2005,16+,NÃO,SIM,NÃO,NÃO,78.0,67.0
+2336,Gangland Undercover,2015,16+,NÃO,SIM,NÃO,NÃO,82.0,67.0
+2337,ThunderCats,1985,7+,NÃO,SIM,NÃO,NÃO,79.0,67.0
+2338,Shiki,2010,18+,NÃO,SIM,NÃO,NÃO,77.0,67.0
+2339,Rascal Does Not Dream of Bunny Girl Senpai,2018,16+,NÃO,SIM,NÃO,NÃO,82.0,67.0
+2340,Jane Eyre,2006,7+,NÃO,SIM,SIM,NÃO,83.0,67.0
+2341,Kitchen Nightmares,2007,16+,NÃO,SIM,NÃO,NÃO,75.0,67.0
+2342,Devious Maids,2013,7+,NÃO,SIM,NÃO,NÃO,78.0,67.0
+2343,My Wife and Kids,2001,7+,NÃO,SIM,NÃO,NÃO,68.0,67.0
+2344,Star vs. the Forces of Evil,2015,7+,NÃO,SIM,NÃO,SIM,80.0,67.0
+2345,Dark Side of the Ring,2019,16+,NÃO,SIM,NÃO,NÃO,88.0,67.0
+2346,High School DxD,2012,18+,NÃO,SIM,NÃO,NÃO,76.0,67.0
+2347,Transplant,2020,16+,NÃO,SIM,NÃO,NÃO,79.0,67.0
+2348,Apple Tree Yard,2017,16+,NÃO,SIM,NÃO,NÃO,72.0,67.0
+2349,9-1-1: Lone Star,2020,16+,NÃO,SIM,NÃO,NÃO,68.0,67.0
+2352,Fruits Basket,2019,7+,NÃO,SIM,NÃO,NÃO,86.0,66.0
+2353,Siren,2018,7+,NÃO,SIM,NÃO,NÃO,70.0,66.0
+2354,Holey Moley,2019,7+,NÃO,SIM,NÃO,NÃO,69.0,66.0
+2355,Diabolik Lovers,2013,16+,NÃO,SIM,NÃO,NÃO,52.0,66.0
+2357,Baby Daddy,2012,16+,NÃO,SIM,NÃO,NÃO,74.0,66.0
+2358,Digimon Adventure,1999,7+,NÃO,SIM,NÃO,NÃO,73.0,66.0
+2360,The Long Road Home,2017,18+,NÃO,SIM,NÃO,NÃO,75.0,66.0
+2361,Black Lagoon,2006,18+,NÃO,SIM,NÃO,NÃO,80.0,66.0
+2362,Taken,2017,18+,NÃO,SIM,NÃO,NÃO,66.0,66.0
+2364,Walker,2021,16+,NÃO,SIM,NÃO,NÃO,59.0,66.0
+2365,Catfish: The TV Show,2012,16+,NÃO,SIM,NÃO,NÃO,71.0,66.0
+2366,Treadstone,2019,18+,NÃO,SIM,NÃO,NÃO,70.0,66.0
+2367,The Incredible Hulk,1977,7+,NÃO,SIM,NÃO,SIM,70.0,66.0
+2368,"Sabrina, the Teenage Witch",1996,all,NÃO,SIM,NÃO,NÃO,67.0,66.0
+2369,X-Men: Evolution,2000,7+,NÃO,SIM,NÃO,SIM,78.0,66.0
+2370,Death Parade,2015,18+,NÃO,SIM,NÃO,NÃO,79.0,66.0
+2371,NEXT,2020,16+,NÃO,SIM,SIM,NÃO,67.0,66.0
+2372,The Pink Panther,1964,all,NÃO,SIM,SIM,NÃO,76.0,66.0
+2373,Golden Time,2013,16+,NÃO,SIM,NÃO,NÃO,76.0,66.0
+2374,Dollface,2019,18+,NÃO,SIM,NÃO,NÃO,74.0,66.0
+2375,Taxi,1978,7+,NÃO,SIM,NÃO,NÃO,77.0,66.0
+2376,Being Mary Jane,2014,16+,NÃO,SIM,NÃO,NÃO,75.0,66.0
+2377,Drunk History,2013,16+,NÃO,SIM,NÃO,NÃO,78.0,65.0
+2378,Twisted,2013,16+,NÃO,SIM,NÃO,NÃO,73.0,65.0
+2379,Brothers and Sisters,2006,16+,NÃO,SIM,NÃO,NÃO,73.0,65.0
+2380,Breakout Kings,2011,16+,NÃO,SIM,NÃO,NÃO,73.0,65.0
+2382,Scott & Bailey,2011,7+,NÃO,SIM,NÃO,NÃO,80.0,65.0
+2383,Little Britain,2003,18+,NÃO,SIM,NÃO,NÃO,76.0,65.0
+2384,Law & Order: Organized Crime,2021,16+,NÃO,SIM,NÃO,NÃO,76.0,65.0
+2385,Pinky and the Brain,1995,7+,NÃO,SIM,NÃO,NÃO,78.0,65.0
+2387,Ergo Proxy,2006,18+,NÃO,SIM,NÃO,NÃO,80.0,65.0
+2388,Noragami,2014,16+,NÃO,SIM,NÃO,NÃO,79.0,65.0
+2390,Primeval,2007,16+,NÃO,SIM,NÃO,NÃO,73.0,65.0
+2391,Face Off,2011,7+,NÃO,SIM,NÃO,NÃO,82.0,65.0
+2392,Love Island,2015,18+,NÃO,SIM,NÃO,NÃO,52.0,65.0
+2393,Highlander: The Series,1992,16+,NÃO,SIM,NÃO,NÃO,72.0,65.0
+2395,Prison School,2015,18+,NÃO,SIM,NÃO,NÃO,76.0,65.0
+2396,Good Luck Charlie,2010,all,NÃO,SIM,NÃO,SIM,70.0,65.0
+2397,Medium,2005,16+,NÃO,SIM,NÃO,NÃO,70.0,65.0
+2398,Fire Force,2019,16+,NÃO,SIM,NÃO,NÃO,77.0,65.0
+2399,Second Chance,2016,16+,NÃO,SIM,NÃO,NÃO,75.0,65.0
+2400,American Housewife,2016,7+,NÃO,SIM,NÃO,NÃO,74.0,65.0
+2401,The First,2018,18+,NÃO,SIM,NÃO,NÃO,67.0,65.0
+2403,Reprisal,2019,18+,NÃO,SIM,NÃO,NÃO,75.0,65.0
+2404,Mushoku Tensei: Jobless Reincarnation,2021,16+,NÃO,SIM,NÃO,NÃO,83.0,64.0
+2405,The Kids Are Alright,2018,7+,NÃO,SIM,NÃO,NÃO,79.0,64.0
+2406,Remington Steele,1982,7+,NÃO,SIM,NÃO,NÃO,72.0,64.0
+2407,Saved by the Bell,1989,all,NÃO,SIM,NÃO,NÃO,70.0,64.0
+2408,The Fades,2011,18+,NÃO,SIM,NÃO,NÃO,77.0,64.0
+2409,My Teen Romantic Comedy SNAFU,2013,16+,NÃO,SIM,NÃO,NÃO,79.0,64.0
+2410,Station 19,2018,16+,NÃO,SIM,NÃO,NÃO,67.0,64.0
+2412,New Tricks,2003,7+,NÃO,SIM,NÃO,NÃO,78.0,64.0
+2414,The Mary Tyler Moore Show,1970,7+,NÃO,SIM,NÃO,NÃO,81.0,64.0
+2415,Hill Street Blues,1981,16+,NÃO,SIM,NÃO,NÃO,81.0,64.0
+2416,Monster Musume: Everyday Life with Monster Girls,2015,18+,NÃO,SIM,NÃO,NÃO,67.0,64.0
+2417,The Conners,2018,7+,NÃO,SIM,NÃO,NÃO,53.0,64.0
+2418,NYPD Blue,1993,16+,NÃO,SIM,SIM,NÃO,76.0,64.0
+2419,CSI: Miami,2002,16+,NÃO,SIM,NÃO,NÃO,64.0,64.0
+2420,Metalocalypse,2006,18+,NÃO,SIM,NÃO,NÃO,82.0,64.0
+2421,America's Got Talent,2006,7+,NÃO,SIM,NÃO,NÃO,58.0,64.0
+2422,Fixer Upper,2013,all,NÃO,SIM,NÃO,NÃO,82.0,64.0
+2424,DCI Banks,2011,16+,NÃO,SIM,NÃO,NÃO,76.0,64.0
+2425,The Future Diary,2011,18+,NÃO,SIM,NÃO,NÃO,76.0,64.0
+2426,Childrens Hospital,2008,18+,NÃO,SIM,NÃO,NÃO,78.0,64.0
+2427,The First 48,2004,18+,NÃO,SIM,NÃO,NÃO,82.0,64.0
+2428,Chopped,2009,all,NÃO,SIM,NÃO,NÃO,75.0,64.0
+2429,Sense and Sensibility,2008,16+,NÃO,SIM,SIM,NÃO,80.0,64.0
+2430,House Hunters,1999,all,NÃO,SIM,NÃO,NÃO,81.0,64.0
+2431,Teenage Mutant Ninja Turtles,2012,7+,NÃO,SIM,NÃO,NÃO,78.0,64.0
+2434,Monogatari,2009,16+,NÃO,SIM,NÃO,NÃO,80.0,64.0
+2436,Clique,2017,18+,NÃO,SIM,NÃO,NÃO,70.0,63.0
+2437,Atlantis,2013,7+,NÃO,SIM,NÃO,NÃO,66.0,63.0
+2438,Travel Man: 48 Hours in...,2015,7+,NÃO,SIM,NÃO,NÃO,83.0,63.0
+2439,Chowder,2007,7+,NÃO,SIM,NÃO,NÃO,73.0,63.0
+2440,The Hardy Boys,2020,7+,NÃO,SIM,NÃO,NÃO,70.0,63.0
+2442,Shots Fired,2017,16+,NÃO,SIM,NÃO,NÃO,65.0,63.0
+2444,The Familiar of Zero,2006,16+,NÃO,SIM,NÃO,NÃO,70.0,63.0
+2445,The Brady Bunch,1969,all,NÃO,SIM,NÃO,NÃO,67.0,63.0
+2446,Four Weddings and a Funeral,2019,18+,NÃO,SIM,NÃO,NÃO,72.0,63.0
+2448,Hamilton's Pharmacopeia,2016,18+,NÃO,SIM,NÃO,NÃO,89.0,63.0
+2449,The New York Times Presents,2020,18+,NÃO,SIM,NÃO,NÃO,67.0,63.0
+2450,What's Wrong with Secretary Kim,2018,all,NÃO,SIM,NÃO,NÃO,81.0,63.0
+2452,The Great North,2021,16+,NÃO,SIM,NÃO,NÃO,65.0,63.0
+2453,The Ultimate Fighter,2005,16+,NÃO,SIM,NÃO,NÃO,78.0,63.0
+2455,Tiny Toon Adventures,1990,all,NÃO,SIM,NÃO,NÃO,75.0,63.0
+2456,Foster's Home for Imaginary Friends,2004,7+,NÃO,SIM,NÃO,NÃO,76.0,63.0
+2457,The Tonight Show Starring Jimmy Fallon,2014,16+,NÃO,SIM,NÃO,NÃO,72.0,63.0
+2458,Barkskins,2020,18+,NÃO,SIM,NÃO,NÃO,73.0,63.0
+2459,River Monsters,2009,7+,NÃO,SIM,SIM,NÃO,81.0,63.0
+2460,The Dick Van Dyke Show,1961,all,NÃO,SIM,NÃO,NÃO,83.0,63.0
+2461,Yu-Gi-Oh! GX,2004,all,NÃO,SIM,NÃO,NÃO,68.0,63.0
+2462,Highschool of the Dead,2010,18+,NÃO,SIM,NÃO,NÃO,72.0,63.0
+2465,The Marvelous Misadventures of Flapjack,2008,7+,NÃO,SIM,NÃO,NÃO,78.0,63.0
+2466,Difficult People,2015,18+,NÃO,SIM,NÃO,NÃO,70.0,63.0
+2467,Reba,2001,7+,NÃO,SIM,NÃO,NÃO,65.0,63.0
+2468,The Event,2010,16+,NÃO,SIM,NÃO,NÃO,70.0,62.0
+2469,American Gothic,1995,7+,NÃO,SIM,NÃO,NÃO,81.0,62.0
+2470,Garfield and Friends,1988,7+,NÃO,SIM,NÃO,NÃO,73.0,62.0
+2471,Home Economics,2021,7+,NÃO,SIM,NÃO,NÃO,62.0,62.0
+2472,Clannad After Story,2009,7+,NÃO,SIM,NÃO,NÃO,86.0,62.0
+2474,Bless This Mess,2019,7+,NÃO,SIM,NÃO,NÃO,69.0,62.0
+2475,Horrible Histories,2009,7+,NÃO,SIM,SIM,NÃO,88.0,62.0
+2476,grown-ish,2018,16+,NÃO,SIM,NÃO,NÃO,64.0,62.0
+2478,Duncanville,2020,16+,NÃO,SIM,NÃO,NÃO,60.0,62.0
+2479,The Guest Book,2017,18+,NÃO,SIM,NÃO,NÃO,72.0,62.0
+2480,Speechless,2016,7+,NÃO,SIM,NÃO,NÃO,76.0,62.0
+2481,Intervention,2005,16+,NÃO,SIM,NÃO,NÃO,78.0,62.0
+2482,K.C. Undercover,2015,all,NÃO,SIM,NÃO,SIM,62.0,62.0
+2483,The Three Stooges,1934,all,NÃO,SIM,NÃO,NÃO,86.0,62.0
+2485,Dragon Ball GT,1996,7+,NÃO,SIM,NÃO,NÃO,68.0,62.0
+2486,Melissa & Joey,2010,16+,NÃO,SIM,NÃO,NÃO,70.0,62.0
+2487,The Bob Newhart Show,1972,all,NÃO,SIM,NÃO,NÃO,81.0,62.0
+2488,General Hospital,1963,16+,NÃO,SIM,NÃO,NÃO,65.0,62.0
+2489,Lupin the Third,1971,16+,NÃO,SIM,NÃO,NÃO,79.0,62.0
+2490,Charlotte,2015,16+,NÃO,SIM,NÃO,NÃO,76.0,62.0
+2491,Mr. Mayor,2021,16+,NÃO,SIM,NÃO,NÃO,63.0,62.0
+2492,Murder in the First,2014,18+,NÃO,SIM,NÃO,NÃO,73.0,62.0
+2493,Jersey Shore: Family Vacation,2018,16+,NÃO,SIM,NÃO,NÃO,66.0,62.0
+2494,Family Matters,1989,all,NÃO,SIM,NÃO,NÃO,66.0,62.0
+2497,24: Legacy,2017,16+,NÃO,SIM,NÃO,NÃO,62.0,62.0
+2499,American Ninja Warrior,2009,7+,NÃO,SIM,NÃO,NÃO,68.0,62.0
+2500,Seraph of the End,2015,13+,NÃO,SIM,NÃO,NÃO,75.0,62.0
+2502,Brickleberry,2012,18+,NÃO,SIM,NÃO,NÃO,73.0,62.0
+2503,Ghosted,2017,7+,NÃO,SIM,NÃO,NÃO,63.0,62.0
+2504,Saving Hope,2012,16+,NÃO,SIM,NÃO,NÃO,75.0,62.0
+2506,Married at First Sight,2014,7+,NÃO,SIM,SIM,NÃO,62.0,61.0
+2508,The Voice,2011,7+,NÃO,SIM,NÃO,NÃO,65.0,61.0
+2509,Wings,1990,7+,NÃO,SIM,NÃO,NÃO,72.0,61.0
+2510,American Pickers,2010,7+,NÃO,SIM,NÃO,NÃO,70.0,61.0
+2511,Nightwatch,2015,16+,NÃO,SIM,SIM,NÃO,88.0,61.0
+2512,Gold Rush,2010,7+,NÃO,SIM,NÃO,NÃO,73.0,61.0
+2513,The Riches,2007,18+,NÃO,SIM,NÃO,NÃO,78.0,61.0
+2514,Lark Rise to Candleford,2008,7+,NÃO,SIM,NÃO,NÃO,81.0,61.0
+2515,Stan Against Evil,2016,16+,NÃO,SIM,NÃO,NÃO,73.0,61.0
+2516,Homicide Hunter: Lt Joe Kenda,2011,16+,NÃO,SIM,NÃO,NÃO,88.0,61.0
+2517,RuPaul's Drag Race: Untucked,2010,16+,NÃO,SIM,NÃO,NÃO,78.0,61.0
+2518,The Carmichael Show,2015,7+,NÃO,SIM,NÃO,NÃO,77.0,61.0
+2519,Moone Boy,2012,16+,NÃO,SIM,NÃO,NÃO,81.0,61.0
+2520,Tyler Perry's The Haves and the Have Nots,2013,16+,NÃO,SIM,NÃO,NÃO,60.0,61.0
+2522,Perfect Strangers,1986,7+,NÃO,SIM,SIM,NÃO,72.0,61.0
+2523,The Practice,1997,16+,NÃO,SIM,NÃO,NÃO,77.0,61.0
+2525,Light as a Feather,2018,16+,NÃO,SIM,NÃO,NÃO,66.0,61.0
+2526,Burden of Truth,2018,16+,NÃO,SIM,NÃO,NÃO,73.0,61.0
+2527,Mister Ed,1961,all,NÃO,SIM,NÃO,NÃO,70.0,61.0
+2528,Kamisama Kiss,2012,7+,NÃO,SIM,NÃO,NÃO,81.0,61.0
+2530,Mike Tyson Mysteries,2014,16+,NÃO,SIM,NÃO,NÃO,81.0,61.0
+2531,American Gladiators,1988,7+,NÃO,SIM,NÃO,NÃO,65.0,61.0
+2532,My Life as a Teenage Robot,2003,all,NÃO,SIM,NÃO,NÃO,69.0,60.0
+2533,Felicity,1998,16+,NÃO,SIM,NÃO,NÃO,68.0,60.0
+2535,Expedition Unknown,2015,7+,NÃO,SIM,NÃO,NÃO,82.0,60.0
+2536,Rosewood,2015,16+,NÃO,SIM,NÃO,NÃO,67.0,60.0
+2537,The Guardian,2001,7+,NÃO,SIM,SIM,NÃO,74.0,60.0
+2538,Jeremiah,2002,18+,NÃO,SIM,SIM,NÃO,70.0,60.0
+2539,The Secret of Skinwalker Ranch,2020,7+,NÃO,SIM,NÃO,NÃO,61.0,60.0
+2540,Dharma & Greg,1997,16+,NÃO,SIM,NÃO,NÃO,63.0,60.0
+2541,The Real Housewives of Beverly Hills,2010,16+,NÃO,SIM,NÃO,NÃO,51.0,60.0
+2542,The Fall Guy,1981,16+,NÃO,SIM,NÃO,NÃO,70.0,60.0
+2543,Sealab 2021,2000,16+,NÃO,SIM,SIM,NÃO,79.0,60.0
+2544,The Incredible Dr. Pol,2011,7+,NÃO,SIM,NÃO,SIM,86.0,60.0
+2545,Whose Line Is It Anyway? (UK),1988,7+,NÃO,SIM,NÃO,NÃO,82.0,60.0
+2546,The Fruit of Grisaia,2014,18+,NÃO,SIM,NÃO,NÃO,71.0,60.0
+2547,St. Elsewhere,1982,7+,NÃO,SIM,NÃO,NÃO,79.0,60.0
+2548,Ben 10: Omniverse,2012,7+,NÃO,SIM,NÃO,NÃO,60.0,60.0
+2550,Naked and Afraid,2013,16+,NÃO,SIM,NÃO,NÃO,66.0,60.0
+2551,Woke,2020,18+,NÃO,SIM,NÃO,NÃO,64.0,60.0
+2553,Mr. Pickles,2014,18+,NÃO,SIM,NÃO,NÃO,74.0,60.0
+2554,The Moodys,2019,16+,NÃO,SIM,NÃO,NÃO,68.0,60.0
+2555,Being Erica,2009,16+,NÃO,SIM,SIM,NÃO,75.0,60.0
+2556,Dual Survival,2010,16+,NÃO,SIM,NÃO,NÃO,75.0,60.0
+2557,Dimension 404,2017,16+,NÃO,SIM,NÃO,NÃO,66.0,60.0
+2558,Diff'rent Strokes,1978,all,NÃO,SIM,NÃO,NÃO,66.0,60.0
+2559,Bad Banks,2018,7+,NÃO,SIM,NÃO,NÃO,79.0,60.0
+2560,Kojak,1973,16+,NÃO,SIM,NÃO,NÃO,71.0,60.0
+2561,Robin of Sherwood,1984,7+,NÃO,SIM,SIM,NÃO,85.0,60.0
+2562,Ranma ½,1989,16+,NÃO,SIM,NÃO,NÃO,79.0,60.0
+2563,McLeod's Daughters,2001,16+,NÃO,SIM,NÃO,NÃO,72.0,60.0
+2564,Life Below Zero,2013,7+,NÃO,SIM,NÃO,SIM,80.0,60.0
+2566,mixed-ish,2019,7+,NÃO,SIM,NÃO,NÃO,62.0,60.0
+2567,Mountain Men,2012,7+,NÃO,SIM,NÃO,NÃO,73.0,60.0
+2569,Baywatch,1989,7+,NÃO,SIM,SIM,NÃO,53.0,60.0
+2570,Shut Eye,2016,18+,NÃO,SIM,NÃO,NÃO,73.0,59.0
+2571,Dietland,2018,18+,NÃO,SIM,NÃO,NÃO,65.0,59.0
+2572,Yona of the Dawn,2014,16+,NÃO,SIM,NÃO,NÃO,81.0,59.0
+2573,The Hustler,2021,7+,NÃO,SIM,NÃO,NÃO,77.0,59.0
+2574,Man v. Food,2008,all,NÃO,SIM,NÃO,NÃO,73.0,59.0
+2576,Teen Titans Go!,2013,7+,NÃO,SIM,NÃO,NÃO,54.0,59.0
+2577,Designing Women,1986,7+,NÃO,SIM,NÃO,NÃO,71.0,59.0
+2578,Into the Dark,2018,18+,NÃO,SIM,NÃO,NÃO,64.0,59.0
+2579,Mobile Suit Gundam Wing,2000,13+,NÃO,SIM,NÃO,NÃO,81.0,59.0
+2580,Damien,2016,16+,NÃO,SIM,NÃO,NÃO,69.0,59.0
+2581,Mistresses,2013,16+,NÃO,SIM,NÃO,NÃO,71.0,59.0
+2582,The Lord of the Skies,2013,16+,NÃO,SIM,NÃO,NÃO,68.0,59.0
+2583,Snow White with the Red Hair,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,59.0
+2584,The Masked Singer,2019,7+,NÃO,SIM,NÃO,NÃO,60.0,59.0
+2585,Danganronpa: The Animation,2013,18+,NÃO,SIM,NÃO,NÃO,69.0,59.0
+2586,Hellsing,2001,18+,NÃO,SIM,NÃO,NÃO,79.0,59.0
+2587,Fate/stay night,2006,18+,NÃO,SIM,NÃO,NÃO,73.0,59.0
+2588,Uncle,2014,16+,NÃO,SIM,NÃO,NÃO,79.0,59.0
+2589,Deadly Women,2005,16+,NÃO,SIM,SIM,NÃO,80.0,59.0
+2590,Ironside,1967,7+,NÃO,SIM,NÃO,NÃO,69.0,59.0
+2592,D.Gray-man,2006,16+,NÃO,SIM,NÃO,NÃO,77.0,59.0
+2593,Space Dandy,2014,16+,NÃO,SIM,NÃO,NÃO,81.0,59.0
+2594,Songland,2019,7+,NÃO,SIM,NÃO,NÃO,80.0,59.0
+2595,Running Wild with Bear Grylls,2014,7+,NÃO,SIM,NÃO,SIM,77.0,59.0
+2596,Living Single,1993,7+,NÃO,SIM,NÃO,NÃO,75.0,59.0
+2597,My 600-lb Life,2012,16+,NÃO,SIM,NÃO,NÃO,66.0,59.0
+2598,Naked and Afraid XL,2015,16+,NÃO,SIM,NÃO,NÃO,74.0,59.0
+2600,Popeye the Sailor,1960,all,NÃO,SIM,NÃO,NÃO,71.0,59.0
+2602,The Thundermans,2013,all,NÃO,SIM,NÃO,NÃO,58.0,59.0
+2603,90 Day Fiancé,2014,16+,NÃO,SIM,NÃO,NÃO,64.0,59.0
+2604,Duck Dynasty,2012,7+,NÃO,SIM,NÃO,NÃO,62.0,59.0
+2606,No Man's Land,2020,16+,NÃO,SIM,NÃO,NÃO,77.0,59.0
+2607,Upstairs Downstairs,2010,7+,NÃO,SIM,NÃO,NÃO,74.0,59.0
+2608,The Bastard Executioner,2015,18+,NÃO,SIM,NÃO,NÃO,62.0,59.0
+2610,The Food That Built America,2019,7+,NÃO,SIM,NÃO,NÃO,85.0,59.0
+2612,Star,2016,16+,NÃO,SIM,NÃO,NÃO,67.0,59.0
+2614,Saving Grace,2007,18+,NÃO,SIM,NÃO,NÃO,76.0,59.0
+2615,Full Metal Panic!,2002,16+,NÃO,SIM,NÃO,NÃO,77.0,58.0
+2616,America's Funniest Home Videos,1989,7+,NÃO,SIM,NÃO,SIM,62.0,58.0
+2618,Log Horizon,2013,16+,NÃO,SIM,NÃO,NÃO,77.0,58.0
+2619,Son of Zorn,2016,16+,NÃO,SIM,NÃO,NÃO,68.0,58.0
+2620,Him & Her,2010,16+,NÃO,SIM,NÃO,NÃO,78.0,58.0
+2621,World Trigger,2014,16+,NÃO,SIM,NÃO,NÃO,75.0,58.0
+2622,Clarence,2014,7+,NÃO,SIM,NÃO,NÃO,66.0,58.0
+2623,Kenan,2021,7+,NÃO,SIM,NÃO,NÃO,56.0,58.0
+2624,Mayo Chiki!,2011,18+,NÃO,SIM,NÃO,NÃO,70.0,58.0
+2625,Haven't You Heard? I'm Sakamoto,2016,16+,NÃO,SIM,NÃO,NÃO,72.0,58.0
+2626,Hard Sun,2018,18+,NÃO,SIM,NÃO,NÃO,66.0,58.0
+2628,Dance Moms,2011,7+,NÃO,SIM,NÃO,NÃO,47.0,58.0
+2629,Gordon Ramsay's 24 Hours to Hell and Back,2018,16+,NÃO,SIM,NÃO,NÃO,73.0,58.0
+2631,X Company,2015,16+,NÃO,SIM,NÃO,NÃO,77.0,58.0
+2632,Step by Step,1991,all,NÃO,SIM,NÃO,NÃO,65.0,58.0
+2634,Housebroken,2021,16+,NÃO,SIM,NÃO,NÃO,59.0,58.0
+2635,Jimmy Kimmel Live!,2003,16+,NÃO,SIM,NÃO,NÃO,65.0,58.0
+2636,The Cleveland Show,2009,16+,NÃO,SIM,NÃO,NÃO,55.0,58.0
+2638,Dice,2016,18+,NÃO,SIM,NÃO,NÃO,75.0,58.0
+2639,Primeval: New World,2012,16+,NÃO,SIM,NÃO,NÃO,66.0,58.0
+2640,7th Heaven,1996,7+,NÃO,SIM,SIM,NÃO,52.0,58.0
+2641,Cutthroat Kitchen,2013,all,NÃO,SIM,NÃO,NÃO,73.0,58.0
+2642,Married,2014,18+,NÃO,SIM,NÃO,NÃO,71.0,58.0
+2643,Land of Honor,2014,16+,NÃO,SIM,NÃO,NÃO,80.0,58.0
+2644,The UnXplained,2019,16+,NÃO,SIM,NÃO,NÃO,73.0,58.0
+2645,Deadbeat,2014,16+,NÃO,SIM,NÃO,NÃO,74.0,58.0
+2646,Alone Together,2018,16+,NÃO,SIM,NÃO,NÃO,65.0,58.0
+2648,Chivalry of a Failed Knight,2015,18+,NÃO,SIM,NÃO,NÃO,74.0,58.0
+2649,Intruders,2014,18+,NÃO,SIM,SIM,NÃO,67.0,58.0
+2650,Kimi ni Todoke: From Me to You,2009,all,NÃO,SIM,NÃO,NÃO,78.0,58.0
+2651,WWE Friday Night SmackDown,1999,7+,NÃO,SIM,NÃO,NÃO,73.0,58.0
+2652,Coronation Street,1960,7+,NÃO,SIM,NÃO,NÃO,56.0,58.0
+2653,Dirty Sexy Money,2007,7+,NÃO,SIM,NÃO,NÃO,72.0,58.0
+2655,Kenichi: The Mightiest Disciple,2006,16+,NÃO,SIM,SIM,NÃO,82.0,58.0
+2656,Archangel,2005,18+,NÃO,SIM,NÃO,NÃO,65.0,58.0
+2657,Persona 4 The Animation,2011,7+,NÃO,SIM,NÃO,NÃO,76.0,58.0
+2658,Melrose Place,1992,16+,NÃO,SIM,SIM,NÃO,58.0,57.0
+2660,SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist,2015,18+,NÃO,SIM,NÃO,NÃO,70.0,57.0
+2661,Restaurant: Impossible,2011,all,NÃO,SIM,NÃO,NÃO,69.0,57.0
+2663,Alias Smith and Jones,1971,7+,NÃO,SIM,NÃO,NÃO,76.0,57.0
+2664,Justice League Action,2016,7+,NÃO,SIM,NÃO,NÃO,76.0,57.0
+2666,Packed to the Rafters,2008,18+,NÃO,SIM,NÃO,NÃO,74.0,57.0
+2667,Oh My Venus,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,57.0
+2668,Banished,2015,18+,NÃO,SIM,SIM,NÃO,74.0,57.0
+2669,Bizarre Foods with Andrew Zimmern,2006,7+,NÃO,SIM,NÃO,NÃO,77.0,57.0
+2670,Blood Blockade Battlefront,2015,18+,NÃO,SIM,NÃO,NÃO,73.0,57.0
+2671,Curious George,2006,all,NÃO,SIM,NÃO,NÃO,72.0,57.0
+2672,Guilty Crown,2011,16+,NÃO,SIM,NÃO,NÃO,71.0,57.0
+2673,Outlaw Star,1998,16+,NÃO,SIM,NÃO,NÃO,79.0,57.0
+2674,The Real Housewives of New York City,2008,16+,NÃO,SIM,NÃO,NÃO,45.0,57.0
+2675,Storage Wars,2010,7+,NÃO,SIM,SIM,NÃO,63.0,57.0
+2676,Bluff City Law,2019,16+,NÃO,SIM,NÃO,NÃO,68.0,57.0
+2677,Bad Girls Club,2006,16+,NÃO,SIM,NÃO,NÃO,47.0,57.0
+2679,McHale's Navy,1962,all,NÃO,SIM,NÃO,NÃO,74.0,57.0
+2682,"Doogie Howser, M.D.",1989,7+,NÃO,SIM,NÃO,NÃO,65.0,57.0
+2683,House Hunters International,2006,all,NÃO,SIM,NÃO,NÃO,70.0,57.0
+2684,Shark,2006,16+,NÃO,SIM,NÃO,NÃO,71.0,57.0
+2685,Sasquatch,2021,18+,NÃO,SIM,NÃO,NÃO,62.0,57.0
+2686,The Electric Company,1971,all,NÃO,SIM,SIM,NÃO,81.0,57.0
+2687,Akudama Drive,2020,18+,NÃO,SIM,NÃO,NÃO,75.0,57.0
+2688,Love & Hip Hop Atlanta,2012,16+,NÃO,SIM,NÃO,NÃO,55.0,57.0
+2690,Alaska: The Last Frontier,2011,16+,NÃO,SIM,NÃO,NÃO,77.0,57.0
+2692,Sonic Boom,2014,7+,NÃO,SIM,NÃO,NÃO,69.0,57.0
+2694,Graves,2016,18+,NÃO,SIM,NÃO,NÃO,66.0,57.0
+2696,Locked Up Abroad,2008,16+,NÃO,SIM,NÃO,NÃO,82.0,56.0
+2697,School Rumble,2004,7+,NÃO,SIM,NÃO,NÃO,78.0,56.0
+2698,Princess Tutu,2002,16+,NÃO,SIM,SIM,NÃO,81.0,56.0
+2699,Date a Live,2013,16+,NÃO,SIM,NÃO,NÃO,70.0,56.0
+2700,Devil May Cry,2007,16+,NÃO,SIM,NÃO,NÃO,71.0,56.0
+2701,MasterChef Junior,2013,all,NÃO,SIM,NÃO,NÃO,67.0,56.0
+2702,Utopia Falls,2020,7+,NÃO,SIM,NÃO,NÃO,54.0,56.0
+2703,Fear Factor,2001,7+,NÃO,SIM,NÃO,NÃO,56.0,56.0
+2704,Hellevator,2015,18+,NÃO,SIM,NÃO,NÃO,61.0,56.0
+2705,Aesthetica of a Rogue Hero,2012,18+,NÃO,SIM,NÃO,NÃO,71.0,56.0
+2706,"Drugs, Inc.",2010,16+,NÃO,SIM,NÃO,NÃO,78.0,56.0
+2707,Pure,2017,18+,NÃO,SIM,NÃO,NÃO,70.0,56.0
+2708,Dr. Pimple Popper,2018,16+,NÃO,SIM,NÃO,NÃO,66.0,56.0
+2709,The Biggest Loser,2004,7+,NÃO,SIM,NÃO,NÃO,54.0,56.0
+2710,Filthy Rich,2020,16+,NÃO,SIM,NÃO,NÃO,62.0,56.0
+2711,Grimgar of Fantasy and Ash,2016,16+,NÃO,SIM,NÃO,NÃO,74.0,56.0
+2712,Bless the Harts,2019,16+,NÃO,SIM,NÃO,NÃO,54.0,56.0
+2713,Celebrity Family Feud,2008,7+,NÃO,SIM,NÃO,NÃO,63.0,56.0
+2714,xxxHOLiC,2006,16+,NÃO,SIM,NÃO,NÃO,77.0,56.0
+2716,Paradox,2009,16+,SIM,SIM,SIM,NÃO,70.0,56.0
+2717,Worst Cooks in America,2010,all,NÃO,SIM,NÃO,NÃO,64.0,56.0
+2718,Keeping Up with the Kardashians,2007,16+,NÃO,SIM,NÃO,NÃO,28.0,56.0
+2719,Blossom,1990,all,NÃO,SIM,NÃO,NÃO,60.0,56.0
+2720,Taste the Nation with Padma Lakshmi,2020,16+,NÃO,SIM,NÃO,NÃO,84.0,56.0
+2721,Digimon Tamers,2001,7+,NÃO,SIM,NÃO,NÃO,77.0,56.0
+2722,"BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",2020,16+,NÃO,SIM,NÃO,NÃO,75.0,56.0
+2723,Cake Boss,2009,7+,NÃO,SIM,NÃO,NÃO,66.0,56.0
+2724,Tyler Perry's If Loving You Is Wrong,2014,16+,NÃO,SIM,NÃO,NÃO,58.0,56.0
+2725,Plastic Memories,2015,16+,NÃO,SIM,NÃO,NÃO,74.0,56.0
+2726,Love It or List It,2008,all,NÃO,SIM,NÃO,NÃO,63.0,56.0
+2727,Dragnet,1967,7+,NÃO,SIM,NÃO,NÃO,75.0,56.0
+2728,"Say ""I Love You.""",2012,16+,NÃO,SIM,NÃO,NÃO,74.0,56.0
+2729,Rev.,2010,16+,NÃO,SIM,NÃO,NÃO,79.0,56.0
+2730,Axe Cop,2013,18+,NÃO,SIM,NÃO,NÃO,74.0,56.0
+2731,The Secret Life of the American Teenager,2008,16+,NÃO,SIM,NÃO,NÃO,50.0,55.0
+2732,Extreme Ghostbusters,1997,7+,NÃO,SIM,NÃO,NÃO,69.0,55.0
+2733,OK K.O.! Let's Be Heroes,2017,7+,NÃO,SIM,NÃO,NÃO,70.0,55.0
+2734,頭文字D First Stage,1998,7+,NÃO,SIM,NÃO,NÃO,84.0,55.0
+2735,The Firm,2012,16+,NÃO,SIM,SIM,NÃO,71.0,55.0
+2736,The Titan Games,2019,all,NÃO,SIM,NÃO,NÃO,70.0,55.0
+2737,Attack on Titan: Junior High,2015,16+,NÃO,SIM,NÃO,NÃO,71.0,55.0
+2738,To Love-Ru,2008,18+,NÃO,SIM,NÃO,NÃO,69.0,55.0
+2739,Rosario + Vampire,2008,18+,NÃO,SIM,NÃO,NÃO,70.0,55.0
+2740,All Saints,1998,16+,NÃO,SIM,NÃO,NÃO,71.0,55.0
+2741,Fast N' Loud,2012,16+,NÃO,SIM,NÃO,NÃO,75.0,55.0
+2742,Upper Middle Bogan,2013,16+,NÃO,SIM,NÃO,NÃO,79.0,55.0
+2743,Toilet-Bound Hanako-kun,2020,16+,NÃO,SIM,NÃO,NÃO,76.0,55.0
+2744,Barbarians Rising,2016,18+,NÃO,SIM,NÃO,NÃO,78.0,55.0
+2747,Silk Stalkings,1991,16+,NÃO,SIM,NÃO,NÃO,66.0,55.0
+2748,Match Game,1973,7+,NÃO,SIM,SIM,NÃO,83.0,55.0
+2749,The Most Dangerous Animal of All,2020,16+,NÃO,SIM,NÃO,NÃO,63.0,55.0
+2750,Arifureta: From Commonplace to World's Strongest,2019,16+,NÃO,SIM,NÃO,NÃO,70.0,55.0
+2751,Renegade,1992,16+,NÃO,SIM,NÃO,NÃO,60.0,55.0
+2752,Disappeared,2009,7+,NÃO,SIM,NÃO,NÃO,80.0,55.0
+2753,My Favorite Martian,1963,all,NÃO,SIM,NÃO,SIM,73.0,55.0
+2754,Wise Man’s Grandchild,2019,16+,NÃO,SIM,NÃO,NÃO,68.0,55.0
+2755,The Slap,2015,16+,NÃO,SIM,SIM,NÃO,76.0,55.0
+2757,90 Day Fiancé: Before the 90 Days,2017,16+,NÃO,SIM,NÃO,NÃO,68.0,55.0
+2758,Love Thy Neighbor,2013,7+,NÃO,SIM,NÃO,NÃO,44.0,55.0
+2759,Infinite Stratos,2011,18+,NÃO,SIM,NÃO,NÃO,67.0,55.0
+2760,A Certain Scientific Railgun,2009,16+,NÃO,SIM,NÃO,NÃO,76.0,55.0
+2761,Taggart,1983,18+,NÃO,SIM,NÃO,NÃO,73.0,55.0
+2762,Call Me Kat,2021,7+,NÃO,SIM,NÃO,NÃO,50.0,55.0
+2763,My Love Story!!,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,55.0
+2764,Digimon Adventure:,2020,all,NÃO,SIM,NÃO,NÃO,74.0,55.0
+2766,City Homicide,2007,16+,NÃO,SIM,NÃO,NÃO,75.0,55.0
+2767,The Lucy Show,1962,7+,NÃO,SIM,NÃO,NÃO,72.0,55.0
+2768,Bering Sea Gold,2012,all,NÃO,SIM,NÃO,NÃO,66.0,55.0
+2769,Dog with a Blog,2012,all,NÃO,SIM,NÃO,SIM,49.0,55.0
+2770,Beyond Scared Straight,2011,18+,NÃO,SIM,NÃO,NÃO,73.0,55.0
+2772,The Smile Has Left Your Eyes,2018,all,NÃO,SIM,NÃO,NÃO,77.0,55.0
+2773,Bakuman。,2010,16+,NÃO,SIM,NÃO,NÃO,80.0,55.0
+2774,Castaways,2018,7+,NÃO,SIM,NÃO,NÃO,64.0,55.0
+2776,Iron Chef America,2005,all,NÃO,SIM,NÃO,NÃO,71.0,54.0
+2777,Your Pretty Face Is Going to Hell,2013,18+,NÃO,SIM,NÃO,NÃO,77.0,54.0
+2778,Jersey Shore,2009,16+,NÃO,SIM,NÃO,NÃO,36.0,54.0
+2779,Tim and Eric's Bedtime Stories,2014,18+,NÃO,SIM,NÃO,NÃO,78.0,54.0
+2780,ID: INVADED,2020,18+,NÃO,SIM,NÃO,NÃO,77.0,54.0
+2781,Undercover Boss,2010,7+,NÃO,SIM,NÃO,NÃO,58.0,54.0
+2782,Sex&Drugs&Rock&Roll,2015,16+,NÃO,SIM,NÃO,NÃO,71.0,54.0
+2783,Vanished,2006,18+,NÃO,SIM,NÃO,NÃO,70.0,54.0
+2784,Skin Wars,2014,16+,NÃO,SIM,NÃO,NÃO,71.0,54.0
+2785,Hollywood Game Night,2013,7+,NÃO,SIM,NÃO,NÃO,72.0,54.0
+2786,A Christmas Carol,2019,18+,NÃO,SIM,NÃO,SIM,72.0,54.0
+2787,Black Narcissus,2020,18+,NÃO,SIM,NÃO,NÃO,58.0,54.0
+2789,Pramface,2012,16+,NÃO,SIM,NÃO,NÃO,75.0,54.0
+2791,The Lowe Files,2017,7+,NÃO,SIM,SIM,NÃO,69.0,54.0
+2793,Kämpfer,2009,18+,NÃO,SIM,NÃO,NÃO,62.0,54.0
+2794,City So Real,2020,16+,NÃO,SIM,NÃO,NÃO,75.0,54.0
+2795,American Idol,2002,7+,NÃO,SIM,NÃO,NÃO,41.0,54.0
+2796,Lincoln Heights,2007,7+,NÃO,SIM,NÃO,NÃO,78.0,54.0
+2797,Some Girls,2012,16+,NÃO,SIM,NÃO,NÃO,77.0,54.0
+2798,The Asterisk War,2015,16+,NÃO,SIM,NÃO,NÃO,69.0,54.0
+2800,Nura: Rise of the Yokai Clan,2010,16+,NÃO,SIM,NÃO,NÃO,76.0,54.0
+2801,Find Me in Paris,2018,all,NÃO,SIM,NÃO,NÃO,72.0,54.0
+2802,Devils' Line,2018,18+,NÃO,SIM,NÃO,NÃO,69.0,54.0
+2803,Wander Over Yonder,2013,7+,NÃO,SIM,NÃO,SIM,72.0,54.0
+2804,The Qwaser of Stigmata,2010,18+,NÃO,SIM,NÃO,NÃO,56.0,54.0
+2806,Dream Corp LLC,2016,16+,NÃO,SIM,NÃO,NÃO,72.0,54.0
+2807,Top Gear,2010,7+,NÃO,SIM,SIM,NÃO,54.0,54.0
+2808,Swamp People,2010,7+,NÃO,SIM,SIM,NÃO,62.0,54.0
+2812,Haganai: I Don't Have Many Friends,2011,18+,NÃO,SIM,NÃO,NÃO,71.0,54.0
+2813,Coupling,2000,7+,NÃO,SIM,NÃO,NÃO,36.0,53.0
+2814,Witchblade,2006,18+,NÃO,SIM,NÃO,NÃO,71.0,53.0
+2815,The Bachelor,2002,16+,NÃO,SIM,NÃO,NÃO,32.0,53.0
+2817,Doc McStuffins,2012,all,NÃO,SIM,NÃO,SIM,66.0,53.0
+2819,To Tell the Truth,2016,7+,NÃO,SIM,NÃO,NÃO,62.0,53.0
+2820,Bachelor in Paradise,2014,16+,NÃO,SIM,NÃO,NÃO,52.0,53.0
+2821,Hikaru no Go,2001,all,NÃO,SIM,NÃO,NÃO,83.0,53.0
+2823,Bring It!,2014,7+,NÃO,SIM,SIM,NÃO,67.0,53.0
+2825,Street Outlaws,2013,7+,NÃO,SIM,NÃO,NÃO,67.0,53.0
+2827,Accel World,2012,16+,NÃO,SIM,NÃO,NÃO,71.0,53.0
+2828,Beat Shazam,2017,16+,NÃO,SIM,NÃO,NÃO,60.0,53.0
+2829,Eden of the East,2009,18+,NÃO,SIM,NÃO,NÃO,76.0,53.0
+2830,Saints & Sinners,2016,16+,NÃO,SIM,NÃO,NÃO,74.0,53.0
+2831,America's Most Wanted,1988,7+,NÃO,SIM,NÃO,NÃO,73.0,53.0
+2832,Seed,2013,18+,NÃO,SIM,NÃO,NÃO,56.0,53.0
+2833,"I Love You, America",2017,18+,NÃO,SIM,NÃO,NÃO,57.0,53.0
+2834,Young Hercules,1998,7+,NÃO,SIM,NÃO,NÃO,58.0,53.0
+2835,The Commish,1991,16+,NÃO,SIM,NÃO,NÃO,71.0,53.0
+2836,Vanderpump Rules,2013,16+,NÃO,SIM,NÃO,NÃO,54.0,53.0
+2837,Zeke and Luther,2009,7+,NÃO,SIM,NÃO,NÃO,64.0,53.0
+2838,Oreimo,2010,16+,NÃO,SIM,NÃO,NÃO,64.0,53.0
+2839,Treehouse Masters,2013,7+,NÃO,SIM,NÃO,NÃO,73.0,53.0
+2840,The Real Housewives of Atlanta,2008,16+,NÃO,SIM,NÃO,NÃO,44.0,53.0
+2841,Bedlam,2011,16+,NÃO,SIM,NÃO,NÃO,66.0,53.0
+2842,Slayers,1995,7+,NÃO,SIM,NÃO,NÃO,75.0,53.0
+2843,The Gong Show,1976,7+,NÃO,SIM,NÃO,NÃO,69.0,53.0
+2846,Kick Buttowski: Suburban Daredevil,2010,7+,NÃO,SIM,NÃO,SIM,66.0,53.0
+2847,The Real Housewives of Potomac,2016,16+,NÃO,SIM,NÃO,NÃO,48.0,53.0
+2848,"Good Morning, Miss Bliss",1988,all,NÃO,SIM,NÃO,NÃO,68.0,53.0
+2849,Astra Lost in Space,2019,16+,NÃO,SIM,NÃO,NÃO,81.0,53.0
+2850,Nurses,2020,7+,NÃO,SIM,NÃO,NÃO,57.0,52.0
+2852,Feed the Beast,2016,16+,NÃO,SIM,NÃO,NÃO,67.0,52.0
+2853,A Wilderness of Error,2020,18+,NÃO,SIM,NÃO,NÃO,65.0,52.0
+2855,Devil May Care,2021,18+,NÃO,SIM,NÃO,NÃO,60.0,52.0
+2856,Handy Manny,2006,all,NÃO,SIM,NÃO,SIM,56.0,52.0
+2857,Deca-Dence,2020,16+,NÃO,SIM,NÃO,NÃO,70.0,52.0
+2859,Love Island Australia,2018,18+,NÃO,SIM,NÃO,NÃO,55.0,52.0
+2860,The Circus,2016,16+,NÃO,SIM,NÃO,NÃO,70.0,52.0
+2861,WWE NXT,2010,7+,NÃO,SIM,NÃO,NÃO,78.0,52.0
+2866,Trafficked with Mariana van Zeller,2020,16+,NÃO,SIM,NÃO,NÃO,84.0,52.0
+2867,Hillary,2020,7+,NÃO,SIM,NÃO,NÃO,65.0,52.0
+2868,La Patrona,2013,16+,NÃO,SIM,NÃO,NÃO,72.0,52.0
+2869,Maison close,2010,18+,NÃO,SIM,NÃO,NÃO,66.0,52.0
+2870,Shahs of Sunset,2012,16+,NÃO,SIM,NÃO,NÃO,47.0,52.0
+2872,Tanked,2011,7+,NÃO,SIM,NÃO,NÃO,66.0,52.0
+2873,Little Women: LA,2014,16+,NÃO,SIM,SIM,NÃO,56.0,52.0
+2874,Quick Draw,2013,16+,NÃO,SIM,NÃO,NÃO,77.0,52.0
+2875,Food Network Star,2005,7+,NÃO,SIM,NÃO,NÃO,62.0,52.0
+2876,Three Sheets,2006,18+,NÃO,SIM,NÃO,NÃO,82.0,52.0
+2877,F*ck That's Delicious,2016,18+,NÃO,SIM,NÃO,NÃO,80.0,52.0
+2878,Blood-C,2011,18+,NÃO,SIM,NÃO,NÃO,63.0,52.0
+2879,Unusual Suspects,2010,16+,NÃO,SIM,NÃO,NÃO,76.0,52.0
+2881,Food Paradise,2007,all,NÃO,SIM,NÃO,NÃO,81.0,51.0
+2882,Black Jesus,2014,18+,NÃO,SIM,NÃO,NÃO,69.0,51.0
+2884,ItaKiss,2008,16+,NÃO,SIM,NÃO,NÃO,74.0,51.0
+2886,The Aliens,2016,7+,NÃO,SIM,NÃO,NÃO,61.0,51.0
+2887,Webster,1983,all,NÃO,SIM,NÃO,NÃO,57.0,51.0
+2888,Getting On,2009,16+,NÃO,SIM,NÃO,NÃO,81.0,51.0
+2889,Kono Oto Tomare!: Sounds of Life,2019,7+,NÃO,SIM,NÃO,NÃO,80.0,51.0
+2890,Dante's Cove,2005,18+,NÃO,SIM,NÃO,NÃO,59.0,51.0
+2891,Freakish,2016,16+,NÃO,SIM,NÃO,NÃO,63.0,51.0
+2892,Chuggington,2008,all,NÃO,SIM,NÃO,NÃO,59.0,51.0
+2893,The Hills,2006,7+,NÃO,SIM,SIM,NÃO,36.0,51.0
+2894,The Awesomes,2013,16+,NÃO,SIM,NÃO,NÃO,73.0,51.0
+2895,Plunderer,2020,16+,NÃO,SIM,NÃO,NÃO,64.0,51.0
+2896,Yu-Gi-Oh! 5D's,2008,13+,NÃO,SIM,SIM,NÃO,68.0,51.0
+2897,Too Cute,2011,7+,NÃO,SIM,NÃO,NÃO,85.0,51.0
+2898,Hollyoaks,1995,16+,NÃO,SIM,NÃO,NÃO,47.0,51.0
+2899,Absolute Duo,2015,18+,NÃO,SIM,NÃO,NÃO,64.0,51.0
+2900,Total Divas,2013,16+,NÃO,SIM,NÃO,NÃO,65.0,51.0
+2901,What Would You Do?,2008,7+,NÃO,SIM,NÃO,NÃO,72.0,51.0
+2902,Born This Way,2015,7+,NÃO,SIM,NÃO,NÃO,85.0,51.0
+2904,Late Night with Seth Meyers,2014,16+,NÃO,SIM,NÃO,NÃO,61.0,51.0
+2905,Is This a Zombie?,2011,18+,NÃO,SIM,NÃO,NÃO,71.0,51.0
+2906,Flavor of Love,2006,16+,NÃO,SIM,NÃO,NÃO,45.0,51.0
+2907,Momma Named Me Sheriff,2019,18+,NÃO,SIM,NÃO,NÃO,61.0,51.0
+2908,Hunderby,2012,16+,NÃO,SIM,NÃO,NÃO,75.0,51.0
+2909,World of Dance,2017,7+,NÃO,SIM,NÃO,NÃO,72.0,51.0
+2911,The Driver,2014,16+,NÃO,SIM,NÃO,NÃO,70.0,51.0
+2912,In My Skin,2020,16+,NÃO,SIM,NÃO,NÃO,76.0,51.0
+2913,Rin-ne,2015,16+,NÃO,SIM,NÃO,NÃO,66.0,51.0
+2914,Cults and Extreme Belief,2018,16+,NÃO,SIM,NÃO,NÃO,76.0,51.0
+2915,Napoleon Dynamite,2012,7+,NÃO,SIM,NÃO,NÃO,64.0,51.0
+2916,Man Up!,2011,7+,NÃO,SIM,NÃO,NÃO,66.0,51.0
+2919,Blood Lad,2013,16+,NÃO,SIM,NÃO,NÃO,71.0,51.0
+2920,The F Word,2005,18+,NÃO,SIM,NÃO,NÃO,69.0,50.0
+2922,Law & Order True Crime,2017,16+,NÃO,SIM,NÃO,NÃO,74.0,50.0
+2923,"The $100,000 Pyramid",2016,16+,NÃO,SIM,NÃO,NÃO,62.0,50.0
+2924,Stars Align,2019,16+,NÃO,SIM,NÃO,NÃO,72.0,50.0
+2925,Blast of Tempest,2012,16+,NÃO,SIM,NÃO,NÃO,76.0,50.0
+2926,Ask This Old House,2002,all,NÃO,SIM,NÃO,NÃO,78.0,50.0
+2927,East Los High,2013,16+,NÃO,SIM,NÃO,NÃO,71.0,50.0
+2928,Sister Wives,2010,16+,NÃO,SIM,NÃO,NÃO,44.0,50.0
+2929,Place to Place,2012,7+,NÃO,SIM,NÃO,NÃO,67.0,50.0
+2932,The New Detectives,1996,7+,NÃO,SIM,NÃO,NÃO,78.0,50.0
+2933,Who The (Bleep) Did I Marry?,2010,7+,NÃO,SIM,NÃO,NÃO,67.0,50.0
+2934,Crossing Swords,2020,18+,NÃO,SIM,NÃO,NÃO,66.0,50.0
+2935,Baka and Test: Summon the Beasts,2010,7+,NÃO,SIM,NÃO,NÃO,73.0,50.0
+2938,Threesome,2011,18+,NÃO,SIM,NÃO,NÃO,76.0,50.0
+2939,Maken-Ki! Battling Venus,2011,18+,NÃO,SIM,NÃO,NÃO,61.0,50.0
+2940,Sherman's Showcase,2019,18+,NÃO,SIM,NÃO,NÃO,64.0,50.0
+2941,Yashahime: Princess Half-Demon,2020,16+,NÃO,SIM,NÃO,NÃO,72.0,50.0
+2942,Outbreak Company,2013,16+,NÃO,SIM,NÃO,NÃO,68.0,50.0
+2943,Marriage Boot Camp: Reality Stars,2014,16+,NÃO,SIM,NÃO,NÃO,47.0,50.0
+2944,Dagashi Kashi,2016,16+,NÃO,SIM,NÃO,NÃO,62.0,50.0
+2945,Fashion House,2006,18+,NÃO,SIM,NÃO,NÃO,64.0,50.0
+2947,I Am Frankie,2017,all,NÃO,SIM,NÃO,NÃO,62.0,50.0
+2949,Our Cartoon President,2018,16+,NÃO,SIM,NÃO,NÃO,51.0,50.0
+2951,Our Last Crusade or the Rise of a New World,2020,16+,NÃO,SIM,NÃO,NÃO,64.0,49.0
+2952,The Furchester Hotel,2014,all,NÃO,SIM,NÃO,NÃO,72.0,49.0
+2953,Little Mosque on the Prairie,2007,7+,NÃO,SIM,NÃO,NÃO,57.0,49.0
+2954,The Wallflower,2006,16+,NÃO,SIM,NÃO,NÃO,74.0,49.0
+2955,The Real Housewives of Orange County,2006,16+,NÃO,SIM,NÃO,NÃO,41.0,49.0
+2956,Married to Medicine,2013,16+,NÃO,SIM,NÃO,NÃO,52.0,49.0
+2958,The Real Housewives of New Jersey,2009,16+,NÃO,SIM,NÃO,NÃO,40.0,49.0
+2959,Cold Squad,1998,16+,NÃO,SIM,NÃO,NÃO,70.0,49.0
+2960,The Murder of Laci Peterson,2017,16+,NÃO,SIM,SIM,NÃO,74.0,49.0
+2961,Uta no Prince-sama,2011,16+,NÃO,SIM,NÃO,NÃO,67.0,49.0
+2962,Alone: The Beast,2020,7+,NÃO,SIM,NÃO,NÃO,58.0,49.0
+2964,Stacked,2005,7+,NÃO,SIM,NÃO,NÃO,60.0,49.0
+2965,Caillou,1998,all,NÃO,SIM,SIM,NÃO,40.0,49.0
+2966,Snake City,2014,16+,NÃO,SIM,NÃO,NÃO,86.0,49.0
+2968,StarTalk with Neil deGrasse Tyson,2015,all,NÃO,SIM,SIM,NÃO,78.0,49.0
+2969,Wasted,2016,18+,NÃO,SIM,NÃO,NÃO,74.0,49.0
+2970,Astro Boy,1980,all,NÃO,SIM,SIM,NÃO,73.0,49.0
+2972,Hetalia,2009,18+,NÃO,SIM,NÃO,NÃO,74.0,49.0
+2973,Air Gear,2006,18+,NÃO,SIM,NÃO,NÃO,72.0,49.0
+2974,Press Your Luck,2019,7+,NÃO,SIM,NÃO,NÃO,61.0,49.0
+2976,恋と選挙とチョコレート,2012,18+,NÃO,SIM,NÃO,NÃO,66.0,49.0
+2977,Black Blood Brothers,2006,16+,NÃO,SIM,NÃO,NÃO,71.0,49.0
+2981,The Gumby Show,1955,all,NÃO,SIM,SIM,NÃO,70.0,48.0
+2982,Are You Smarter Than a 5th Grader?,2007,7+,NÃO,SIM,NÃO,NÃO,49.0,48.0
+2984,Jeopardy! The Greatest of All Time,2020,7+,NÃO,SIM,NÃO,NÃO,87.0,48.0
+2985,The Strange Calls,2012,18+,NÃO,SIM,NÃO,NÃO,74.0,48.0
+2986,Victoria's Secret Fashion Show,1999,18+,NÃO,SIM,NÃO,NÃO,81.0,48.0
+2988,Card Sharks,2019,7+,NÃO,SIM,NÃO,NÃO,52.0,48.0
+2990,The Killer Speaks,2013,16+,NÃO,SIM,NÃO,NÃO,74.0,48.0
+2992,Nutri Ventures – The Quest for the 7 Kingdoms,2013,all,NÃO,SIM,NÃO,NÃO,78.0,48.0
+2993,Call Your Mother,2021,7+,NÃO,SIM,NÃO,NÃO,52.0,48.0
+2995,Toopy and Binoo,2005,all,NÃO,SIM,NÃO,NÃO,69.0,48.0
+2996,Miz & Mrs,2018,16+,NÃO,SIM,NÃO,NÃO,64.0,48.0
+2997,The Loop,2006,16+,NÃO,SIM,NÃO,NÃO,74.0,48.0
+2998,Weakest Link,2001,7+,NÃO,SIM,NÃO,NÃO,54.0,48.0
+2999,Property Brothers: Buying and Selling,2012,all,NÃO,SIM,NÃO,NÃO,71.0,48.0
+3000,Breaking Amish,2012,16+,NÃO,SIM,NÃO,NÃO,50.0,48.0
+3002,Cleopatra in Space,2020,all,NÃO,SIM,NÃO,NÃO,68.0,48.0
+3003,Mental Samurai,2019,7+,NÃO,SIM,NÃO,NÃO,60.0,48.0
+3004,The Adventures of Paddington Bear,1997,all,NÃO,SIM,NÃO,NÃO,71.0,48.0
+3006,Saved by the Bell: The College Years,1993,7+,NÃO,SIM,NÃO,NÃO,63.0,48.0
+3007,"Demon Lord, Retry!",2019,16+,NÃO,SIM,NÃO,NÃO,68.0,48.0
+3008,Don't,2020,16+,NÃO,SIM,NÃO,NÃO,58.0,48.0
+3009,Uncle Grandpa,2013,7+,NÃO,SIM,NÃO,NÃO,43.0,48.0
+3010,Behind Bars: Rookie Year,2015,16+,NÃO,SIM,NÃO,NÃO,78.0,48.0
+3011,Black Cat,2005,7+,NÃO,SIM,NÃO,NÃO,71.0,48.0
+3012,Metástasis,2014,16+,NÃO,SIM,NÃO,NÃO,23.0,48.0
+3014,Lucas Bros Moving Co,2013,18+,NÃO,SIM,NÃO,NÃO,70.0,48.0
+3015,Total Bellas,2016,16+,NÃO,SIM,NÃO,NÃO,58.0,48.0
+3016,Aria the Scarlet Ammo,2011,16+,NÃO,SIM,NÃO,NÃO,67.0,48.0
+3018,Heartstrings,2011,16+,NÃO,SIM,NÃO,NÃO,72.0,47.0
+3019,Dancing with the Stars,2005,7+,NÃO,SIM,NÃO,NÃO,45.0,47.0
+3020,The Other Guy,2017,18+,NÃO,SIM,NÃO,NÃO,69.0,47.0
+3022,The Kennedys,2015,7+,NÃO,SIM,NÃO,NÃO,73.0,47.0
+3023,Holiday Baking Championship,2014,all,NÃO,SIM,NÃO,NÃO,74.0,47.0
+3025,Love & Hip Hop Hollywood,2014,16+,NÃO,SIM,NÃO,NÃO,51.0,47.0
+3026,Corpse Princess,2008,7+,NÃO,SIM,NÃO,NÃO,69.0,47.0
+3027,The Wall,2016,7+,NÃO,SIM,SIM,NÃO,59.0,47.0
+3028,Divorce Court,1999,16+,NÃO,SIM,NÃO,NÃO,42.0,47.0
+3029,Unikitty!,2017,7+,NÃO,SIM,NÃO,NÃO,56.0,47.0
+3030,Sheriff Callie's Wild West,2013,all,NÃO,SIM,NÃO,SIM,65.0,47.0
+3031,Miles from Tomorrowland,2015,all,NÃO,SIM,NÃO,SIM,66.0,47.0
+3032,Caribbean Life,2014,all,NÃO,SIM,NÃO,NÃO,69.0,47.0
+3033,Psychic Detective Yakumo,2010,16+,NÃO,SIM,NÃO,NÃO,67.0,47.0
+3034,Monster Rancher,1999,7+,NÃO,SIM,SIM,NÃO,71.0,47.0
+3035,Big Windup!,2007,7+,NÃO,SIM,NÃO,NÃO,77.0,47.0
+3036,Duenos Del Paraiso,2015,16+,NÃO,SIM,NÃO,NÃO,69.0,47.0
+3037,To Catch a Smuggler,2012,7+,NÃO,SIM,NÃO,NÃO,70.0,47.0
+3038,Fugget About It,2012,18+,NÃO,SIM,NÃO,NÃO,60.0,47.0
+3039,Yu-Gi-Oh! Arc-V,2014,7+,NÃO,SIM,SIM,NÃO,63.0,47.0
+3040,Bong Appétit,2016,16+,NÃO,SIM,NÃO,NÃO,80.0,47.0
+3041,Nosotros los Guapos,2016,13+,NÃO,SIM,NÃO,NÃO,59.0,47.0
+3042,Max Steel,2000,7+,NÃO,SIM,NÃO,NÃO,63.0,47.0
+3043,"Golan, The Insatiable",2013,16+,NÃO,SIM,NÃO,NÃO,69.0,47.0
+3045,Pinky Dinky Doo,2006,all,NÃO,SIM,NÃO,NÃO,64.0,46.0
+3046,No Guns Life,2019,16+,NÃO,SIM,NÃO,NÃO,68.0,46.0
+3048,The First 48 Presents: Homicide Squad Atlanta,2019,16+,NÃO,SIM,SIM,NÃO,83.0,46.0
+3049,Hello Kitty's Furry Tale Theater,1987,all,NÃO,SIM,NÃO,NÃO,64.0,46.0
+3051,Space Brothers,2012,16+,NÃO,SIM,NÃO,NÃO,81.0,46.0
+3052,Little Women: Atlanta,2016,16+,NÃO,SIM,SIM,NÃO,52.0,46.0
+3053,Arte,2020,16+,NÃO,SIM,NÃO,NÃO,70.0,46.0
+3054,"Ready, Steady, Wiggle!",2013,all,NÃO,SIM,NÃO,NÃO,78.0,46.0
+3055,The Hotwives of Orlando,2014,16+,NÃO,SIM,NÃO,NÃO,75.0,46.0
+3056,"Ruff-Ruff, Tweet and Dave",2015,all,NÃO,SIM,NÃO,NÃO,76.0,46.0
+3057,Yu-Gi-Oh! Zexal,2011,7+,NÃO,SIM,SIM,NÃO,50.0,46.0
+3058,Breadwinners,2005,7+,NÃO,SIM,NÃO,NÃO,25.0,46.0
+3059,Soul Eater Not!,2014,16+,NÃO,SIM,NÃO,NÃO,57.0,46.0
+3060,The Only Way Is Essex,2010,16+,NÃO,SIM,NÃO,NÃO,31.0,46.0
+3062,Mythbusters Jr.,2019,7+,NÃO,SIM,NÃO,NÃO,69.0,46.0
+3063,Cake,2019,18+,NÃO,SIM,NÃO,NÃO,62.0,46.0
+3064,Major Lazer,2015,18+,NÃO,SIM,NÃO,NÃO,76.0,46.0
+3065,NASA's Unexplained Files,2012,all,NÃO,SIM,NÃO,NÃO,66.0,46.0
+3068,Brothers Conflict,2013,16+,NÃO,SIM,NÃO,NÃO,61.0,46.0
+3069,Astroblast!,2014,all,NÃO,SIM,NÃO,NÃO,66.0,46.0
+3071,Urara Meirocho,2017,16+,NÃO,SIM,NÃO,NÃO,74.0,46.0
+3072,Hakumei and Mikochi,2018,16+,NÃO,SIM,NÃO,NÃO,74.0,46.0
+3075,The New Adventures of Figaro Pho,2015,all,NÃO,SIM,NÃO,NÃO,73.0,45.0
+3076,When Nature Calls with Helen Mirren,2021,7+,NÃO,SIM,NÃO,NÃO,34.0,45.0
+3077,Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,2019,16+,NÃO,SIM,NÃO,NÃO,74.0,45.0
+3078,Tiny House Hunters,2014,all,NÃO,SIM,NÃO,NÃO,62.0,45.0
+3082,Street Outlaws: Memphis,2018,16+,NÃO,SIM,NÃO,NÃO,66.0,45.0
+3083,Part of Me,2014,16+,NÃO,SIM,NÃO,NÃO,84.0,45.0
+3084,LEGO Friends,2012,all,NÃO,SIM,SIM,NÃO,63.0,45.0
+3085,Flea Market Flip,2012,all,NÃO,SIM,NÃO,NÃO,67.0,45.0
+3086,Rock the Block,2019,all,NÃO,SIM,NÃO,NÃO,67.0,45.0
+3087,Appare-Ranman!,2020,16+,NÃO,SIM,NÃO,NÃO,69.0,45.0
+3089,The Case That Haunts Me,2018,16+,NÃO,SIM,NÃO,NÃO,77.0,45.0
+3090,Senryu Girl,2019,7+,NÃO,SIM,NÃO,NÃO,70.0,45.0
+3091,Alguien Te Mira,2010,7+,NÃO,SIM,NÃO,NÃO,74.0,45.0
+3092,All Night,2018,16+,NÃO,SIM,NÃO,NÃO,59.0,45.0
+3095,Long Island Medium,2011,7+,NÃO,SIM,NÃO,NÃO,48.0,45.0
+3097,Kaleido Star,2003,16+,NÃO,SIM,NÃO,NÃO,78.0,45.0
+3098,.hack,2002,7+,NÃO,SIM,NÃO,NÃO,69.0,45.0
+3099,The Tower of Druaga: The Aegis of Uruk,2008,7+,NÃO,SIM,NÃO,NÃO,67.0,45.0
+3101,Psychic Kids,2008,16+,NÃO,SIM,NÃO,NÃO,63.0,45.0
+3102,Stone Quackers,2014,18+,NÃO,SIM,NÃO,NÃO,68.0,45.0
+3103,Wicked Tuna: Outer Banks,2014,16+,NÃO,SIM,NÃO,SIM,62.0,45.0
+3104,Genius Junior,2018,all,NÃO,SIM,NÃO,NÃO,76.0,45.0
+3105,I Love Jenni,2011,7+,NÃO,SIM,NÃO,NÃO,83.0,45.0
+3107,VanDread,2000,16+,NÃO,SIM,NÃO,NÃO,71.0,45.0
+3109,Broken Angel,2013,16+,NÃO,SIM,NÃO,NÃO,70.0,45.0
+3110,Trolls: TrollsTopia,2020,7+,NÃO,SIM,NÃO,NÃO,71.0,45.0
+3111,Blippi,2014,all,NÃO,SIM,SIM,NÃO,75.0,45.0
+3116,Cardfight!! Vanguard,2011,16+,NÃO,SIM,NÃO,NÃO,72.0,44.0
+3117,Mrs. Piggle-Wiggle,1994,all,NÃO,SIM,NÃO,NÃO,71.0,44.0
+3119,S·A特优生,2008,16+,NÃO,SIM,NÃO,NÃO,73.0,44.0
+3121,The Millionaire Matchmaker,2008,7+,NÃO,SIM,NÃO,NÃO,46.0,44.0
+3122,Azur Lane,2019,16+,NÃO,SIM,NÃO,NÃO,60.0,44.0
+3123,WWE Main Event,2012,7+,NÃO,SIM,NÃO,NÃO,64.0,44.0
+3124,House Hunters Renovation,2012,all,NÃO,SIM,NÃO,NÃO,64.0,44.0
+3125,The Dude Perfect Show,2016,7+,NÃO,SIM,NÃO,NÃO,67.0,44.0
+3126,Endlings,2020,7+,NÃO,SIM,NÃO,NÃO,48.0,44.0
+3127,Celebrity Wheel of Fortune,2021,7+,NÃO,SIM,NÃO,NÃO,73.0,44.0
+3128,The Chew,2011,7+,NÃO,SIM,NÃO,NÃO,53.0,44.0
+3131,D.Gray-man Hallow,2016,16+,NÃO,SIM,NÃO,NÃO,76.0,44.0
+3132,Ellen's Game of Games,2017,7+,NÃO,SIM,NÃO,NÃO,49.0,44.0
+3133,Nina's World,2015,all,NÃO,SIM,NÃO,NÃO,60.0,44.0
+3134,Charlie Rose,1991,all,NÃO,SIM,NÃO,NÃO,75.0,44.0
+3135,Love in the Time of Corona,2020,16+,NÃO,SIM,NÃO,NÃO,57.0,44.0
+3136,El Fantasma de Elena,2010,16+,NÃO,SIM,NÃO,NÃO,74.0,43.0
+3137,Holly Hobbie,2018,7+,NÃO,SIM,NÃO,NÃO,65.0,43.0
+3139,Samurai Harem,2009,18+,NÃO,SIM,NÃO,NÃO,60.0,43.0
+3140,Negima!,2005,7+,NÃO,SIM,NÃO,NÃO,62.0,43.0
+3143,Forged in Fire: Beat the Judges,2020,7+,NÃO,SIM,NÃO,NÃO,86.0,43.0
+3144,Spring Baking Championship,2015,all,NÃO,SIM,NÃO,NÃO,69.0,43.0
+3146,Nabari no Ou,2008,16+,NÃO,SIM,NÃO,NÃO,65.0,43.0
+3147,Name That Tune,2021,7+,NÃO,SIM,NÃO,NÃO,49.0,43.0
+3149,My Super Sweet 16,2005,7+,NÃO,SIM,NÃO,NÃO,18.0,43.0
+3151,Kendra on Top,2012,7+,NÃO,SIM,NÃO,NÃO,36.0,43.0
+3152,I Can See Your Voice,2020,7+,NÃO,SIM,NÃO,NÃO,57.0,43.0
+3155,Hitler's Last Stand,2018,16+,NÃO,SIM,NÃO,NÃO,64.0,43.0
+3156,Nightline,1980,7+,NÃO,SIM,NÃO,NÃO,57.0,43.0
+3159,Lost Gold of World War II,2019,7+,NÃO,SIM,NÃO,NÃO,65.0,42.0
+3162,"Underworld, Inc.",2015,16+,NÃO,SIM,NÃO,NÃO,71.0,42.0
+3163,When Sharks Attack,2013,16+,NÃO,SIM,NÃO,SIM,66.0,42.0
+3164,High School USA!,2013,18+,NÃO,SIM,NÃO,NÃO,64.0,42.0
+3165,Pooch Perfect,2021,7+,NÃO,SIM,NÃO,NÃO,37.0,42.0
+3167,The Mighty Ones,2020,7+,NÃO,SIM,NÃO,NÃO,75.0,42.0
+3168,Garo: The Animation,2014,all,NÃO,SIM,NÃO,NÃO,67.0,42.0
+3169,Arms Alchemy,2006,18+,NÃO,SIM,NÃO,NÃO,69.0,42.0
+3171,Where's Waldo?,2020,all,NÃO,SIM,NÃO,NÃO,75.0,42.0
+3174,Blade Dance of Elementalers,2014,16+,NÃO,SIM,NÃO,NÃO,67.0,42.0
+3176,Toddlers & Tiaras,2009,7+,NÃO,SIM,NÃO,NÃO,18.0,42.0
+3180,60 Days In: Narcoland,2019,16+,NÃO,SIM,NÃO,NÃO,59.0,42.0
+3181,Basilisk,2005,18+,NÃO,SIM,NÃO,NÃO,48.0,42.0
+3182,Tree Fu Tom,2012,all,NÃO,SIM,NÃO,NÃO,56.0,42.0
+3183,Runaways,2012,16+,NÃO,SIM,NÃO,NÃO,79.0,42.0
+3185,Madagascar: A Little Wild,2020,all,NÃO,SIM,NÃO,NÃO,57.0,42.0
+3186,NY-LON,2004,18+,NÃO,SIM,NÃO,NÃO,74.0,42.0
+3187,WTF Baron Davis,2019,18+,NÃO,SIM,NÃO,NÃO,81.0,42.0
+3188,Ancient Top 10,2016,16+,NÃO,SIM,NÃO,NÃO,78.0,42.0
+3189,I Am Cait,2015,16+,NÃO,SIM,NÃO,NÃO,34.0,42.0
+3190,Pickle & Peanut,2015,7+,NÃO,SIM,NÃO,SIM,43.0,41.0
+3191,Infinite Dendrogram,2020,16+,NÃO,SIM,NÃO,NÃO,58.0,41.0
+3192,Jamie's Quick & Easy Food,2017,all,NÃO,SIM,NÃO,NÃO,84.0,41.0
+3193,Aquarion,2005,18+,NÃO,SIM,NÃO,NÃO,65.0,41.0
+3194,Inside the NFL,1977,7+,NÃO,SIM,NÃO,NÃO,69.0,41.0
+3195,Gensomaden Saiyuki,2000,16+,NÃO,SIM,NÃO,NÃO,74.0,41.0
+3196,Swiss Family Robinson,1974,7+,NÃO,SIM,NÃO,SIM,70.0,41.0
+3197,The Toe Bro,2019,16+,NÃO,SIM,NÃO,NÃO,79.0,41.0
+3198,Anyone But Me,2009,16+,NÃO,SIM,NÃO,NÃO,72.0,41.0
+3199,The Dating Guy,2009,18+,NÃO,SIM,NÃO,NÃO,35.0,41.0
+3200,Celebs Go Dating,2016,18+,NÃO,SIM,NÃO,NÃO,56.0,41.0
+3201,Planet Sheen,2010,7+,NÃO,SIM,NÃO,NÃO,30.0,41.0
+3203,To LOVEる -とらぶる- ダークネス2nd,2012,16+,NÃO,SIM,NÃO,NÃO,72.0,41.0
+3204,Good Morning America,1975,all,NÃO,SIM,NÃO,NÃO,45.0,41.0
+3205,Who Wants to Be a Millionaire,2020,16+,NÃO,SIM,NÃO,NÃO,61.0,41.0
+3206,Joe and Jack,2012,all,NÃO,SIM,NÃO,NÃO,45.0,41.0
+3209,The Young Turks,2005,16+,NÃO,SIM,SIM,NÃO,53.0,40.0
+3210,Home Free,2015,all,NÃO,SIM,NÃO,NÃO,72.0,40.0
+3211,Paradise Run,2016,all,NÃO,SIM,NÃO,NÃO,61.0,40.0
+3213,A3!,2020,16+,NÃO,SIM,NÃO,NÃO,65.0,40.0
+3216,How It Works,2007,all,NÃO,SIM,NÃO,NÃO,83.0,40.0
+3217,ClassicaLoid,2016,16+,NÃO,SIM,NÃO,NÃO,64.0,40.0
+3218,Kings of Pain,2019,16+,NÃO,SIM,NÃO,NÃO,67.0,40.0
+3219,The View,1997,16+,NÃO,SIM,NÃO,NÃO,26.0,40.0
+3224,Mighty Magiswords,2015,7+,NÃO,SIM,NÃO,NÃO,49.0,40.0
+3226,Basketball Wives LA,2011,7+,NÃO,SIM,NÃO,NÃO,42.0,40.0
+3227,Forensic Factor,2003,18+,NÃO,SIM,SIM,NÃO,73.0,40.0
+3229,The Weekly,2019,18+,NÃO,SIM,NÃO,NÃO,66.0,40.0
+3230,Connecting...,2020,7+,NÃO,SIM,NÃO,NÃO,51.0,40.0
+3233,Jim Henson Presents Mother Goose Stories,1990,all,NÃO,SIM,NÃO,NÃO,83.0,40.0
+3235,Rock of Love with Bret Michaels,2007,18+,NÃO,SIM,NÃO,NÃO,48.0,39.0
+3236,Bajo el Mismo Cielo,2015,16+,NÃO,SIM,NÃO,NÃO,80.0,39.0
+3238,Eva La Trailera,2017,16+,NÃO,SIM,NÃO,NÃO,73.0,39.0
+3239,Born Behind Bars,2017,16+,NÃO,SIM,NÃO,NÃO,81.0,39.0
+3241,Seven Year Switch,2015,16+,NÃO,SIM,NÃO,NÃO,53.0,39.0
+3242,Dog love,2010,7+,NÃO,SIM,NÃO,NÃO,66.0,39.0
+3245,Driven,2020,16+,NÃO,SIM,NÃO,NÃO,74.0,39.0
+3247,Mother Up!,2013,16+,NÃO,SIM,NÃO,NÃO,46.0,39.0
+3250,Close Up with The Hollywood Reporter,2015,16+,NÃO,SIM,NÃO,NÃO,70.0,39.0
+3252,205 Live,2016,7+,NÃO,SIM,NÃO,NÃO,71.0,39.0
+3254,Many Sides of Jane,2019,16+,NÃO,SIM,NÃO,NÃO,61.0,39.0
+3255,The Riveras,2016,7+,NÃO,SIM,NÃO,NÃO,76.0,39.0
+3256,Steve Harvey's Funderdome,2017,7+,NÃO,SIM,NÃO,NÃO,73.0,39.0
+3261,VICE Investigates,2019,18+,NÃO,SIM,NÃO,NÃO,68.0,39.0
+3263,Zorro the Chronicles,2015,all,NÃO,SIM,NÃO,NÃO,73.0,38.0
+3264,Truth & Iliza,2017,7+,NÃO,SIM,NÃO,NÃO,55.0,38.0
+3265,Life of Kylie,2017,16+,NÃO,SIM,NÃO,NÃO,35.0,38.0
+3266,WWE Superstars,2009,7+,NÃO,SIM,NÃO,NÃO,58.0,38.0
+3268,Showtime at the Apollo,1987,all,NÃO,SIM,NÃO,NÃO,60.0,38.0
+3269,Nightcap,2016,7+,NÃO,SIM,NÃO,NÃO,50.0,38.0
+3270,After School Dice Club,2019,16+,NÃO,SIM,NÃO,NÃO,66.0,38.0
+3271,Up to Speed,2012,16+,NÃO,SIM,NÃO,NÃO,65.0,38.0
+3272,Spartan: Ultimate Team Challenge,2016,7+,NÃO,SIM,NÃO,NÃO,59.0,38.0
+3273,The Wildlife Docs,2013,all,NÃO,SIM,NÃO,NÃO,80.0,38.0
+3274,Behind Closed Doors,2011,16+,NÃO,SIM,SIM,NÃO,72.0,38.0
+3276,Dot.,2016,all,NÃO,SIM,NÃO,NÃO,71.0,38.0
+3278,Supernoobs,2015,7+,NÃO,SIM,NÃO,NÃO,36.0,38.0
+3279,Phenoms,2018,7+,NÃO,SIM,NÃO,NÃO,74.0,38.0
+3286,Sorcerous Stabber Orphen,2020,16+,NÃO,SIM,NÃO,NÃO,57.0,37.0
+3287,Future-Worm!,2016,7+,NÃO,SIM,NÃO,SIM,52.0,37.0
+3288,Get Ace,2014,all,NÃO,SIM,NÃO,NÃO,75.0,37.0
+3289,The Masked Dancer,2020,7+,NÃO,SIM,NÃO,NÃO,41.0,37.0
+3290,This Week,1981,7+,NÃO,SIM,NÃO,NÃO,52.0,37.0
+3291,BEM,2019,16+,NÃO,SIM,NÃO,NÃO,60.0,37.0
+3292,Mix: Meisei Story,2019,7+,NÃO,SIM,NÃO,NÃO,75.0,37.0
+3296,Dies Irae,2017,18+,NÃO,SIM,NÃO,NÃO,47.0,36.0
+3298,Daisy of Love,2009,16+,NÃO,SIM,NÃO,NÃO,45.0,36.0
+3301,LA Story,2014,16+,NÃO,SIM,NÃO,NÃO,72.0,36.0
+3303,Woman,2016,18+,NÃO,SIM,NÃO,NÃO,73.0,36.0
+3305,A Little Late with Lilly Singh,2019,16+,NÃO,SIM,NÃO,NÃO,15.0,36.0
+3307,WWE En Español,2012,7+,NÃO,SIM,NÃO,NÃO,81.0,36.0
+3309,Hot Package,2013,18+,NÃO,SIM,NÃO,NÃO,63.0,36.0
+3310,The Untold Story,2019,16+,NÃO,SIM,NÃO,NÃO,72.0,36.0
+3313,Dama y Obrero,2013,16+,NÃO,SIM,NÃO,NÃO,77.0,36.0
+3314,Mickey's 90th Spectacular,2018,7+,NÃO,SIM,NÃO,NÃO,71.0,36.0
+3315,Ellen's Greatest Night of Giveaways,2019,7+,NÃO,SIM,NÃO,NÃO,45.0,35.0
+3316,The Grill Dads,2017,7+,NÃO,SIM,NÃO,NÃO,76.0,35.0
+3320,RocketJump: The Show,2015,16+,NÃO,SIM,NÃO,NÃO,72.0,35.0
+3328,Baldwin Hills,2007,16+,NÃO,SIM,NÃO,NÃO,43.0,35.0
+3331,Doozers,2014,all,NÃO,SIM,NÃO,NÃO,68.0,34.0
+3332,Terrific Trucks,2016,all,NÃO,SIM,NÃO,NÃO,57.0,34.0
+3333,The Bravest Knight,2019,7+,NÃO,SIM,NÃO,NÃO,64.0,34.0
+3352,Last Call with Carson Daly,2002,16+,NÃO,SIM,NÃO,NÃO,29.0,33.0
+3353,THE REFLECTION,2017,18+,NÃO,SIM,NÃO,NÃO,61.0,33.0
+3354,Dish Nation,2011,7+,NÃO,SIM,NÃO,NÃO,36.0,33.0
+3355,Rudy Maxa's World,2008,all,NÃO,SIM,NÃO,NÃO,72.0,33.0
+3362,Utawarerumono: The False Faces,2015,16+,NÃO,SIM,NÃO,NÃO,68.0,32.0
+3366,CNBC Titans,2010,all,NÃO,SIM,NÃO,NÃO,82.0,31.0
+3374,La Diosa Coronada,2010,7+,NÃO,SIM,NÃO,NÃO,73.0,31.0
+3376,Night Guard,2015,18+,NÃO,SIM,NÃO,NÃO,80.0,31.0
+3378,Consumer 101,2018,all,NÃO,SIM,NÃO,NÃO,45.0,30.0
+3379,Page Six TV,2017,7+,NÃO,SIM,NÃO,NÃO,44.0,30.0
+3395,Bobby Flay's Barbecue Addiction,2011,7+,NÃO,SIM,NÃO,NÃO,65.0,28.0
+3397,Behind the Bar,2011,16+,NÃO,SIM,NÃO,NÃO,44.0,28.0
+3398,NASA 360,2008,all,NÃO,SIM,NÃO,NÃO,76.0,28.0
+3402,Hot Gay Comics,2008,18+,NÃO,SIM,NÃO,NÃO,38.0,27.0
+3407,She's Living for This,2012,18+,NÃO,SIM,NÃO,NÃO,55.0,26.0
+3412,AwesomenessTV,2013,7+,NÃO,SIM,NÃO,NÃO,24.0,25.0
+3417,Modd Couples,2015,18+,NÃO,SIM,NÃO,NÃO,53.0,24.0
+3581,The Boys,2019,18+,NÃO,NÃO,SIM,NÃO,87.0,93.0
+3583,Dexter,2006,18+,NÃO,NÃO,SIM,NÃO,86.0,92.0
+3584,House,2004,16+,NÃO,NÃO,SIM,NÃO,87.0,92.0
+3585,Mr. Robot,2015,18+,NÃO,NÃO,SIM,NÃO,85.0,91.0
+3588,The Expanse,2015,16+,NÃO,NÃO,SIM,NÃO,85.0,90.0
+3590,Bosch,2015,18+,NÃO,NÃO,SIM,NÃO,84.0,88.0
+3591,Invincible,2021,18+,NÃO,NÃO,SIM,SIM,87.0,88.0
+3592,Fleabag,2016,18+,NÃO,NÃO,SIM,NÃO,87.0,88.0
+3594,The Americans,2013,18+,NÃO,NÃO,SIM,NÃO,84.0,87.0
+3595,Billions,2016,18+,NÃO,NÃO,SIM,NÃO,84.0,87.0
+3597,The Marvelous Mrs. Maisel,2017,18+,NÃO,NÃO,SIM,NÃO,87.0,86.0
+3600,Psych,2006,7+,NÃO,NÃO,SIM,NÃO,83.0,86.0
+3601,The Night Manager,2016,16+,NÃO,NÃO,SIM,NÃO,81.0,86.0
+3603,Unforgotten,2018,18+,NÃO,NÃO,SIM,NÃO,83.0,85.0
+3604,Orphan Black,2013,18+,NÃO,NÃO,SIM,NÃO,83.0,85.0
+3605,Chuck,2007,16+,NÃO,SIM,SIM,NÃO,82.0,85.0
+3607,The Fall,2013,18+,NÃO,NÃO,SIM,NÃO,81.0,85.0
+3609,Tom Clancy's Jack Ryan,2018,18+,NÃO,NÃO,SIM,NÃO,81.0,84.0
+3611,The Pacific,2010,18+,NÃO,NÃO,SIM,NÃO,83.0,83.0
+3612,Good Omens,2019,18+,NÃO,NÃO,SIM,NÃO,81.0,83.0
+3614,The Man in the High Castle,2015,18+,NÃO,NÃO,SIM,NÃO,80.0,83.0
+3615,Grimm,2011,16+,NÃO,NÃO,SIM,NÃO,78.0,83.0
+3616,The Family Man,2019,16+,NÃO,NÃO,SIM,NÃO,88.0,83.0
+3620,Upload,2020,18+,NÃO,NÃO,SIM,NÃO,80.0,82.0
+3622,Counterpart,2017,18+,NÃO,NÃO,SIM,NÃO,81.0,82.0
+3624,Monk,2002,16+,NÃO,NÃO,SIM,NÃO,80.0,81.0
+3626,The Grand Tour,2016,16+,NÃO,NÃO,SIM,NÃO,87.0,81.0
+3627,Black Books,2000,7+,NÃO,NÃO,SIM,NÃO,85.0,81.0
+3628,Californication,2007,18+,NÃO,NÃO,SIM,NÃO,83.0,81.0
+3629,Eureka,2006,16+,NÃO,NÃO,SIM,NÃO,79.0,81.0
+3630,Animal Kingdom,2016,18+,NÃO,NÃO,SIM,NÃO,82.0,80.0
+3633,Humans,2015,16+,NÃO,NÃO,SIM,NÃO,80.0,80.0
+3634,Endeavour,2013,16+,NÃO,NÃO,SIM,NÃO,86.0,80.0
+3635,Alias,2001,16+,NÃO,NÃO,SIM,NÃO,76.0,80.0
+3636,The Missing,2014,18+,NÃO,NÃO,SIM,NÃO,82.0,80.0
+3637,Sneaky Pete,2015,18+,NÃO,NÃO,SIM,NÃO,81.0,79.0
+3638,Father Ted,1995,16+,NÃO,NÃO,SIM,NÃO,86.0,79.0
+3639,The Mentalist,2008,16+,NÃO,NÃO,SIM,NÃO,81.0,79.0
+3640,The Thick of It,2005,18+,NÃO,NÃO,SIM,NÃO,87.0,79.0
+3641,The Lost Room,2006,7+,NÃO,NÃO,SIM,NÃO,82.0,79.0
+3644,River,2015,7+,NÃO,NÃO,SIM,NÃO,80.0,79.0
+3646,The Affair,2014,18+,NÃO,NÃO,SIM,NÃO,79.0,78.0
+3647,Undone,2019,18+,NÃO,NÃO,SIM,NÃO,82.0,78.0
+3649,Poldark,2015,16+,NÃO,NÃO,SIM,NÃO,83.0,78.0
+3650,Carnival Row,2019,18+,NÃO,NÃO,SIM,NÃO,79.0,78.0
+3651,Wayne,2019,18+,NÃO,NÃO,SIM,NÃO,84.0,78.0
+3652,Farscape,1999,16+,NÃO,NÃO,SIM,NÃO,82.0,78.0
+3653,Victoria,2016,16+,NÃO,NÃO,SIM,NÃO,82.0,78.0
+3654,Goliath,2016,16+,NÃO,NÃO,SIM,NÃO,81.0,77.0
+3655,Catastrophe,2015,18+,NÃO,NÃO,SIM,NÃO,82.0,77.0
+3656,Hanna,2019,18+,NÃO,NÃO,SIM,NÃO,75.0,77.0
+3659,SpongeBob SquarePants,1999,7+,NÃO,NÃO,SIM,NÃO,82.0,77.0
+3660,Extras,2005,18+,NÃO,NÃO,SIM,NÃO,83.0,77.0
+3661,Two and a Half Men,2003,16+,NÃO,NÃO,SIM,NÃO,70.0,77.0
+3662,Escape at Dannemora,2018,18+,NÃO,NÃO,SIM,NÃO,80.0,77.0
+3663,Patriot,2015,18+,NÃO,NÃO,SIM,NÃO,83.0,77.0
+3667,Modern Love,2019,18+,NÃO,NÃO,SIM,NÃO,80.0,76.0
+3668,Clarkson's Farm,2021,7+,NÃO,NÃO,SIM,NÃO,92.0,76.0
+3671,Gavin & Stacey,2007,16+,NÃO,NÃO,SIM,NÃO,81.0,75.0
+3672,Homecoming,2018,18+,NÃO,NÃO,SIM,NÃO,75.0,74.0
+3673,City on a Hill,2019,18+,NÃO,NÃO,SIM,NÃO,76.0,74.0
+3674,Patrick Melrose,2018,18+,NÃO,NÃO,SIM,NÃO,81.0,74.0
+3675,Queer as Folk,1999,18+,NÃO,NÃO,SIM,NÃO,82.0,74.0
+3676,Flack,2019,16+,NÃO,NÃO,SIM,NÃO,72.0,74.0
+3677,Mozart in the Jungle,2014,18+,NÃO,NÃO,SIM,NÃO,81.0,74.0
+3678,The Tick,2016,7+,NÃO,NÃO,SIM,NÃO,74.0,74.0
+3682,Tales from the Loop,2020,18+,NÃO,NÃO,SIM,NÃO,75.0,72.0
+3683,Fortitude,2015,18+,NÃO,NÃO,SIM,NÃO,74.0,72.0
+3684,The Tunnel,2013,18+,NÃO,NÃO,SIM,NÃO,79.0,72.0
+3685,The Wilds,2020,16+,NÃO,NÃO,SIM,NÃO,73.0,72.0
+3686,A Very English Scandal,2018,16+,NÃO,NÃO,SIM,NÃO,77.0,72.0
+3687,Salvation,2017,16+,NÃO,NÃO,SIM,NÃO,70.0,72.0
+3688,The Underground Railroad,2021,18+,NÃO,NÃO,SIM,NÃO,73.0,72.0
+3689,Red Oaks,2014,18+,NÃO,NÃO,SIM,NÃO,79.0,72.0
+3691,Tell Me Your Secrets,2021,18+,NÃO,NÃO,SIM,NÃO,74.0,72.0
+3692,Transparent,2014,18+,NÃO,NÃO,SIM,NÃO,77.0,72.0
+3693,Loudermilk,2017,18+,NÃO,NÃO,SIM,NÃO,78.0,72.0
+3694,Britannia,2018,16+,NÃO,NÃO,SIM,NÃO,68.0,72.0
+3695,ZeroZeroZero,2020,18+,NÃO,NÃO,SIM,NÃO,82.0,71.0
+3696,Philip K. Dick's Electric Dreams,2017,18+,NÃO,NÃO,SIM,NÃO,73.0,71.0
+3703,Truth Seekers,2020,16+,NÃO,NÃO,SIM,NÃO,71.0,71.0
+3704,"Magnum, P.I.",1980,7+,NÃO,NÃO,SIM,NÃO,75.0,70.0
+3705,Hunters,2020,18+,NÃO,NÃO,SIM,NÃO,72.0,70.0
+3707,"Eerie, Indiana",1991,7+,NÃO,NÃO,SIM,NÃO,82.0,70.0
+3708,The Andy Griffith Show,1960,all,NÃO,NÃO,SIM,NÃO,83.0,70.0
+3713,Mirzapur,2018,18+,NÃO,NÃO,SIM,NÃO,84.0,69.0
+3714,Sanctuary,2008,7+,NÃO,NÃO,SIM,NÃO,73.0,69.0
+3716,Detectorists,2014,16+,NÃO,NÃO,SIM,NÃO,86.0,69.0
+3717,Tin Star,2017,18+,NÃO,NÃO,SIM,NÃO,73.0,69.0
+3719,The Durrells,2016,7+,NÃO,NÃO,SIM,NÃO,82.0,69.0
+3721,Get Shorty,2017,18+,NÃO,NÃO,SIM,NÃO,82.0,69.0
+3722,Thirteen,2016,18+,NÃO,NÃO,SIM,NÃO,72.0,69.0
+3724,The Returned,2015,18+,NÃO,NÃO,SIM,NÃO,71.0,68.0
+3726,Trapped,2015,7+,NÃO,NÃO,SIM,NÃO,81.0,68.0
+3727,ALF,1986,all,NÃO,NÃO,SIM,NÃO,74.0,68.0
+3730,Informer,2018,18+,NÃO,NÃO,SIM,NÃO,78.0,68.0
+3732,Alex Rider,2020,16+,NÃO,NÃO,SIM,NÃO,76.0,68.0
+3733,Jesus of Nazareth,1977,7+,NÃO,NÃO,SIM,NÃO,85.0,68.0
+3734,The Cosby Show,1984,all,NÃO,NÃO,SIM,NÃO,73.0,68.0
+3736,Absentia,2017,18+,NÃO,NÃO,SIM,NÃO,73.0,67.0
+3737,Grantchester,2014,16+,NÃO,NÃO,SIM,NÃO,79.0,67.0
+3738,The Men Who Built America,2012,7+,NÃO,NÃO,SIM,NÃO,86.0,67.0
+3741,Too Old to Die Young,2019,18+,NÃO,NÃO,SIM,NÃO,74.0,67.0
+3743,Forever,2018,18+,NÃO,NÃO,SIM,NÃO,72.0,67.0
+3744,Dororo,2019,18+,NÃO,NÃO,SIM,NÃO,84.0,67.0
+3745,Good Girls Revolt,2015,18+,NÃO,NÃO,SIM,NÃO,82.0,67.0
+3746,Secret Diary of a Call Girl,2007,18+,NÃO,NÃO,SIM,NÃO,74.0,67.0
+3747,Mad Dogs,2015,18+,NÃO,NÃO,SIM,NÃO,75.0,67.0
+3749,Home Fires,2015,7+,NÃO,NÃO,SIM,NÃO,82.0,66.0
+3750,Jean-Claude Van Johnson,2016,7+,NÃO,NÃO,SIM,NÃO,76.0,66.0
+3751,The Honeymooners,1952,all,NÃO,NÃO,SIM,NÃO,86.0,66.0
+3752,Isabel,2012,7+,NÃO,NÃO,SIM,NÃO,83.0,66.0
+3753,Vanity Fair,2018,7+,NÃO,NÃO,SIM,NÃO,73.0,66.0
+3754,Lewis,2007,16+,NÃO,NÃO,SIM,NÃO,80.0,66.0
+3755,Mad About You,1992,16+,NÃO,NÃO,SIM,NÃO,67.0,66.0
+3757,How the Universe Works,2010,7+,NÃO,NÃO,SIM,NÃO,89.0,66.0
+3759,Mister Rogers' Neighborhood,1968,all,NÃO,NÃO,SIM,NÃO,86.0,65.0
+3760,Made In Abyss,2017,18+,NÃO,NÃO,SIM,NÃO,84.0,65.0
+3761,Hand of God,2014,7+,NÃO,NÃO,SIM,NÃO,75.0,65.0
+3762,Silent Witness,1996,16+,NÃO,NÃO,SIM,NÃO,78.0,65.0
+3766,Arthur,1996,7+,NÃO,NÃO,SIM,NÃO,73.0,65.0
+3767,The Carol Burnett Show,1967,all,NÃO,NÃO,SIM,NÃO,87.0,65.0
+3769,Howards End,2017,7+,SIM,NÃO,SIM,NÃO,73.0,64.0
+3770,Wildfire,2005,16+,NÃO,NÃO,SIM,NÃO,76.0,64.0
+3771,A Gifted Man,2011,7+,NÃO,NÃO,SIM,NÃO,70.0,64.0
+3772,Dance Academy,2010,16+,NÃO,NÃO,SIM,NÃO,81.0,64.0
+3773,Making the Cut,2020,16+,NÃO,NÃO,SIM,NÃO,66.0,64.0
+3776,Man vs. Wild,2006,7+,NÃO,NÃO,SIM,NÃO,81.0,64.0
+3777,Breaking In,2011,16+,NÃO,NÃO,SIM,NÃO,71.0,64.0
+3778,Bottom,1991,18+,NÃO,NÃO,SIM,NÃO,82.0,64.0
+3779,Paatal Lok,2020,18+,NÃO,NÃO,SIM,NÃO,78.0,64.0
+3780,Alpha House,2013,16+,NÃO,NÃO,SIM,NÃO,76.0,64.0
+3781,NOVA,1974,7+,NÃO,NÃO,SIM,NÃO,87.0,64.0
+3782,Hustle,2006,16+,NÃO,NÃO,SIM,NÃO,81.0,64.0
+3783,Doctor Thorne,2016,16+,NÃO,NÃO,SIM,NÃO,73.0,64.0
+3784,The Royals,2015,16+,NÃO,NÃO,SIM,NÃO,75.0,64.0
+3785,Fresh Meat,2011,18+,NÃO,NÃO,SIM,NÃO,78.0,64.0
+3787,The League of Gentlemen,1999,18+,NÃO,NÃO,SIM,NÃO,84.0,64.0
+3788,American Experience,1988,7+,NÃO,NÃO,SIM,NÃO,86.0,64.0
+3789,4 Blocks,2017,7+,NÃO,NÃO,SIM,NÃO,82.0,64.0
+3790,The A Word,2016,18+,NÃO,NÃO,SIM,NÃO,78.0,63.0
+3791,Small Axe,2020,18+,NÃO,NÃO,SIM,NÃO,79.0,63.0
+3793,Breathe,2018,18+,NÃO,NÃO,SIM,NÃO,83.0,63.0
+3794,Panic,2021,16+,NÃO,NÃO,SIM,NÃO,65.0,63.0
+3795,Survivorman,2004,7+,NÃO,NÃO,SIM,NÃO,82.0,63.0
+3799,Sonic the Hedgehog,1993,7+,NÃO,SIM,SIM,NÃO,68.0,63.0
+3800,Mission: Impossible,1966,7+,NÃO,NÃO,SIM,NÃO,76.0,63.0
+3803,Between Two Ferns with Zach Galifianakis,2008,16+,NÃO,NÃO,SIM,NÃO,84.0,62.0
+3804,Guilt,2016,16+,NÃO,NÃO,SIM,NÃO,60.0,62.0
+3805,Grounded for Life,2001,16+,NÃO,NÃO,SIM,NÃO,74.0,62.0
+3806,The Last Tycoon,2016,7+,NÃO,NÃO,SIM,NÃO,77.0,62.0
+3807,Lore,2017,16+,NÃO,NÃO,SIM,NÃO,67.0,62.0
+3809,Cops,1989,18+,NÃO,NÃO,SIM,NÃO,70.0,62.0
+3811,Survivor's Remorse,2014,18+,NÃO,NÃO,SIM,NÃO,70.0,62.0
+3812,Comrade Detective,2017,18+,NÃO,NÃO,SIM,NÃO,73.0,62.0
+3813,A Bit of Fry and Laurie,1989,16+,NÃO,NÃO,SIM,NÃO,83.0,62.0
+3814,Wolfblood,2013,7+,NÃO,NÃO,SIM,NÃO,76.0,62.0
+3816,Neverland,2011,7+,NÃO,NÃO,SIM,NÃO,64.0,62.0
+3817,Just Add Magic,2015,7+,NÃO,NÃO,SIM,NÃO,83.0,62.0
+3818,Malgudi Days,1987,all,NÃO,NÃO,SIM,NÃO,95.0,62.0
+3819,Dark Shadows,1966,7+,NÃO,NÃO,SIM,NÃO,75.0,62.0
+3821,The Widow,2019,18+,NÃO,NÃO,SIM,NÃO,69.0,61.0
+3822,El Cid,2020,16+,NÃO,NÃO,SIM,NÃO,65.0,61.0
+3825,All or Nothing: Manchester City,2018,all,NÃO,NÃO,SIM,NÃO,82.0,61.0
+3827,Totally Spies!,2001,7+,NÃO,NÃO,SIM,NÃO,70.0,61.0
+3828,Underbelly,2008,18+,NÃO,NÃO,SIM,NÃO,81.0,61.0
+3829,Our Girl,2014,16+,NÃO,NÃO,SIM,NÃO,77.0,61.0
+3832,Reading Rainbow,1983,all,NÃO,NÃO,SIM,NÃO,84.0,61.0
+3833,"Kill Me, Heal Me",2015,16+,NÃO,NÃO,SIM,NÃO,83.0,61.0
+3834,Ted Bundy: Falling for a Killer,2020,18+,NÃO,NÃO,SIM,NÃO,79.0,61.0
+3835,"Dr. Quinn, Medicine Woman",1993,7+,NÃO,NÃO,SIM,NÃO,67.0,60.0
+3836,Z: The Beginning of Everything,2017,7+,NÃO,NÃO,SIM,NÃO,71.0,60.0
+3837,The Romanoffs,2018,18+,NÃO,NÃO,SIM,NÃO,70.0,60.0
+3838,Republic of Doyle,2010,16+,NÃO,NÃO,SIM,NÃO,74.0,60.0
+3841,Inside Edge,2017,18+,NÃO,NÃO,SIM,NÃO,80.0,60.0
+3842,The Feed,2019,16+,NÃO,NÃO,SIM,NÃO,63.0,60.0
+3844,The Last Post,2017,18+,NÃO,NÃO,SIM,NÃO,72.0,60.0
+3845,I Shouldn't Be Alive,2005,7+,NÃO,NÃO,SIM,NÃO,81.0,60.0
+3848,Halo 4: Forward Unto Dawn,2012,16+,NÃO,NÃO,SIM,NÃO,69.0,60.0
+3849,Four More Shots Please,2019,18+,NÃO,NÃO,SIM,NÃO,64.0,60.0
+3852,The Lost World,1999,7+,NÃO,NÃO,SIM,NÃO,72.0,60.0
+3855,All or Nothing: Tottenham Hotspur,2020,16+,NÃO,NÃO,SIM,NÃO,82.0,59.0
+3856,All or Nothing,2016,18+,NÃO,NÃO,SIM,NÃO,86.0,59.0
+3857,Appropriate Adult,2011,18+,NÃO,NÃO,SIM,NÃO,75.0,59.0
+3858,Mr. Bean: The Animated Series,2002,all,NÃO,NÃO,SIM,NÃO,69.0,59.0
+3859,Picnic at Hanging Rock,2018,16+,NÃO,NÃO,SIM,NÃO,62.0,59.0
+3861,Frontline,1983,18+,NÃO,NÃO,SIM,NÃO,86.0,59.0
+3862,Little Women,2017,7+,NÃO,NÃO,SIM,NÃO,72.0,59.0
+3864,Earth: Final Conflict,1997,7+,NÃO,NÃO,SIM,NÃO,62.0,59.0
+3865,The ABC Murders,2018,16+,NÃO,NÃO,SIM,NÃO,66.0,59.0
+3867,Indian Summers,2015,7+,NÃO,NÃO,SIM,NÃO,73.0,59.0
+3868,Sea Patrol,2007,7+,NÃO,NÃO,SIM,NÃO,75.0,59.0
+3869,Inside Men,2012,16+,NÃO,NÃO,SIM,NÃO,73.0,59.0
+3870,The Backyardigans,2004,7+,NÃO,NÃO,SIM,NÃO,70.0,59.0
+3871,ReGenesis,2004,18+,NÃO,NÃO,SIM,NÃO,79.0,59.0
+3872,Ghost Hunters,2004,7+,NÃO,NÃO,SIM,NÃO,62.0,59.0
+3875,Blood & Treasure,2019,16+,NÃO,NÃO,SIM,NÃO,67.0,58.0
+3876,Betas,2013,18+,NÃO,NÃO,SIM,NÃO,70.0,58.0
+3877,The Test: A New Era For Australia's Team,2020,16+,NÃO,NÃO,SIM,NÃO,89.0,58.0
+3878,Falling Water,2016,16+,NÃO,NÃO,SIM,NÃO,65.0,58.0
+3880,Made in Heaven,2019,18+,NÃO,NÃO,SIM,NÃO,83.0,58.0
+3881,Hunting Hitler,2015,16+,NÃO,NÃO,SIM,NÃO,74.0,58.0
+3882,A Different World,1987,7+,NÃO,NÃO,SIM,NÃO,69.0,58.0
+3883,Wotakoi: Love is Hard for Otaku,2018,16+,NÃO,NÃO,SIM,NÃO,76.0,58.0
+3884,Laakhon Mein Ek,2017,16+,NÃO,NÃO,SIM,NÃO,82.0,58.0
+3885,Dilbert,1999,7+,NÃO,NÃO,SIM,NÃO,73.0,58.0
+3887,Time Team,1994,all,NÃO,NÃO,SIM,NÃO,85.0,57.0
+3890,Cagney & Lacey,1982,7+,NÃO,NÃO,SIM,NÃO,68.0,57.0
+3893,Cyberchase,2002,all,NÃO,NÃO,SIM,NÃO,68.0,57.0
+3894,The Pale Horse,2020,all,NÃO,NÃO,SIM,NÃO,61.0,57.0
+3896,Wild Kratts,2011,all,NÃO,NÃO,SIM,NÃO,77.0,57.0
+3897,Pingu,1986,all,NÃO,NÃO,SIM,NÃO,74.0,57.0
+3899,Bubble Guppies,2011,all,NÃO,NÃO,SIM,NÃO,64.0,57.0
+3900,Clifford the Big Red Dog,2000,all,NÃO,NÃO,SIM,NÃO,66.0,57.0
+3902,The Reagans,2020,7+,NÃO,NÃO,SIM,NÃO,65.0,57.0
+3903,Inazuma Eleven,2008,7+,NÃO,NÃO,SIM,NÃO,80.0,57.0
+3904,Drifters,2013,18+,NÃO,NÃO,SIM,NÃO,77.0,57.0
+3906,Thunderbirds,1965,7+,NÃO,NÃO,SIM,NÃO,79.0,56.0
+3909,Gortimer Gibbon's Life on Normal Street,2014,all,NÃO,NÃO,SIM,NÃO,83.0,56.0
+3910,The Bernie Mac Show,2001,7+,NÃO,NÃO,SIM,NÃO,70.0,56.0
+3911,Dr. G: Medical Examiner,2004,16+,NÃO,NÃO,SIM,NÃO,84.0,56.0
+3912,David Copperfield,1999,7+,NÃO,NÃO,SIM,NÃO,77.0,56.0
+3913,Say Yes to the Dress,2007,7+,NÃO,NÃO,SIM,NÃO,56.0,56.0
+3914,Red Rock,2015,7+,NÃO,NÃO,SIM,NÃO,77.0,56.0
+3915,Almost Royal,2014,7+,NÃO,NÃO,SIM,NÃO,73.0,56.0
+3916,Wu-Tang Clan: Of Mics and Men,2019,18+,NÃO,NÃO,SIM,NÃO,82.0,56.0
+3917,Daniel Tiger's Neighborhood,2012,all,NÃO,NÃO,SIM,NÃO,74.0,56.0
+3918,Criminal Minds: Suspect Behavior,2011,16+,NÃO,NÃO,SIM,NÃO,63.0,56.0
+3919,Whites,2010,18+,NÃO,NÃO,SIM,NÃO,76.0,56.0
+3923,How the States Got Their Shapes,2010,7+,NÃO,NÃO,SIM,NÃO,81.0,56.0
+3924,One Mississippi,2016,18+,NÃO,NÃO,SIM,NÃO,74.0,56.0
+3925,Rick Steves' Europe,2000,all,NÃO,NÃO,SIM,NÃO,85.0,56.0
+3927,London Kills,2019,16+,NÃO,NÃO,SIM,NÃO,67.0,55.0
+3928,Hell Girl,2005,18+,NÃO,NÃO,SIM,NÃO,75.0,55.0
+3930,Grand Blue,2018,18+,NÃO,NÃO,SIM,NÃO,79.0,55.0
+3931,Cuffs,2015,16+,NÃO,NÃO,SIM,NÃO,74.0,55.0
+3933,Dora the Explorer,2000,all,NÃO,NÃO,SIM,NÃO,42.0,55.0
+3935,Counting Cars,2012,7+,NÃO,NÃO,SIM,NÃO,70.0,55.0
+3936,Home and Away,1988,7+,NÃO,NÃO,SIM,NÃO,51.0,55.0
+3938,A Very British Coup,1988,18+,NÃO,NÃO,SIM,NÃO,83.0,55.0
+3939,Titanic,2012,16+,NÃO,NÃO,SIM,NÃO,60.0,55.0
+3941,Texas Rising,2015,16+,NÃO,NÃO,SIM,NÃO,67.0,55.0
+3944,Oliver Twist,2007,7+,NÃO,NÃO,SIM,NÃO,74.0,55.0
+3945,World’s Toughest Race: Eco-Challenge Fiji,2020,16+,NÃO,NÃO,SIM,NÃO,76.0,55.0
+3946,Father Knows Best,1954,all,NÃO,NÃO,SIM,NÃO,74.0,54.0
+3948,I Love Dick,2016,16+,NÃO,NÃO,SIM,NÃO,63.0,54.0
+3950,Rocco Schiavone,2016,7+,NÃO,NÃO,SIM,NÃO,76.0,54.0
+3951,WordWorld,2007,all,NÃO,NÃO,SIM,NÃO,67.0,54.0
+3952,The Collection,2016,18+,NÃO,NÃO,SIM,NÃO,71.0,54.0
+3953,Beecham House,2019,16+,NÃO,NÃO,SIM,NÃO,67.0,54.0
+3954,The Twelve Kingdoms,2002,16+,NÃO,NÃO,SIM,NÃO,81.0,54.0
+3955,The Way We Live Now,2001,16+,NÃO,NÃO,SIM,NÃO,76.0,54.0
+3956,Land of the Lustrous,2017,16+,NÃO,NÃO,SIM,NÃO,80.0,54.0
+3957,Rowan & Martin's Laugh-In,1967,7+,NÃO,NÃO,SIM,NÃO,80.0,54.0
+3961,Super Wings!,2014,all,NÃO,NÃO,SIM,NÃO,62.0,54.0
+3962,Touched by an Angel,1994,7+,NÃO,NÃO,SIM,NÃO,60.0,54.0
+3963,The Border,2008,7+,NÃO,NÃO,SIM,NÃO,70.0,54.0
+3965,Crisis in Six Scenes,2016,all,NÃO,NÃO,SIM,NÃO,66.0,54.0
+3966,American Playboy: The Hugh Hefner Story,2017,18+,NÃO,NÃO,SIM,NÃO,75.0,54.0
+3967,The Street,2006,18+,NÃO,NÃO,SIM,NÃO,83.0,54.0
+3968,Tales of the Unexpected,1979,7+,NÃO,NÃO,SIM,NÃO,77.0,54.0
+3972,My Mother and Other Strangers,2016,16+,NÃO,NÃO,SIM,NÃO,75.0,54.0
+3973,Charles II: The Power and The Passion,2003,16+,NÃO,NÃO,SIM,NÃO,75.0,53.0
+3974,Moby Dick,1998,7+,NÃO,NÃO,SIM,NÃO,65.0,53.0
+3975,A Cook's Tour,2002,16+,NÃO,NÃO,SIM,NÃO,82.0,53.0
+3976,Beat,2018,18+,NÃO,NÃO,SIM,NÃO,74.0,53.0
+3977,Long Strange Trip,2017,18+,NÃO,NÃO,SIM,NÃO,82.0,53.0
+3979,Wahlburgers,2014,16+,NÃO,NÃO,SIM,NÃO,68.0,53.0
+3983,Kung Fu Panda: The Paws of Destiny,2018,7+,NÃO,NÃO,SIM,NÃO,76.0,53.0
+3984,The Bold and the Beautiful,1987,16+,NÃO,NÃO,SIM,NÃO,34.0,53.0
+3985,Lucky Dog,2013,all,NÃO,NÃO,SIM,NÃO,85.0,53.0
+3986,Team Umizoomi,2010,all,NÃO,NÃO,SIM,NÃO,60.0,53.0
+3987,GRAND PRIX Driver,2018,7+,NÃO,NÃO,SIM,NÃO,76.0,53.0
+3990,Moon Embracing the Sun,2012,7+,NÃO,NÃO,SIM,NÃO,80.0,53.0
+3992,The Forgotten Army - Azaadi ke liye,2020,18+,NÃO,NÃO,SIM,NÃO,81.0,53.0
+3993,RahXephon,2002,16+,NÃO,NÃO,SIM,NÃO,72.0,53.0
+3995,Accidentally on Purpose,2009,7+,NÃO,NÃO,SIM,NÃO,63.0,52.0
+3996,Hammer House of Horror,1980,18+,NÃO,NÃO,SIM,NÃO,77.0,52.0
+3998,Everest: Beyond the Limit,2006,7+,NÃO,NÃO,SIM,NÃO,83.0,52.0
+3999,Odd Squad,2014,all,NÃO,NÃO,SIM,NÃO,65.0,52.0
+4001,Sarazanmai,2019,7+,NÃO,NÃO,SIM,NÃO,70.0,52.0
+4002,One Step Beyond,1959,all,NÃO,NÃO,SIM,NÃO,78.0,52.0
+4004,The Island with Bear Grylls,2014,16+,NÃO,NÃO,SIM,NÃO,74.0,52.0
+4005,Here's Lucy,1968,all,NÃO,NÃO,SIM,NÃO,69.0,52.0
+4006,Hotel Impossible,2012,7+,NÃO,NÃO,SIM,NÃO,78.0,52.0
+4008,Zoboomafoo,1999,7+,NÃO,NÃO,SIM,NÃO,75.0,52.0
+4009,Jessica,2004,16+,NÃO,NÃO,SIM,NÃO,76.0,52.0
+4010,The Passing Bells,2014,7+,NÃO,NÃO,SIM,NÃO,69.0,52.0
+4011,Pandora,2019,7+,SIM,NÃO,SIM,NÃO,42.0,52.0
+4014,The Hunger,1997,18+,NÃO,NÃO,SIM,NÃO,63.0,52.0
+4015,Lorena,2019,18+,NÃO,NÃO,SIM,NÃO,72.0,52.0
+4018,You Are Wanted,2017,7+,NÃO,NÃO,SIM,NÃO,60.0,52.0
+4020,7 Deadly Sins,2014,18+,NÃO,NÃO,SIM,NÃO,71.0,52.0
+4021,Grace Under Fire,1993,7+,NÃO,NÃO,SIM,NÃO,64.0,52.0
+4022,Himouto! Umaru-chan,2015,16+,NÃO,NÃO,SIM,NÃO,70.0,52.0
+4025,The Big Comfy Couch,1993,all,NÃO,NÃO,SIM,NÃO,72.0,52.0
+4026,David the Gnome,1985,all,NÃO,NÃO,SIM,NÃO,74.0,52.0
+4029,All or Nothing: New Zealand All Blacks,2018,16+,NÃO,NÃO,SIM,NÃO,81.0,51.0
+4030,Teen Mom OG,2009,7+,NÃO,NÃO,SIM,NÃO,36.0,51.0
+4031,Miami Ink,2005,7+,NÃO,NÃO,SIM,NÃO,65.0,51.0
+4033,Beowulf: Return to the Shieldlands,2016,7+,NÃO,NÃO,SIM,NÃO,58.0,51.0
+4034,Cosby,1996,7+,NÃO,NÃO,SIM,NÃO,63.0,51.0
+4038,The Real McCoys,1957,16+,NÃO,NÃO,SIM,NÃO,76.0,51.0
+4040,Bobby's World,1990,all,NÃO,NÃO,SIM,NÃO,73.0,51.0
+4042,Safe House,2015,18+,NÃO,NÃO,SIM,NÃO,64.0,51.0
+4044,The Saddle Club,2001,all,NÃO,NÃO,SIM,NÃO,61.0,51.0
+4046,Secret Agent,1965,7+,NÃO,NÃO,SIM,NÃO,82.0,51.0
+4048,Tandav,2021,18+,NÃO,NÃO,SIM,NÃO,38.0,51.0
+4052,The New Yorker Presents,2016,18+,NÃO,NÃO,SIM,NÃO,66.0,51.0
+4053,Oddities,2010,7+,NÃO,NÃO,SIM,NÃO,80.0,51.0
+4054,The Secret World of Nature: Spain,2020,7+,NÃO,NÃO,SIM,NÃO,96.0,51.0
+4055,Aristocrats,1999,7+,NÃO,NÃO,SIM,NÃO,73.0,51.0
+4057,Littlest Pet Shop,2012,all,NÃO,NÃO,SIM,NÃO,62.0,51.0
+4058,Hole in the Wall,2008,all,SIM,NÃO,SIM,NÃO,32.0,51.0
+4060,Murder Calls,2017,16+,NÃO,NÃO,SIM,NÃO,77.0,50.0
+4062,Charlie and Lola,2005,all,NÃO,NÃO,SIM,NÃO,67.0,50.0
+4063,Land of the Lost,1991,all,NÃO,NÃO,SIM,NÃO,69.0,50.0
+4067,Where on Earth is Carmen Sandiego?,1994,all,NÃO,NÃO,SIM,NÃO,73.0,50.0
+4068,Bat Masterson,1958,16+,NÃO,NÃO,SIM,NÃO,74.0,50.0
+4072,Féminin/Féminin,2014,16+,NÃO,NÃO,SIM,NÃO,84.0,50.0
+4074,Becoming Human,2011,16+,NÃO,NÃO,SIM,NÃO,74.0,50.0
+4076,The Jury,2002,18+,NÃO,NÃO,SIM,NÃO,78.0,50.0
+4077,James May's Toy Stories,2009,7+,NÃO,NÃO,SIM,NÃO,81.0,50.0
+4079,Prime Suspect: Tennison,2017,16+,NÃO,NÃO,SIM,NÃO,75.0,50.0
+4080,Ax Men,2008,7+,NÃO,NÃO,SIM,NÃO,55.0,50.0
+4082,On Death Row,2012,16+,NÃO,NÃO,SIM,NÃO,80.0,50.0
+4083,El Presidente,2020,16+,NÃO,NÃO,SIM,NÃO,72.0,49.0
+4084,Celebrity Ghost Stories,2009,7+,NÃO,NÃO,SIM,NÃO,71.0,49.0
+4085,Mike Hammer,1984,7+,NÃO,NÃO,SIM,NÃO,69.0,49.0
+4087,Bridget & Eamon,2016,16+,NÃO,NÃO,SIM,NÃO,77.0,49.0
+4089,Le Mans: Racing is Everything,2017,7+,NÃO,NÃO,SIM,NÃO,73.0,49.0
+4090,Superheroes: A Never-Ending Battle,2013,7+,NÃO,NÃO,SIM,NÃO,81.0,49.0
+4091,The Busy World of Richard Scarry,1994,all,NÃO,NÃO,SIM,NÃO,75.0,49.0
+4092,King of the Road,2016,16+,NÃO,NÃO,SIM,NÃO,89.0,49.0
+4094,The Delivery Man,2015,16+,NÃO,NÃO,SIM,NÃO,72.0,49.0
+4095,Battle 360°,2008,7+,NÃO,NÃO,SIM,NÃO,84.0,49.0
+4096,This Giant Beast That is the Global Economy,2019,16+,NÃO,NÃO,SIM,NÃO,78.0,49.0
+4097,LoliRock,2014,all,NÃO,NÃO,SIM,NÃO,73.0,49.0
+4098,Strange Empire,2014,16+,NÃO,NÃO,SIM,NÃO,64.0,49.0
+4099,The Greatest Love,2011,16+,NÃO,NÃO,SIM,NÃO,78.0,49.0
+4102,Cybersix,1999,16+,NÃO,NÃO,SIM,NÃO,78.0,49.0
+4105,The Dangerous Book for Boys,2018,7+,NÃO,NÃO,SIM,NÃO,60.0,49.0
+4107,Empresses In The Palace,2011,7+,NÃO,NÃO,SIM,NÃO,84.0,49.0
+4108,Captain Scarlet and the Mysterons,1967,all,NÃO,NÃO,SIM,NÃO,78.0,49.0
+4110,Survive This,2009,7+,NÃO,NÃO,SIM,NÃO,67.0,49.0
+4112,Girls' Last Tour,2017,16+,NÃO,NÃO,SIM,NÃO,77.0,49.0
+4114,Grimoire of Zero,2017,16+,NÃO,NÃO,SIM,NÃO,70.0,49.0
+4116,After the Rain,2018,18+,NÃO,NÃO,SIM,NÃO,74.0,49.0
+4123,The Ruth Rendell Mysteries,1987,16+,NÃO,NÃO,SIM,NÃO,68.0,48.0
+4125,Thunderbirds Are Go!,2015,all,NÃO,NÃO,SIM,NÃO,68.0,48.0
+4126,Blade of the Immortal,2008,16+,NÃO,NÃO,SIM,NÃO,67.0,48.0
+4135,Peg + Cat,2013,all,NÃO,NÃO,SIM,NÃO,78.0,48.0
+4136,Re:Creators,2017,18+,NÃO,NÃO,SIM,NÃO,71.0,48.0
+4138,Just Because!,2017,7+,NÃO,NÃO,SIM,NÃO,69.0,48.0
+4140,Yuki Yuna is a Hero,2014,16+,NÃO,NÃO,SIM,NÃO,68.0,48.0
+4142,Boarding School Juliet,2018,16+,NÃO,NÃO,SIM,NÃO,71.0,48.0
+4143,This Is Football,2019,16+,NÃO,NÃO,SIM,NÃO,82.0,48.0
+4144,Valemont,2009,7+,NÃO,NÃO,SIM,NÃO,53.0,47.0
+4145,Alice in Paris,2016,all,NÃO,NÃO,SIM,NÃO,87.0,47.0
+4148,Ronja the Robber's Daughter,2014,7+,NÃO,NÃO,SIM,NÃO,73.0,47.0
+4151,Rebel,2017,16+,NÃO,NÃO,SIM,NÃO,54.0,47.0
+4154,Curiosity,2011,16+,NÃO,NÃO,SIM,NÃO,78.0,47.0
+4157,Babar,1989,all,NÃO,NÃO,SIM,NÃO,65.0,47.0
+4159,One Night Stand,1989,18+,NÃO,NÃO,SIM,NÃO,82.0,47.0
+4165,Mr. Osomatsu,2015,16+,NÃO,NÃO,SIM,NÃO,75.0,47.0
+4166,Fetch! with Ruff Ruffman,2006,all,NÃO,NÃO,SIM,NÃO,75.0,47.0
+4168,The Cyanide & Happiness Show,2014,18+,NÃO,NÃO,SIM,NÃO,80.0,47.0
+4169,Welcome to the Ballroom,2017,16+,NÃO,NÃO,SIM,NÃO,78.0,47.0
+4170,Flash Gordon,2007,7+,NÃO,NÃO,SIM,NÃO,49.0,47.0
+4171,Empress Ki,2013,all,NÃO,NÃO,SIM,NÃO,78.0,47.0
+4173,Deal or No Deal,2005,7+,NÃO,NÃO,SIM,NÃO,50.0,47.0
+4174,Pound Puppies,2010,all,NÃO,NÃO,SIM,NÃO,63.0,47.0
+4175,Just Add Magic: Mystery City,2020,all,NÃO,NÃO,SIM,NÃO,73.0,47.0
+4176,American Ripper,2017,16+,NÃO,NÃO,SIM,NÃO,63.0,47.0
+4177,Hoarding: Buried Alive,2010,7+,NÃO,NÃO,SIM,NÃO,66.0,46.0
+4178,Mr. Wizard's World,1983,all,NÃO,NÃO,SIM,NÃO,81.0,46.0
+4179,Street Fighter: Resurrection,2016,16+,NÃO,NÃO,SIM,NÃO,65.0,46.0
+4183,Clifford's Puppy Days,2003,all,NÃO,NÃO,SIM,NÃO,67.0,46.0
+4184,A Fortunate Life,1986,7+,NÃO,NÃO,SIM,NÃO,79.0,46.0
+4189,Tumble Leaf,2013,all,NÃO,NÃO,SIM,NÃO,85.0,46.0
+4190,The Gymkhana Files,2018,18+,NÃO,NÃO,SIM,NÃO,79.0,46.0
+4195,Lost in Oz,2015,7+,NÃO,NÃO,SIM,NÃO,76.0,46.0
+4196,Deltora Quest,2007,all,NÃO,NÃO,SIM,NÃO,71.0,46.0
+4198,The Eleven,2017,16+,NÃO,NÃO,SIM,NÃO,68.0,46.0
+4200,Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?,2019,16+,NÃO,NÃO,SIM,NÃO,51.0,46.0
+4204,MonsterQuest,2007,7+,NÃO,NÃO,SIM,NÃO,71.0,46.0
+4205,Peep and the Big Wide World,2004,all,NÃO,NÃO,SIM,NÃO,71.0,46.0
+4209,Nova ScienceNow,2005,all,NÃO,NÃO,SIM,NÃO,85.0,45.0
+4210,Budding Prospects,2017,18+,NÃO,NÃO,SIM,NÃO,73.0,45.0
+4216,Tenspeed and Brown Shoe,1980,7+,NÃO,NÃO,SIM,NÃO,76.0,45.0
+4218,Marcia Clark Investigates The First 48,2018,16+,NÃO,NÃO,SIM,NÃO,80.0,45.0
+4219,Goku Midnight Eye,1989,18+,NÃO,NÃO,SIM,NÃO,69.0,45.0
+4220,Samurai Girls,2010,18+,NÃO,NÃO,SIM,NÃO,65.0,45.0
+4224,True Tears,2008,7+,NÃO,NÃO,SIM,NÃO,73.0,45.0
+4225,Kratts' Creatures,1996,all,NÃO,NÃO,SIM,NÃO,82.0,45.0
+4226,Love and Lies,2017,16+,NÃO,NÃO,SIM,NÃO,61.0,45.0
+4228,HBO Comedy Half-Hour,1994,7+,NÃO,NÃO,SIM,NÃO,80.0,45.0
+4229,Princess Principal,2017,18+,NÃO,NÃO,SIM,NÃO,74.0,45.0
+4232,Acapulco H.E.A.T.,1993,16+,NÃO,NÃO,SIM,NÃO,58.0,45.0
+4234,UFO Files,2004,7+,NÃO,NÃO,SIM,NÃO,69.0,45.0
+4235,Mansfield Park,1983,all,NÃO,NÃO,SIM,NÃO,68.0,45.0
+4236,Porterhouse Blue,1987,18+,NÃO,NÃO,SIM,NÃO,76.0,45.0
+4237,Pete the Cat,2017,all,NÃO,NÃO,SIM,NÃO,76.0,45.0
+4239,Ivanhoe,1997,7+,NÃO,NÃO,SIM,NÃO,74.0,45.0
+4240,Sigmund and the Sea Monsters,1973,all,NÃO,NÃO,SIM,NÃO,69.0,45.0
+4244,Bikini Destinations,2003,18+,NÃO,NÃO,SIM,NÃO,69.0,45.0
+4248,IRODUKU: The World in Colors,2018,16+,NÃO,NÃO,SIM,NÃO,74.0,44.0
+4250,Rob the Robot,2010,all,NÃO,NÃO,SIM,NÃO,78.0,44.0
+4251,Crime Investigation Australia,2005,18+,NÃO,NÃO,SIM,NÃO,80.0,44.0
+4256,The Simple Life,2003,16+,NÃO,NÃO,SIM,NÃO,39.0,44.0
+4259,The Kicks,2016,all,NÃO,NÃO,SIM,NÃO,70.0,44.0
+4262,Pequeñas coincidencias,2018,7+,NÃO,NÃO,SIM,NÃO,74.0,44.0
+4264,UFO Hunters,2008,7+,NÃO,NÃO,SIM,NÃO,65.0,44.0
+4265,Transformers: Combiner Wars,2016,16+,NÃO,NÃO,SIM,NÃO,54.0,44.0
+4267,All or Nothing: Brazil National Team,2020,16+,NÃO,NÃO,SIM,NÃO,72.0,44.0
+4269,Kannazuki no Miko,2004,16+,NÃO,NÃO,SIM,NÃO,67.0,44.0
+4271,The Adventures of Maya the Honey Bee,1975,all,NÃO,NÃO,SIM,NÃO,67.0,44.0
+4272,Soviet Storm: WWII in the East,2011,7+,NÃO,NÃO,SIM,NÃO,87.0,44.0
+4274,Charlie's Angels,2011,16+,SIM,NÃO,SIM,NÃO,44.0,44.0
+4276,The Underground,2006,18+,NÃO,NÃO,SIM,NÃO,56.0,44.0
+4277,Eat the World with Emeril Lagasse,2016,16+,NÃO,NÃO,SIM,NÃO,79.0,44.0
+4278,Pandora's Box,2012,16+,NÃO,NÃO,SIM,NÃO,85.0,44.0
+4281,Sea Rescue,2012,all,NÃO,NÃO,SIM,NÃO,89.0,44.0
+4283,Hero: 108,2010,all,NÃO,NÃO,SIM,NÃO,57.0,44.0
+4284,BBQ with Franklin,2015,all,NÃO,NÃO,SIM,NÃO,81.0,44.0
+4285,Oasis,2017,18+,NÃO,NÃO,SIM,NÃO,83.0,44.0
+4287,Merlin's Apprentice,2006,16+,NÃO,NÃO,SIM,NÃO,53.0,43.0
+4288,Fireball XL5,1962,7+,NÃO,NÃO,SIM,NÃO,73.0,43.0
+4290,Canimals,2011,all,NÃO,NÃO,SIM,NÃO,70.0,43.0
+4291,Wild Boys,2011,7+,NÃO,NÃO,SIM,NÃO,69.0,43.0
+4297,Niko and the Sword of Light,2017,all,NÃO,NÃO,SIM,NÃO,77.0,43.0
+4300,Big Pacific,2017,all,NÃO,NÃO,SIM,NÃO,84.0,43.0
+4302,Animal Mechanicals,2008,all,NÃO,NÃO,SIM,NÃO,63.0,43.0
+4304,Costume Quest,2019,7+,NÃO,NÃO,SIM,NÃO,70.0,43.0
+4305,Spaceballs: The Animated Series,2008,18+,NÃO,NÃO,SIM,NÃO,42.0,43.0
+4311,Nature Cat,2015,all,NÃO,NÃO,SIM,NÃO,72.0,43.0
+4313,"Kokkoku, Moment by Moment",2018,18+,NÃO,NÃO,SIM,NÃO,70.0,43.0
+4317,The Danny Thomas Show,1957,all,NÃO,NÃO,SIM,NÃO,72.0,43.0
+4318,Ready Jet Go!,2016,all,NÃO,NÃO,SIM,NÃO,61.0,43.0
+4320,Sex Sent Me to the ER,2013,18+,NÃO,NÃO,SIM,NÃO,54.0,42.0
+4322,Dino Dan,2009,7+,NÃO,NÃO,SIM,NÃO,56.0,42.0
+4325,Annedroids,2014,all,NÃO,NÃO,SIM,NÃO,63.0,42.0
+4326,Mars Rising,2007,7+,NÃO,NÃO,SIM,NÃO,80.0,42.0
+4329,Atlantis High,2001,all,NÃO,NÃO,SIM,NÃO,79.0,42.0
+4330,All or Nothing: The Dallas Cowboys,2018,18+,NÃO,NÃO,SIM,NÃO,77.0,42.0
+4334,Girl/Girl Scene,2010,18+,NÃO,NÃO,SIM,NÃO,53.0,42.0
+4335,Nanny 911,2004,7+,NÃO,NÃO,SIM,NÃO,54.0,42.0
+4341,Date My Dad,2017,all,NÃO,NÃO,SIM,NÃO,71.0,42.0
+4342,The Stinky & Dirty Show,2016,all,NÃO,NÃO,SIM,NÃO,73.0,42.0
+4345,Little Princess,2007,all,NÃO,NÃO,SIM,NÃO,57.0,42.0
+4346,When We Go to War,2015,16+,NÃO,NÃO,SIM,NÃO,67.0,42.0
+4347,Bad Guy,2010,16+,NÃO,NÃO,SIM,NÃO,77.0,42.0
+4353,Comicstaan,2018,18+,NÃO,NÃO,SIM,NÃO,68.0,41.0
+4355,After Hours,2015,16+,NÃO,NÃO,SIM,NÃO,72.0,41.0
+4357,Horseland,2006,all,NÃO,NÃO,SIM,NÃO,58.0,41.0
+4358,Killing Bites,2018,18+,NÃO,NÃO,SIM,NÃO,63.0,41.0
+4360,Postcards from Buster,2004,all,NÃO,NÃO,SIM,NÃO,60.0,41.0
+4365,Music & Murder,2016,18+,NÃO,NÃO,SIM,NÃO,83.0,41.0
+4370,Benito: The Rise and Fall of Mussolini,1994,18+,NÃO,NÃO,SIM,NÃO,57.0,41.0
+4372,La Femme Musketeer,2004,7+,NÃO,NÃO,SIM,NÃO,57.0,41.0
+4373,Psychic Investigators,2006,7+,NÃO,NÃO,SIM,NÃO,76.0,41.0
+4374,Moses the Lawgiver,1975,all,NÃO,NÃO,SIM,NÃO,61.0,41.0
+4376,Inventions That Shook the World,2011,all,NÃO,NÃO,SIM,NÃO,83.0,41.0
+4378,Dino Dana,2017,all,NÃO,NÃO,SIM,NÃO,71.0,41.0
+4379,Pet Alien,2005,all,NÃO,NÃO,SIM,NÃO,51.0,41.0
+4380,Arthur & George,2015,all,NÃO,NÃO,SIM,NÃO,56.0,40.0
+4383,Fluffy's Food Adventures,2015,7+,NÃO,NÃO,SIM,NÃO,74.0,40.0
+4384,Ocean Mysteries with Jeff Corwin,2011,all,NÃO,NÃO,SIM,NÃO,84.0,40.0
+4391,Amish Mafia,2012,16+,NÃO,NÃO,SIM,NÃO,31.0,40.0
+4393,Circus,2010,7+,NÃO,NÃO,SIM,NÃO,83.0,40.0
+4395,Geronimo Stilton,2009,all,NÃO,NÃO,SIM,NÃO,68.0,40.0
+4398,Flickers,1980,all,NÃO,NÃO,SIM,NÃO,82.0,40.0
+4400,Storage Wars: Northern Treasures,2017,18+,NÃO,NÃO,SIM,NÃO,56.0,40.0
+4405,Your Bleeped Up Brain,2013,7+,NÃO,NÃO,SIM,NÃO,78.0,40.0
+4406,The Dreamstone,1990,all,NÃO,NÃO,SIM,NÃO,81.0,40.0
+4407,Wildest Africa,2013,7+,NÃO,NÃO,SIM,NÃO,82.0,40.0
+4408,Barbie Dreamtopia,2017,all,NÃO,NÃO,SIM,NÃO,61.0,40.0
+4410,An American Girl Story: Melody 1963 - Love Has to Win,2016,all,NÃO,NÃO,SIM,NÃO,76.0,40.0
+4411,Brum,1994,7+,NÃO,NÃO,SIM,NÃO,63.0,40.0
+4413,Most Haunted,2002,7+,NÃO,NÃO,SIM,NÃO,50.0,40.0
+4414,Londongrad,2015,7+,NÃO,NÃO,SIM,NÃO,59.0,40.0
+4419,Angelina Ballerina,2002,all,NÃO,NÃO,SIM,NÃO,58.0,39.0
+4422,Barter Kings,2012,7+,NÃO,NÃO,SIM,NÃO,51.0,39.0
+4425,A Woman Named Jackie,1991,7+,NÃO,NÃO,SIM,NÃO,66.0,39.0
+4426,Password Plus,1979,all,NÃO,NÃO,SIM,NÃO,75.0,39.0
+4427,Category 7: The End of the World,2005,7+,NÃO,NÃO,SIM,NÃO,47.0,39.0
+4431,Stories from the Stone Age,2004,all,NÃO,NÃO,SIM,NÃO,85.0,39.0
+4434,For the Love of Jason,2020,18+,NÃO,NÃO,SIM,NÃO,72.0,39.0
+4435,Project G.e.e.K.e.R.,1996,all,NÃO,NÃO,SIM,NÃO,75.0,39.0
+4437,Chloe's Closet,2010,all,NÃO,NÃO,SIM,NÃO,69.0,39.0
+4438,The Hive,2010,all,NÃO,NÃO,SIM,NÃO,66.0,39.0
+4440,Popeye and Son,1987,all,NÃO,NÃO,SIM,NÃO,57.0,39.0
+4443,Shadow Force,2008,16+,NÃO,NÃO,SIM,NÃO,73.0,39.0
+4445,America Divided,2016,16+,NÃO,NÃO,SIM,NÃO,40.0,39.0
+4446,Danger & Eggs,2017,all,NÃO,NÃO,SIM,NÃO,69.0,39.0
+4447,Cool McCool,1966,7+,NÃO,NÃO,SIM,NÃO,72.0,38.0
+4457,Busytown Mysteries,2007,all,NÃO,NÃO,SIM,NÃO,62.0,38.0
+4467,Greatest Tank Battles,2010,7+,NÃO,NÃO,SIM,NÃO,74.0,38.0
+4470,We'll Meet Again,1982,7+,NÃO,NÃO,SIM,NÃO,71.0,38.0
+4471,Sworn to Secrecy: Secrets of War,1998,16+,NÃO,NÃO,SIM,NÃO,75.0,38.0
+4474,The Sheriffs are Coming,2012,all,NÃO,NÃO,SIM,NÃO,71.0,38.0
+4475,Jestination Unknown,2019,16+,NÃO,NÃO,SIM,NÃO,61.0,38.0
+4476,Impostors,2014,16+,NÃO,NÃO,SIM,NÃO,77.0,38.0
+4489,Time Team America,2009,all,NÃO,NÃO,SIM,NÃO,69.0,38.0
+4491,Cosmic Quantum Ray,2010,7+,NÃO,NÃO,SIM,NÃO,57.0,38.0
+4494,那年花開月正圓,2017,7+,NÃO,NÃO,SIM,NÃO,78.0,38.0
+4496,Boundless,2013,7+,NÃO,NÃO,SIM,NÃO,76.0,37.0
+4499,The Vigilantes in Masks,2011,16+,NÃO,NÃO,SIM,NÃO,79.0,37.0
+4500,The Bug Diaries,2019,all,NÃO,NÃO,SIM,NÃO,70.0,37.0
+4504,The Snowy Day,2016,all,NÃO,NÃO,SIM,NÃO,75.0,37.0
+4507,Wishenpoof!,2015,all,NÃO,NÃO,SIM,NÃO,50.0,37.0
+4520,Stacey David's GearZ,2010,all,NÃO,NÃO,SIM,NÃO,88.0,37.0
+4522,LEGO City,2011,all,NÃO,NÃO,SIM,NÃO,54.0,37.0
+4523,Creative Galaxy,2013,all,NÃO,NÃO,SIM,NÃO,50.0,37.0
+4525,Prime Rewind: Inside the Boys,2020,18+,NÃO,NÃO,SIM,NÃO,56.0,37.0
+4528,If You Give a Mouse a Cookie,2015,7+,NÃO,NÃO,SIM,NÃO,64.0,37.0
+4533,Billion Dollar Wreck,2016,7+,NÃO,NÃO,SIM,NÃO,47.0,36.0
+4534,Disasters of the Century,2004,7+,NÃO,NÃO,SIM,NÃO,64.0,36.0
+4535,Dino the Dinosaur,2016,all,NÃO,NÃO,SIM,NÃO,71.0,36.0
+4538,A Craftsman’s Legacy,2014,all,NÃO,NÃO,SIM,NÃO,85.0,36.0
+4539,Lidia's Kitchen,2013,all,NÃO,NÃO,SIM,NÃO,79.0,36.0
+4541,Color Crew,2015,all,NÃO,NÃO,SIM,NÃO,55.0,36.0
+4544,FBI Takedowns,2015,7+,NÃO,NÃO,SIM,NÃO,80.0,36.0
+4545,Bad Ink,2013,16+,NÃO,NÃO,SIM,NÃO,57.0,36.0
+4555,Trail of Tears,1999,all,NÃO,NÃO,SIM,NÃO,82.0,36.0
+4564,"Glenn Martin, DDS",2009,16+,NÃO,NÃO,SIM,NÃO,42.0,36.0
+4568,I Am Innocent,2015,18+,NÃO,NÃO,SIM,NÃO,73.0,36.0
+4569,Baby Talk,1991,all,NÃO,NÃO,SIM,NÃO,41.0,36.0
+4570,"Rich Bride, Poor Bride",2006,all,NÃO,NÃO,SIM,NÃO,62.0,36.0
+4572,Betsy's Kindergarten Adventures,2008,all,NÃO,NÃO,SIM,NÃO,49.0,36.0
+4574,Cut the Rope - Om Nom Stories,2012,all,NÃO,NÃO,SIM,NÃO,60.0,35.0
+4576,Dance Moms: Miami,2012,16+,NÃO,NÃO,SIM,NÃO,38.0,35.0
+4579,Knock Knock Ghost,2015,13+,NÃO,NÃO,SIM,NÃO,52.0,35.0
+4582,Killer Wave,2007,16+,NÃO,NÃO,SIM,NÃO,43.0,35.0
+4584,Big Easy Motors,2016,7+,NÃO,NÃO,SIM,NÃO,65.0,35.0
+4588,Dangerous Encounters,2005,all,NÃO,NÃO,SIM,NÃO,73.0,35.0
+4602,Enchantimals: Tales from Everwilde,2018,all,NÃO,NÃO,SIM,NÃO,66.0,35.0
+4606,Kemurikusa,2019,all,NÃO,NÃO,SIM,NÃO,71.0,35.0
+4607,Travel With Kids,2011,all,NÃO,NÃO,SIM,NÃO,62.0,35.0
+4609,Xploration DIY Sci,2016,all,NÃO,NÃO,SIM,NÃO,88.0,34.0
+4619,Big Shrimpin',2011,16+,NÃO,NÃO,SIM,NÃO,60.0,34.0
+4622,Design Squad,2007,all,NÃO,NÃO,SIM,NÃO,85.0,34.0
+4624,The Bumble Nums,2017,all,NÃO,NÃO,SIM,NÃO,72.0,34.0
+4626,Inside Jokes,2018,16+,NÃO,NÃO,SIM,NÃO,73.0,34.0
+4629,Fanny by Gaslight,1981,18+,NÃO,NÃO,SIM,NÃO,65.0,34.0
+4630,72 Hours,2013,16+,NÃO,NÃO,SIM,NÃO,59.0,34.0
+4632,Ghost Dimension,2016,7+,NÃO,NÃO,SIM,NÃO,60.0,34.0
+4636,Bookaboo,2016,all,NÃO,NÃO,SIM,NÃO,78.0,34.0
+4638,Jessy & Nessy,2020,all,NÃO,NÃO,SIM,NÃO,80.0,33.0
+4644,Wir Geiseln der SS,2015,7+,NÃO,NÃO,SIM,NÃO,73.0,33.0
+4653,Looped,2016,all,NÃO,NÃO,SIM,NÃO,58.0,33.0
+4654,PowerNation: Engine Power,2014,all,NÃO,NÃO,SIM,NÃO,77.0,33.0
+4658,Brandi and Jarrod: Married to the Job,2014,7+,NÃO,NÃO,SIM,NÃO,42.0,33.0
+4659,Anna's Wild Life,2011,all,NÃO,NÃO,SIM,NÃO,84.0,33.0
+4663,SciGirls,2010,all,NÃO,NÃO,SIM,NÃO,75.0,33.0
+4664,Today's Homeowner with Danny Lipford,1998,all,NÃO,NÃO,SIM,NÃO,89.0,32.0
+4665,Gangster Empire: Rise of the Mob,2013,16+,NÃO,NÃO,SIM,NÃO,56.0,32.0
+4669,The Suspects: True Australian Thrillers,2010,16+,NÃO,NÃO,SIM,NÃO,79.0,32.0
+4677,Shelldon,2009,all,NÃO,NÃO,SIM,NÃO,58.0,32.0
+4680,The Irish Mob,2016,16+,NÃO,NÃO,SIM,NÃO,75.0,32.0
+4682,Wendy,2013,7+,NÃO,NÃO,SIM,NÃO,59.0,32.0
+4685,The Underdogs,2010,all,NÃO,NÃO,SIM,NÃO,83.0,32.0
+4706,Gordon the Garden Gnome,2005,all,NÃO,NÃO,SIM,NÃO,74.0,31.0
+4708,Superships,2001,all,NÃO,NÃO,SIM,NÃO,76.0,31.0
+4728,American Daredevils,2013,16+,NÃO,NÃO,SIM,NÃO,62.0,29.0
+4737,NOVA Wonders,2018,all,NÃO,NÃO,SIM,NÃO,76.0,29.0
+4743,Nerve Center,2012,7+,NÃO,NÃO,SIM,NÃO,66.0,29.0
+4746,MegaWorld,2008,all,NÃO,NÃO,SIM,NÃO,68.0,28.0
+4762,JFK - A New World Order,2013,7+,NÃO,NÃO,SIM,NÃO,70.0,27.0
+4765,The Hollywood Puppet Show,2017,16+,NÃO,NÃO,SIM,NÃO,62.0,27.0
+4770,Talking Tom and Friends Minis,2016,all,NÃO,NÃO,SIM,NÃO,76.0,26.0
+4780,Paranormal Egypt,2007,all,NÃO,NÃO,SIM,NÃO,38.0,25.0
+5376,Loki,2021,16+,NÃO,NÃO,NÃO,SIM,85.0,95.0
+5377,The Mandalorian,2019,16+,NÃO,NÃO,NÃO,SIM,88.0,94.0
+5379,WandaVision,2021,16+,NÃO,NÃO,NÃO,SIM,80.0,89.0
+5381,The Falcon and the Winter Soldier,2021,16+,NÃO,NÃO,NÃO,SIM,74.0,86.0
+5382,Star Wars: The Clone Wars,2008,7+,NÃO,NÃO,NÃO,SIM,83.0,85.0
+5383,Once Upon a Time,2011,7+,NÃO,NÃO,NÃO,SIM,77.0,83.0
+5384,Marvel's Agent Carter,2015,7+,NÃO,NÃO,NÃO,SIM,79.0,82.0
+5385,The Bad Batch,2021,7+,SIM,NÃO,NÃO,SIM,82.0,82.0
+5387,Star Wars Rebels,2014,7+,NÃO,NÃO,NÃO,SIM,80.0,79.0
+5388,The Owl House,2020,7+,NÃO,NÃO,NÃO,SIM,81.0,78.0
+5390,The Muppet Show,1976,all,NÃO,NÃO,NÃO,SIM,84.0,78.0
+5391,The Mysterious Benedict Society,2021,7+,NÃO,NÃO,NÃO,SIM,77.0,76.0
+5393,Monsters at Work,2021,all,NÃO,NÃO,NÃO,SIM,72.0,75.0
+5394,One Strange Rock,2018,all,NÃO,NÃO,NÃO,SIM,88.0,74.0
+5395,High School Musical: The Musical: The Series,2019,7+,NÃO,NÃO,NÃO,SIM,73.0,73.0
+5396,Dinosaurs,1991,7+,NÃO,NÃO,NÃO,SIM,74.0,73.0
+5397,Boy Meets World,1993,all,NÃO,NÃO,NÃO,SIM,80.0,72.0
+5398,Big Shot,2021,7+,NÃO,NÃO,NÃO,SIM,75.0,71.0
+5399,Disney Gallery / Star Wars: The Mandalorian,2020,7+,NÃO,NÃO,NÃO,SIM,84.0,71.0
+5400,Phineas and Ferb,2007,all,NÃO,NÃO,NÃO,SIM,80.0,71.0
+5401,Bluey,2018,all,NÃO,NÃO,NÃO,SIM,96.0,71.0
+5402,Spider-Man,1994,all,NÃO,NÃO,NÃO,SIM,84.0,70.0
+5403,The Imagineering Story,2019,7+,NÃO,NÃO,NÃO,SIM,90.0,69.0
+5404,DuckTales,1987,7+,NÃO,NÃO,NÃO,SIM,81.0,69.0
+5406,Wizards of Waverly Place,2007,all,NÃO,NÃO,NÃO,SIM,69.0,68.0
+5407,Star Wars: Clone Wars,2003,7+,NÃO,NÃO,NÃO,SIM,78.0,68.0
+5408,Wolverine and the X-Men,2009,7+,NÃO,NÃO,NÃO,SIM,80.0,68.0
+5410,Marvel Studios: Assembled,2021,7+,NÃO,NÃO,NÃO,SIM,81.0,66.0
+5411,Kim Possible,2002,all,NÃO,NÃO,NÃO,SIM,72.0,66.0
+5412,Once Upon a Time in Wonderland,2013,7+,NÃO,NÃO,NÃO,SIM,70.0,66.0
+5414,Marvel Studios: Legends,2021,16+,NÃO,NÃO,NÃO,SIM,65.0,66.0
+5415,Girl Meets World,2014,all,NÃO,NÃO,NÃO,SIM,71.0,65.0
+5416,The Avengers: Earth's Mightiest Heroes,2010,7+,NÃO,NÃO,NÃO,SIM,83.0,65.0
+5417,The World According to Jeff Goldblum,2019,7+,NÃO,NÃO,NÃO,SIM,78.0,65.0
+5418,Marvel's Ultimate Spider-Man,2012,7+,NÃO,NÃO,NÃO,SIM,72.0,65.0
+5420,Amphibia,2019,7+,NÃO,NÃO,NÃO,SIM,81.0,65.0
+5421,Gargoyles,1994,7+,NÃO,NÃO,NÃO,SIM,81.0,64.0
+5422,The Suite Life of Zack & Cody,2005,all,NÃO,NÃO,NÃO,SIM,65.0,64.0
+5423,Darkwing Duck,1991,7+,NÃO,NÃO,NÃO,SIM,76.0,64.0
+5424,The Right Stuff,2020,16+,NÃO,NÃO,NÃO,SIM,68.0,64.0
+5425,The Muppets,2015,7+,SIM,NÃO,NÃO,SIM,74.0,64.0
+5426,TRON: Uprising,2012,7+,NÃO,NÃO,NÃO,SIM,82.0,64.0
+5427,The Mighty Ducks: Game Changers,2021,7+,NÃO,NÃO,NÃO,SIM,75.0,63.0
+5428,Marvel's Avengers Assemble,2013,7+,NÃO,NÃO,NÃO,SIM,70.0,63.0
+5429,Recess,1997,7+,NÃO,NÃO,NÃO,SIM,78.0,63.0
+5430,Chip 'n' Dale Rescue Rangers,1989,all,NÃO,NÃO,NÃO,SIM,76.0,63.0
+5431,Doug,1991,7+,NÃO,NÃO,NÃO,SIM,74.0,63.0
+5434,Lizzie McGuire,2001,all,NÃO,NÃO,NÃO,SIM,66.0,62.0
+5435,Cosmos: Possible Worlds,2020,7+,NÃO,NÃO,NÃO,SIM,92.0,62.0
+5436,The Suite Life on Deck,2008,all,NÃO,NÃO,NÃO,SIM,64.0,62.0
+5437,Hannah Montana,2006,all,NÃO,NÃO,NÃO,SIM,52.0,61.0
+5438,Jessie,2011,all,NÃO,NÃO,NÃO,SIM,60.0,61.0
+5439,Marvel's Inhumans,2017,7+,NÃO,NÃO,NÃO,SIM,50.0,61.0
+5440,Gordon Ramsay: Uncharted,2019,16+,NÃO,NÃO,NÃO,SIM,78.0,61.0
+5441,Disney's Adventures of the Gummi Bears,1985,all,NÃO,NÃO,NÃO,SIM,75.0,61.0
+5442,Star Wars Resistance,2018,7+,NÃO,NÃO,NÃO,SIM,50.0,60.0
+5443,That's So Raven,2003,all,NÃO,NÃO,NÃO,SIM,66.0,60.0
+5444,Turner & Hooch,2021,7+,NÃO,NÃO,NÃO,SIM,60.0,60.0
+5445,TaleSpin,1990,all,NÃO,NÃO,NÃO,SIM,76.0,60.0
+5447,Mickey Mouse Clubhouse,2006,all,NÃO,NÃO,NÃO,SIM,57.0,60.0
+5448,Even Stevens,2000,all,NÃO,NÃO,NÃO,SIM,76.0,60.0
+5450,Andi Mack,2017,all,NÃO,NÃO,NÃO,SIM,72.0,60.0
+5451,Behind the Attraction,2021,7+,NÃO,NÃO,NÃO,SIM,76.0,59.0
+5452,Secrets of Sulphur Springs,2021,7+,NÃO,NÃO,NÃO,SIM,77.0,59.0
+5453,Liv and Maddie,2013,all,NÃO,NÃO,NÃO,SIM,64.0,59.0
+5454,Milo Murphy's Law,2016,all,NÃO,NÃO,NÃO,SIM,76.0,59.0
+5456,Lab Rats,2012,7+,NÃO,NÃO,NÃO,SIM,66.0,59.0
+5457,Lilo & Stitch: The Series,2003,all,NÃO,NÃO,NÃO,SIM,68.0,59.0
+5458,So Weird,1999,7+,NÃO,NÃO,NÃO,SIM,85.0,59.0
+5459,Austin & Ally,2011,all,NÃO,NÃO,NÃO,SIM,60.0,59.0
+5460,The New Adventures of Winnie the Pooh,1988,all,NÃO,NÃO,NÃO,SIM,77.0,59.0
+5461,Raven's Home,2017,all,NÃO,NÃO,NÃO,SIM,73.0,59.0
+5463,Kickin' It,2011,all,NÃO,NÃO,NÃO,SIM,65.0,58.0
+5464,Brain Games,2011,7+,NÃO,NÃO,NÃO,SIM,83.0,58.0
+5465,Schoolhouse Rock,1973,7+,NÃO,NÃO,NÃO,SIM,81.0,58.0
+5466,Dog Whisperer,2004,all,NÃO,NÃO,NÃO,SIM,80.0,58.0
+5467,The Proud Family,2001,all,NÃO,NÃO,NÃO,SIM,64.0,58.0
+5468,Sonny with a Chance,2009,all,NÃO,NÃO,NÃO,SIM,61.0,58.0
+5469,Violetta,2012,all,NÃO,NÃO,NÃO,SIM,53.0,58.0
+5470,The Lion King's Timon & Pumbaa,1995,all,NÃO,NÃO,NÃO,SIM,71.0,58.0
+5471,Phil of the Future,2004,7+,NÃO,NÃO,NÃO,SIM,70.0,57.0
+5472,Little Einsteins,2005,all,NÃO,NÃO,NÃO,SIM,63.0,57.0
+5473,Shake It Up,2010,all,NÃO,NÃO,NÃO,SIM,49.0,57.0
+5474,Hercules,1998,all,NÃO,NÃO,NÃO,SIM,66.0,57.0
+5475,Rapunzel's Tangled Adventure,2017,all,NÃO,NÃO,NÃO,SIM,77.0,56.0
+5476,Marvel's Guardians of the Galaxy,2015,7+,NÃO,NÃO,NÃO,SIM,73.0,56.0
+5477,Smart Guy,1997,all,NÃO,NÃO,NÃO,SIM,74.0,56.0
+5478,American Dragon: Jake Long,2005,all,NÃO,NÃO,NÃO,SIM,66.0,56.0
+5479,Encore!,2019,7+,NÃO,NÃO,NÃO,SIM,77.0,56.0
+5480,Mickey Mouse,2013,all,NÃO,NÃO,NÃO,SIM,81.0,56.0
+5481,Marvel's Spider-Man,2017,7+,NÃO,NÃO,NÃO,SIM,61.0,56.0
+5482,Diary of a Future President,2020,7+,NÃO,NÃO,NÃO,SIM,60.0,56.0
+5483,Spider-Man and His Amazing Friends,1981,7+,NÃO,NÃO,NÃO,SIM,72.0,56.0
+5484,Goof Troop,1992,all,NÃO,NÃO,NÃO,SIM,68.0,55.0
+5485,Spider-Man Unlimited,1999,7+,NÃO,NÃO,NÃO,SIM,64.0,55.0
+5486,The Little Mermaid,1992,all,NÃO,NÃO,NÃO,SIM,68.0,55.0
+5488,Big City Greens,2018,7+,NÃO,NÃO,NÃO,SIM,72.0,55.0
+5489,Zenimation,2020,all,NÃO,NÃO,NÃO,SIM,74.0,55.0
+5490,Wicked Tuna,2012,16+,NÃO,NÃO,NÃO,SIM,66.0,55.0
+5492,Big Hero 6 The Series,2017,7+,NÃO,NÃO,NÃO,SIM,71.0,54.0
+5493,Inside Pixar,2020,all,NÃO,NÃO,NÃO,SIM,73.0,54.0
+5494,Iron Man: Armored Adventures,2009,7+,NÃO,NÃO,NÃO,SIM,65.0,54.0
+5495,Pair of Kings,2010,7+,NÃO,NÃO,NÃO,SIM,58.0,54.0
+5496,Mighty Med,2013,7+,NÃO,NÃO,NÃO,SIM,66.0,54.0
+5497,Special Agent Oso,2009,all,NÃO,NÃO,NÃO,SIM,52.0,54.0
+5498,Imagination Movers,2008,all,NÃO,NÃO,NÃO,SIM,71.0,54.0
+5500,Secrets of the Whales,2021,7+,NÃO,NÃO,NÃO,SIM,86.0,54.0
+5501,Stuck in the Middle,2016,all,NÃO,NÃO,NÃO,SIM,61.0,53.0
+5504,MECH-X4,2016,all,NÃO,NÃO,NÃO,SIM,64.0,53.0
+5505,The Wonderful World of Mickey Mouse,2020,all,NÃO,NÃO,NÃO,SIM,78.0,53.0
+5507,The Emperor's New School,2006,all,NÃO,NÃO,NÃO,SIM,66.0,53.0
+5508,Hostile Planet,2019,7+,NÃO,NÃO,NÃO,SIM,83.0,53.0
+5509,Puppy Dog Pals,2017,all,NÃO,NÃO,NÃO,SIM,70.0,53.0
+5511,Fantastic Four,1994,7+,NÃO,NÃO,NÃO,SIM,65.0,52.0
+5512,I Didn't Do It,2014,all,NÃO,NÃO,NÃO,SIM,60.0,52.0
+5514,The Lion Guard,2016,all,NÃO,NÃO,NÃO,SIM,64.0,52.0
+5515,Pixar Popcorn,2021,7+,NÃO,NÃO,NÃO,SIM,66.0,52.0
+5516,Lab Rats: Elite Force,2016,7+,NÃO,NÃO,NÃO,SIM,65.0,52.0
+5517,A.N.T. Farm,2011,all,NÃO,NÃO,NÃO,SIM,51.0,52.0
+5518,Silver Surfer,1998,7+,NÃO,NÃO,NÃO,SIM,71.0,52.0
+5519,Muppets Now,2020,7+,NÃO,NÃO,NÃO,SIM,60.0,52.0
+5521,Sydney to the Max,2019,all,NÃO,NÃO,NÃO,SIM,63.0,52.0
+5522,Vampirina,2017,all,NÃO,NÃO,NÃO,SIM,66.0,52.0
+5523,Earth to Ned,2020,7+,NÃO,NÃO,NÃO,SIM,67.0,51.0
+5524,Best Friends Whenever,2015,all,NÃO,NÃO,NÃO,SIM,57.0,51.0
+5525,Into the Unknown: Making Frozen II,2020,7+,NÃO,NÃO,NÃO,SIM,85.0,51.0
+5526,Elena of Avalor,2016,all,NÃO,NÃO,NÃO,SIM,64.0,51.0
+5527,Prop Culture,2020,7+,NÃO,NÃO,NÃO,SIM,82.0,51.0
+5528,Fantastic Four: World's Greatest Heroes,2006,7+,NÃO,NÃO,NÃO,SIM,67.0,51.0
+5529,Jake and the Never Land Pirates,2011,all,NÃO,NÃO,NÃO,SIM,56.0,51.0
+5530,Fish Hooks,2010,all,NÃO,NÃO,NÃO,SIM,48.0,51.0
+5531,Drain the Oceans,2018,7+,NÃO,NÃO,NÃO,SIM,76.0,51.0
+5532,The Replacements,2006,7+,NÃO,NÃO,NÃO,SIM,59.0,51.0
+5533,Port Protection Alaska,2015,16+,NÃO,NÃO,NÃO,SIM,84.0,51.0
+5534,"Dr. Oakley, Yukon Vet",2014,all,NÃO,NÃO,NÃO,SIM,83.0,51.0
+5536,Marvel’s Hulk and the Agents of S.M.A.S.H,2013,7+,NÃO,NÃO,NÃO,SIM,61.0,50.0
+5537,Super Robot Monkey Team Hyperforce Go!,2004,7+,NÃO,NÃO,NÃO,SIM,62.0,50.0
+5538,Quack Pack,1996,7+,NÃO,NÃO,NÃO,SIM,68.0,50.0
+5539,Descendants: Wicked World,2015,all,NÃO,NÃO,NÃO,SIM,66.0,50.0
+5540,Muppet Babies,2018,all,NÃO,NÃO,NÃO,SIM,69.0,50.0
+5541,T.O.T.S.,2019,all,NÃO,NÃO,NÃO,SIM,69.0,50.0
+5542,One Day at Disney,2019,all,NÃO,NÃO,NÃO,SIM,73.0,50.0
+5543,Pixar in Real Life,2019,all,NÃO,NÃO,NÃO,SIM,66.0,50.0
+5544,Mighty Ducks: The Animated Series,1996,7+,NÃO,NÃO,NÃO,SIM,65.0,50.0
+5545,Star Wars: Ewoks,1985,all,NÃO,NÃO,NÃO,SIM,61.0,49.0
+5546,101 Dalmatians: The Series,1997,all,NÃO,NÃO,NÃO,SIM,62.0,49.0
+5549,BIA,2019,all,NÃO,NÃO,NÃO,SIM,67.0,49.0
+5550,Marvel's Hero Project,2019,7+,NÃO,NÃO,NÃO,SIM,61.0,49.0
+5551,Iron Man,1994,7+,NÃO,NÃO,NÃO,SIM,67.0,49.0
+5552,Coop & Cami Ask The World,2018,all,NÃO,NÃO,NÃO,SIM,59.0,49.0
+5554,My Friends Tigger & Pooh,2007,all,NÃO,NÃO,NÃO,SIM,57.0,48.0
+5556,Bizaardvark,2016,all,NÃO,NÃO,NÃO,SIM,37.0,48.0
+5558,The Mickey Mouse Club,1955,all,NÃO,NÃO,NÃO,SIM,77.0,48.0
+5561,On Pointe,2020,7+,NÃO,NÃO,NÃO,SIM,77.0,48.0
+5563,Out of the Box,1998,all,NÃO,NÃO,NÃO,SIM,75.0,48.0
+5564,Gabby Duran and the Unsittables,2019,all,NÃO,NÃO,NÃO,SIM,55.0,48.0
+5565,Dr. Ks Exotic Animal ER,2014,7+,NÃO,NÃO,NÃO,SIM,81.0,48.0
+5566,Spin and Marty,1955,all,NÃO,NÃO,NÃO,SIM,81.0,47.0
+5567,Higglytown Heroes,2004,all,NÃO,NÃO,NÃO,SIM,50.0,47.0
+5568,Bonkers,1993,all,NÃO,NÃO,NÃO,SIM,68.0,47.0
+5569,Crash & Bernstein,2012,all,NÃO,NÃO,NÃO,SIM,50.0,47.0
+5574,Randy Cunningham: Ninja Total,2012,all,NÃO,NÃO,NÃO,SIM,67.0,47.0
+5575,Pick of the Litter,2019,7+,SIM,SIM,NÃO,SIM,81.0,47.0
+5578,Mickey and the Roadster Racers,2017,all,NÃO,NÃO,NÃO,SIM,61.0,47.0
+5579,Star Wars: Forces of Destiny,2017,all,NÃO,NÃO,NÃO,SIM,50.0,47.0
+5580,Magic of Disney's Animal Kingdom,2020,7+,NÃO,NÃO,NÃO,SIM,83.0,47.0
+5581,Goldie & Bear,2015,all,NÃO,NÃO,NÃO,SIM,64.0,47.0
+5586,Adventures in Wonderland,1992,7+,NÃO,NÃO,NÃO,SIM,80.0,46.0
+5587,The Super Hero Squad Show,2009,7+,NÃO,NÃO,NÃO,SIM,61.0,46.0
+5588,Critter Fixers: Country Vets,2020,16+,NÃO,NÃO,NÃO,SIM,90.0,46.0
+5589,Great Migrations,2010,all,NÃO,NÃO,NÃO,SIM,81.0,46.0
+5592,LEGO Star Wars: Droid Tales,2015,7+,NÃO,NÃO,NÃO,SIM,75.0,46.0
+5593,Minnie's Bow-Toons,2011,all,NÃO,NÃO,NÃO,SIM,62.0,45.0
+5594,Chip 'n' Dale: Park Life,2021,all,NÃO,NÃO,NÃO,SIM,69.0,45.0
+5595,The Book of Pooh,2001,all,NÃO,NÃO,NÃO,SIM,65.0,45.0
+5597,The Avengers: United They Stand,1999,7+,NÃO,NÃO,NÃO,SIM,55.0,45.0
+5598,Walt Disney Animation Studios: Short Circuit Experimental Films,2020,all,NÃO,NÃO,NÃO,SIM,76.0,45.0
+5599,"Mira, Royal Detective",2020,all,NÃO,NÃO,NÃO,SIM,65.0,45.0
+5601,Legend of the Three Caballeros,2018,all,NÃO,NÃO,NÃO,SIM,78.0,45.0
+5603,Marvel's Future Avengers,2017,7+,NÃO,NÃO,NÃO,SIM,57.0,44.0
+5604,Just Roll With It,2019,7+,NÃO,NÃO,NÃO,SIM,50.0,44.0
+5605,101 Dalmatian Street,2019,7+,NÃO,NÃO,NÃO,SIM,63.0,44.0
+5606,Spider-Woman,1979,all,NÃO,NÃO,NÃO,SIM,58.0,44.0
+5610,Year Million,2017,16+,NÃO,NÃO,NÃO,SIM,74.0,43.0
+5611,Rogue Trip,2020,7+,NÃO,NÃO,NÃO,SIM,72.0,43.0
+5612,Fancy Nancy,2018,all,NÃO,NÃO,NÃO,SIM,55.0,43.0
+5613,America's National Parks,2015,all,NÃO,NÃO,NÃO,SIM,77.0,43.0
+5615,Lego Frozen Northern Lights,2016,all,NÃO,NÃO,NÃO,SIM,57.0,42.0
+5616,Dino Ranch,2021,all,NÃO,NÃO,NÃO,SIM,81.0,42.0
+5618,Disney's Fairy Tale Weddings,2017,7+,NÃO,NÃO,NÃO,SIM,68.0,42.0
+5620,Teacher's Pet,2000,all,NÃO,NÃO,NÃO,SIM,63.0,42.0
+5621,Henry Hugglemonster,2013,all,NÃO,NÃO,NÃO,SIM,53.0,42.0
+5622,Shop Class,2020,all,NÃO,NÃO,NÃO,SIM,72.0,42.0
+5624,The Rocketeer,2019,all,NÃO,NÃO,NÃO,SIM,63.0,42.0
+5626,Fast Layne,2019,all,NÃO,NÃO,NÃO,SIM,56.0,41.0
+5627,Weird But True!,2016,all,NÃO,NÃO,NÃO,SIM,78.0,41.0
+5628,Continent 7: Antarctica,2016,7+,NÃO,NÃO,NÃO,SIM,74.0,41.0
+5629,Marvel's Rocket & Groot,2017,7+,NÃO,NÃO,NÃO,SIM,68.0,41.0
+5630,Take Two with Phineas and Ferb,2010,7+,NÃO,NÃO,NÃO,SIM,65.0,41.0
+5631,Be our Chef,2020,all,NÃO,NÃO,NÃO,SIM,63.0,40.0
+5635,Marvel Super Hero Adventures,2017,all,NÃO,NÃO,NÃO,SIM,63.0,39.0
+5641,Animal ER,2016,16+,NÃO,NÃO,NÃO,SIM,80.0,39.0
+5645,Marvel Video Comics,2016,all,NÃO,NÃO,NÃO,SIM,66.0,38.0
+5649,Kirby Buckets,2014,7+,NÃO,NÃO,NÃO,SIM,48.0,38.0
+5650,Becoming,2020,16+,SIM,NÃO,NÃO,SIM,68.0,38.0
+5653,Mickey Mouse Funhouse,2021,all,NÃO,NÃO,NÃO,SIM,56.0,37.0
+5656,Walk the Prank,2016,7+,NÃO,NÃO,NÃO,SIM,40.0,37.0
+5659,It's a Dog's Life with Bill Farmer,2020,7+,NÃO,NÃO,NÃO,SIM,82.0,37.0
+5662,Wild Sri Lanka,2015,7+,NÃO,NÃO,NÃO,SIM,86.0,36.0
+5673,Birth of Europe,2012,all,NÃO,NÃO,NÃO,SIM,71.0,34.0
+5674,Alaska's Grizzly Gauntlet,2018,7+,NÃO,NÃO,NÃO,SIM,66.0,34.0
+5676,Billy Dilley's Super-Duper Subterranean Summer,2017,7+,NÃO,NÃO,NÃO,SIM,44.0,34.0
+5679,Disney Fam Jam,2020,all,NÃO,NÃO,NÃO,SIM,53.0,33.0
+5680,LEGO Star Wars: All-Stars,2018,7+,NÃO,NÃO,NÃO,SIM,65.0,33.0
+5682,Disney Junior Music Nursery Rhymes,2017,all,NÃO,NÃO,NÃO,SIM,60.0,32.0
+5684,Disney Family Sundays,2019,all,NÃO,NÃO,NÃO,SIM,56.0,31.0
+5687,Wild Chile,2018,7+,NÃO,NÃO,NÃO,SIM,75.0,30.0
+5688,Howie Mandel's Animals Doing Things,2018,all,NÃO,NÃO,NÃO,SIM,32.0,30.0
+5690,The Big Fib,2020,all,NÃO,NÃO,NÃO,SIM,54.0,29.0
+5691,Vampirina: Ghoul Girls Rock!,2018,all,NÃO,NÃO,NÃO,SIM,77.0,28.0
