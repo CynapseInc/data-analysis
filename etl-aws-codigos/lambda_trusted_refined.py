@@ -5,8 +5,8 @@ import boto3
 import io
 
 s3_client = boto3.client('s3')
-BUCKET_NAME_IN = "arquitetura-encanto-s3-trusted-874458981342"
-BUCKET_NAME_OUT = "arquitetura-encanto-s3-refined-874458981342"
+BUCKET_NAME_IN = "trusted-encanto"
+BUCKET_NAME_OUT = "refined-encanto"
 
 def install_dependencies():
     """Instala o matplotlib e TODAS as dependências mínimas no /tmp"""
@@ -60,7 +60,7 @@ def lambda_handler(event, context):
     try:
         key = event['Records'][0]['s3']['object']['key']
     except (KeyError, IndexError, TypeError):
-        key = 'trusted/tv_shows_trusted.csv'
+        key = 'tv_shows_trusted.csv'
         
     print(f"Lendo arquivo: {key}")
     obj = s3_client.get_object(Bucket=BUCKET_NAME_IN, Key=key)
